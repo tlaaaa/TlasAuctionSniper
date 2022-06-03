@@ -12,6 +12,8 @@
     1.1.3 optimized a bit harder
     1.1.4 tried to optimize a bit more, probably no change
     1.1.5 changed to an edu project lol x2 speed or something, also fixed some times
+    <> not really an update but connected to github
+    1.2 removed super, allowed more types of flips in f1. This makes the bot faster, means that you need to check less channels.
 
 
     
@@ -22,10 +24,8 @@ maybe more info on item,
 
 TREAT 1-4 STAR AS 0 STAR!!
 
-ignore shiny?
 
 optimize harder
-
 
 skin name
 

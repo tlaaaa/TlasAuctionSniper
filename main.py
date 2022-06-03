@@ -105,12 +105,13 @@ def auc(auction):
   try:
     if not auction['claimed'] and auction['bin'] == True and not "Furniture" in auction["item_lore"]: # if the auction isn't a) claimed and is b) BIN
       name = str(auction['item_name'])
+      if "consumables" == auction['category']:
+        return
       if auction['category'] == 'armor':
         for m in IGNOREARMOURS_Filter_LM:
           if m in name:
               return
-      if "consumables" == auction['category']:
-        return
+
       if "§dCake Soul" in auction["item_lore"]:
         return #can remove soon
       if "Rune I" in name:
