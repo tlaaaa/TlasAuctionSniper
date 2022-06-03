@@ -1,4 +1,4 @@
-            1.0.1 Added recom text
+    1.0.1 Added recom text
     1.0.2 recom text changed to up arrow
     1.0.3 ofa indicator
     1.0.4 Added newer reforges to normal sniper ignore list (tool and equipment)
