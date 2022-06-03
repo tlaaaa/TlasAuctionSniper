@@ -14,22 +14,15 @@
     1.1.5 changed to an edu project lol x2 speed or something, also fixed some times
     <> not really an update but connected to github
     1.2 removed super, allowed more types of flips in f1. This makes the bot faster, means that you need to check less channels.
-    1.3 removed pet flippers and code, fixed up some things with the code. should be faster, and nicer
+    1.3 removed pet flippers and code (its just part of the other flip channels), fixed up some things with the code. should be faster, and nicer
+    1.3.1 Indicators for some more enchants (se5, l5, ov5 etc)
 
 
     
 VVVVVVV Things to Add VVVVVVV
 
-
-maybe more info on item,
-
-TREAT 1-4 STAR AS 0 STAR!!
-
-
-optimize harder
-
-skin name
-
-remove super
-
-rarity colour (emote maybe)
+    - maybe more info on item - max ult enchants
+    - TREAT 1-4 STAR AS 0 STAR!! (at least for higher channels)
+    - optimize harder
+    - show (pet/armour) skin name
+    - rarity colour/indicator (as an emote maybe)

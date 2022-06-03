@@ -21,10 +21,7 @@ toppage = resp['totalPages']
 
 # result and prices variables
 
-results = []
 lm_results = []
-f3_results = []
-
 
 prices = {}
 
@@ -76,6 +73,7 @@ armour_weapon_meta_reforge_f3_remake = {
     'Renowned': ('Sorrow'),
 }
 
+enchantstocheck = {'Soul Eater V':'SE5', 'One For All':'OFA', 'Overload V':'Ov5', 'Legion V':'L5', 'Ultimate Wise V':'UW5', 'Pristine V':'P5' }
 
 # the lowest price an item can have
 LOWEST_PRICE = 1 #general lowest price
@@ -96,10 +94,10 @@ def pricedump():
     file.write(str(prices))  
 
 
-
 def auc(auction):
   try:
     if not auction['claimed'] and auction['bin'] == True and not "Furniture" in auction["item_lore"]: # if the auction isn't a) claimed and is b) BIN
+      lore = str(auction['item_lore'])
       name = str(auction['item_name'])
       if "consumables" == auction['category']:
         return
@@ -107,27 +105,33 @@ def auc(auction):
         for m in IGNOREARMOURS_Filter_LM:
           if m in name:
               return
-
-      if "§dCake Soul" in auction["item_lore"]:
+      if "§dCake Soul" in lore:
         return #can remove soon
       if "Rune I" in name:
         return
-      if "§ka§r" in auction["item_lore"]:
+      enchants = []
+      #extra info
+      if "§ka§r" in lore:
          name = str(" ".join([name,"(re)"]))
-      if "One For All" in auction["item_lore"]:
-        name = str(" ".join([name,"(OFA)"]))
+      for e in enchantstocheck:
+        if e in lore:
+          enchants.append(enchantstocheck[e])
+      if len(enchants):
+        name = str(" ".join([name, "".join(["("," ,".join(enchants),")"])]))
+          
+      #bad reforge fixing  
       for reforge in ignore_reforges_f2:
         name = name.replace(reforge, "")
 
     #fix if wise/strong/sup/perfect/refined pick
       if auction['category'] == 'armor':
-        if "Wise Blood" in auction["item_lore"]:
+        if "Wise Blood" in lore:
           name = str(" ".join(["Wise",name]))
-        elif "Strong Blood" in auction["item_lore"]:
+        elif "Strong Blood" in lore:
           name = str(" ".join(["Strong",name]))
         elif " - Tier" in name:
           name = str(" ".join(["Perfect",name]))
-      if "CLOAK" in auction["item_lore"] and "abilities" in auction["item_lore"]:
+      if "CLOAK" in lore and "abilities" in lore:
         name = str(" ".join(["Ancient",name]))
       if "Crab Hat of Celebration" in name:
         for color in COLOR:
@@ -156,8 +160,6 @@ def auc(auction):
         index = str(" ".join([plevel, name, tier]))
       else:
         index = sub("\[[^\]]*\]", "", " ".join([name, tier]))                        
-
-
    #print("indexes formatted "+ str(default_timer() - datastart))
 
 #if price is bad, just return
@@ -173,13 +175,11 @@ def auc(auction):
               prices[index][0] = auction['starting_bid']
           elif prices[index][1] > auction['starting_bid']:
               prices[index][1] = auction['starting_bid']
-          #elif prices[index][1] < auction['starting_bid']:
-              #return
+
 # VV otherwise, it's added to the prices map
       else:
         prices[index] = [auction['starting_bid'], float("inf")]
                           
-
       #print("indexed "+ str(default_timer() - datastart))
 
       if auction['start']+60000 < now:
@@ -243,10 +243,9 @@ def main():
     flipstart = default_timer()
     pricedump()
     # Resets variables
-    global results, lm_results, prices, START_TIME, scanned
+    global lm_results, prices, START_TIME, scanned
     scanned = int(0)
     START_TIME = default_timer()
-    results = []
     lm_results = []
     prices = {}
     
@@ -263,7 +262,7 @@ def main():
     t = time.localtime()
     current_time = time.strftime("%H:%M:%S", t)
     print("main() done " + str(round(default_timer() - flipstart, 3)))
-    print(str(scanned) + ' auctions scanned')
+    #print(str(scanned) + ' auctions scanned')
     print(current_time + ' flips calculated')
  
 
