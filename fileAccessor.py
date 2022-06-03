@@ -87,7 +87,7 @@ async def check_logs():
         
         # #ah-sniper-f2
 
-        with open(f2log, 'r+') as f:
+        '''with open(f2log, 'r+') as f:
             if path.getsize(f2log) > 0:
                 lines = [line.rstrip() for line in f]
                 try:
@@ -101,7 +101,7 @@ async def check_logs():
                     await f2channel.send(embed=embed)
                     f.truncate(0)
                 except:
-                    pass
+                    pass'''
         
         #ah-sniper-f2-v2
 

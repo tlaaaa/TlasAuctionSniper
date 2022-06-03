@@ -24,11 +24,9 @@ toppage = resp['totalPages']
 results = []
 lm_results = []
 f3_results = []
-pet_results = []
 
 
 prices = {}
-pet_prices = {}
 
 # parts to remove
 
@@ -96,9 +94,7 @@ def pricedump():
   with open("prices.txt","w") as file:
     file.truncate(0)
     file.write(str(prices))  
-  with open("petprices.txt","w") as file:
-    file.truncate(0)
-    file.write(str(pet_prices))  
+
 
 
 def auc(auction):
@@ -141,7 +137,6 @@ def auc(auction):
       tier = str(auction['tier'])
                       
       if 'Right-click to add this pet to' in auction['item_lore']:
-        petname = name
         name = sub("[\[\]]", "", name)
         p = name.split(" ")
         plevel = int(p[1])
@@ -158,17 +153,16 @@ def auc(auction):
           plevel = "lvl100"
         p = p[2:]
         name = " ".join(p)
-        petindex = str(" ".join([plevel, name, tier]))
-        index = sub("\[[^\]]*\]", "", " ".join([petname, tier]))
+        index = str(" ".join([plevel, name, tier]))
       else:
         index = sub("\[[^\]]*\]", "", " ".join([name, tier]))                        
-        petindex = ""
+
 
    #print("indexes formatted "+ str(default_timer() - datastart))
 
-#if price is bad and not pet, just return
+#if price is bad, just return
       if index in prices:
-        if prices[index][1] < auction['starting_bid'] and petindex == "":
+        if prices[index][1] < auction['starting_bid']:
           return
 
           
@@ -186,27 +180,13 @@ def auc(auction):
         prices[index] = [auction['starting_bid'], float("inf")]
                           
 
-#pet flipper
-      if petindex != "":
-        if petindex in pet_prices:
-          if pet_prices[petindex][0] > auction['starting_bid']:
-            pet_prices[petindex][1] = pet_prices[petindex][0]
-            pet_prices[petindex][0] = auction['starting_bid']
-          elif pet_prices[petindex][1] > auction['starting_bid']:
-            pet_prices[petindex][1] = auction['starting_bid']
-        else:
-          pet_prices[petindex] = [auction['starting_bid'], float("inf")]
-
-
       #print("indexed "+ str(default_timer() - datastart))
 
       if auction['start']+60000 < now:
         return
                               
 
-      if petindex != "":
-        if pet_prices[petindex][0]/pet_prices[petindex][1] < LARGE_MARGIN_P_M and pet_prices[petindex][1] - pet_prices[petindex][0] >= LARGE_MARGIN:
-            pet_results.append([auction['uuid'], petindex, auction['starting_bid'], petindex])         
+      
 # vv since f3_maxcost is larger than large_margin_maxcost, i can check to see if large_margin_maxcost within f3_maxcost
           
       if prices[index][0]/prices[index][1] < LARGE_MARGIN_P_M and prices[index][1] - prices[index][0] >= LARGE_MARGIN and prices[index][0] <= F3_MAXCOST:
@@ -263,13 +243,11 @@ def main():
     flipstart = default_timer()
     pricedump()
     # Resets variables
-    global results, lm_results, prices, pet_results, pet_prices, START_TIME, scanned
+    global results, lm_results, prices, START_TIME, scanned
     scanned = int(0)
     START_TIME = default_timer()
     results = []
     lm_results = []
-    pet_results = []
-    pet_prices = {}
     prices = {}
     
     loop = asyncio.new_event_loop()
@@ -281,7 +259,7 @@ def main():
 
     if len(lm_results): 
       lm_results = [[entry, prices[entry[3]][1]] for entry in lm_results if (entry[2] > LOWEST_PRICE and prices[entry[3]][1] != float('inf') and prices[entry[3]][0] == entry[2] and prices[entry[3]][0]/prices[entry[3]][1] < LARGE_MARGIN_P_M and prices[entry[3]][1] - prices[entry[3]][0] >= LARGE_MARGIN and prices[entry[3]][0] <= LARGE_MARGIN_MAXCOST)]
-    if len(pet_results): pet_results = [[entry, pet_prices[entry[3]][1]] for entry in pet_results if (entry[2] > LOWEST_PRICE and pet_prices[entry[3]][1] != float('inf') and pet_prices[entry[3]][0] == entry[2] and pet_prices[entry[3]][0]/pet_prices[entry[3]][1] < LARGE_MARGIN_P_M and pet_prices[entry[3]][1] - pet_prices[entry[3]][0] >= LARGE_MARGIN and pet_prices[entry[3]][0] <= LARGE_MARGIN_MAXCOST)]
+
     t = time.localtime()
     current_time = time.strftime("%H:%M:%S", t)
     print("main() done " + str(round(default_timer() - flipstart, 3)))
@@ -319,11 +297,7 @@ def main():
                         toprint = "\n" + "/viewauction `" + str(result[0][0]) + "` | Item: `" + str(result[0][1]) + "` | Price: `{:,}`".format(result[0][2]) + " | Second Lowest BIN: `{:,}`".format(result[1])
                         fAp4.write(toprint)
     
-    if len(pet_results):
-        for result in pet_results:
-            with open('./fliplogs/pet_logs.txt', 'a') as fAp5:
-                toprint = "\n" + "/viewauction `" + str(result[0][0]) + "` | Item: `" + str(result[0][1]) + "` | Price: `{:,}`".format(result[0][2]) + " | Second Lowest BIN: `{:,}`".format(result[1])
-                fAp5.write(toprint)
+
 
 
 print("main started")

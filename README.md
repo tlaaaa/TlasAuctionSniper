@@ -14,6 +14,7 @@
     1.1.5 changed to an edu project lol x2 speed or something, also fixed some times
     <> not really an update but connected to github
     1.2 removed super, allowed more types of flips in f1. This makes the bot faster, means that you need to check less channels.
+    1.3 removed pet flippers and code, fixed up some things with the code. should be faster, and nicer
 
 
     
