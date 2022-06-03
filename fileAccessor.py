@@ -1,15 +1,22 @@
-import discord
+from discord import Embed
 from discord.ext import commands
+from asyncio import sleep 
+from os import path
+from collections import OrderedDict
 import time
-import os
-import collections
-from TOKEN import TOKEN
 
-bot = commands.Bot(command_prefix = 'fa.')
+import os
+TOKEN = os.getenv("TOKEN")
+
+os.environ['TZ'] = 'Australia/Sydney'
+time.tzset()
+
+
+bot = commands.Bot(command_prefix = '.')
 
 def sort_margins(margins):
     try:
-        sorteddict = collections.OrderedDict(sorted(margins.items(), reverse=True))
+        sorteddict = OrderedDict(sorted(margins.items(), reverse=True))
         #sorted_dict_to_list = sorted(margins, key = lambda tup: tup[0], reverse=True)
         #return sorted_dict_to_list
         return sorteddict
@@ -32,61 +39,48 @@ def get_margin(auctions):
             priceii_v = int(priceii_iv)
 
             margin = (priceii_v - pricei_v)
+            #v nicer recom name
 
-            if margin <= 50000000:
+            if margin <= 500000000: #WHY???
                 new_auction_list[margin] = auc
     if new_auction_list != {}: return new_auction_list
 
 async def check_logs():
-    channel = bot.get_channel(949012493047578624) #unused xd
-    lm_channel = bot.get_channel(949012556100554752)
-    f2channel = bot.get_channel(950467930032848977)
-    f2_2channel = bot.get_channel(955488324431253584)
-    f3channel = bot.get_channel(951851755015114772)
-    superchannel = bot.get_channel(953404693156089937)
-    #super2channel = bot.get_channel()#make channel soon
-    petchannel = bot.get_channel(959984499905675304)
-    log = './fliplogs/logs.txt' #unused xd
+    lm_channel = bot.get_channel(977539449837731911)
+    f2channel = bot.get_channel(977539503877136384)
+    f2_2channel = bot.get_channel(977539531538567200)
+    f3channel = bot.get_channel(977539588748890132)
+    superchannel = bot.get_channel(977539637914501151)
+    petchannel = bot.get_channel(977539653949358090)
     lmlog = './fliplogs/logs_f1.txt'
     f2log = './fliplogs/logs_f2.txt'
     f2_2log = './fliplogs/logs_f2_2.txt'
     f3log = './fliplogs/logs_f3.txt'
-    logsuper = './fliplogs/logs_s.txt'
     logsuper2 = './fliplogs/logs_s2.txt'
     petlog = './fliplogs/pet_logs.txt'
     try:
-
-        # part for #auction-sniper-main
-
-        '''
-        
-        #main sniper gone cuz bad #4
-        
-        with open(log, 'r+') as f:
-            if os.path.getsize('./fliplogs/logs.txt') > 0:
-                lines = [line.rstrip() for line in f]
-                for d in lines:
-                    if d != '': 
-                        await channel.send(d)
-                f.truncate(0)'''
-
         # part for #ah-sniper-f1
-
         with open(lmlog, 'r+') as f:
-            if os.path.getsize('./fliplogs/logs_f1.txt') > 0:
+            if path.getsize('./fliplogs/logs_f1.txt') > 0:
+
                 lines = [line.rstrip() for line in f]
                 try:
                     slist = sort_margins(get_margin(lines))
                     await lm_channel.purge(limit=5)
                     
-                    embed = discord.Embed(title='Current Top Flips (1M Margin) 1st Filter')
+                    embed = Embed(title='Current Top Flips (1M Margin) 1st Filter')
                     
                     slistcut = list(slist.items())[:10]
                     
                     for i, (margin, aucstr) in enumerate(slistcut):
+                        aucstr = aucstr.replace('(re)','🔼')
                         #aucstr = tup[1]
                         embed.add_field(name=str(i+1)+'.', value=aucstr, inline=False)
                     await lm_channel.send(embed=embed)
+                
+                    t = time.localtime()
+                    current_time = time.strftime("%H:%M:%S", t)
+                    print(current_time + ' flips sent')
                     f.truncate(0)
                 except:
                     pass
@@ -94,14 +88,15 @@ async def check_logs():
         # #ah-sniper-f2
 
         with open(f2log, 'r+') as f:
-            if os.path.getsize(f2log) > 0:
+            if path.getsize(f2log) > 0:
                 lines = [line.rstrip() for line in f]
                 try:
                     slist = sort_margins(get_margin(lines))
                     await f2channel.purge(limit=5)
-                    embed = discord.Embed(title='Current Top Flips (1M Margin) 2nd Filter')
+                    embed = Embed(title='Current Top Flips (1M Margin) 2nd Filter')
                     slistcut = list(slist.items())[:10]
                     for i, (margin, aucstr) in enumerate(slistcut):
+                        aucstr = aucstr.replace('(re)','🔼')
                         embed.add_field(name=str(i+1)+'.', value=aucstr, inline=False)
                     await f2channel.send(embed=embed)
                     f.truncate(0)
@@ -111,14 +106,15 @@ async def check_logs():
         #ah-sniper-f2-v2
 
         with open(f2_2log, 'r+') as f:
-            if os.path.getsize(f2_2log) > 0:
+            if path.getsize(f2_2log) > 0:
                 lines = [line.rstrip() for line in f]
                 try:
                     slist = sort_margins(get_margin(lines))
                     await f2_2channel.purge(limit=5)
-                    embed = discord.Embed(title='Current Top Flips (1M Margin) 2nd Filter v2')
+                    embed = Embed(title='Current Top Flips (1M Margin) 2nd Filter v2')
                     slistcut = list(slist.items())[:10]
                     for i, (margin, aucstr) in enumerate(slistcut):
+                        aucstr = aucstr.replace('(re)','🔼')
                         embed.add_field(name=str(i+1)+'.', value=aucstr, inline=False)
                     await f2_2channel.send(embed=embed)
                     f.truncate(0)
@@ -126,14 +122,15 @@ async def check_logs():
                     pass
 
         with open(f3log, 'r+') as f:
-            if os.path.getsize(f3log) > 0:
+            if path.getsize(f3log) > 0:
                 lines = [line.rstrip() for line in f]
                 try:
                     slist = sort_margins(get_margin(lines))
                     await f3channel.purge(limit=5)
-                    embed = discord.Embed(title='Currently Top Flips (1M Margin) 3rd Filter')
+                    embed = Embed(title='Top Flips (1M Margin) 3rd Filter')
                     slistcut = list(slist.items())[:10]
                     for i, (margin, aucstr) in enumerate(slistcut):
+                        aucstr = aucstr.replace('(re)','🔼')
                         embed.add_field(name=str(i+1)+'.', value=aucstr, inline=False)
                     await f3channel.send(embed=embed)
                     f.truncate(0)
@@ -141,19 +138,20 @@ async def check_logs():
                     pass
 
         # ah-sniper-super
-
-        with open(logsuper, 'r+') as f:
+        '''
+        with open(logsuper2, 'r+') as f:
             try:
-                if os.path.getsize(logsuper) > 0:
+                if path.getsize(logsuper2) > 0:
                     lines = [line.rstrip() for line in f]
                     for d in lines:
                         if d != '': 
+                            d = d.replace('(re)','🔼')
                             await superchannel.send(d)
                     f.truncate(0)
             except:
                 pass
 
-        '''with open(logsuper2, 'r+') as f:
+        with open(logsuper2, 'r+') as f:
             try:
                 if os.path.getsize(logsuper2) > 0:
                     lines = [line.rstrip() for line in f]
@@ -168,12 +166,12 @@ async def check_logs():
         #pet results
 
         with open(petlog, 'r+') as f:
-            if os.path.getsize(petlog) > 0:
+            if path.getsize(petlog) > 0:
                 lines = [line.rstrip() for line in f]
                 try:
                     slist = sort_margins(get_margin(lines))
                     await petchannel.purge(limit=5)
-                    embed = discord.Embed(title='Current Top Pet Flips (1M Margin)')
+                    embed = Embed(title='Current Top Pet Flips (1M Margin)')
                     slistcut = list(slist.items())[:10]
                     for i, (margin, aucstr) in enumerate(slistcut):
                         embed.add_field(name=str(i+1)+'.', value=aucstr, inline=False)
@@ -186,11 +184,22 @@ async def check_logs():
     except FileNotFoundError:
         pass
 
+
 @bot.command(name = 'run')
 async def start_check(ctx):
-    if ctx.author.id == 488730568209465344:
-        while True:
+      print('bot started')
+      while 1: #bro i dont get python
             await check_logs()
-            time.sleep(10)
+            await sleep(0.25)
+
+
+@bot.event
+async def on_ready():
+  #start = input('Start bot? (y/n)')
+  #if str(start) == 'y':
+      print('bot started')
+      while 1:
+            await check_logs()
+            await sleep(0.25)
 
 bot.run(TOKEN)
