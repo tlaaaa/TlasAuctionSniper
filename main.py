@@ -127,7 +127,7 @@ def auc(auction):
       if "Crab Hat of Celebration" in name or "Repelling Candle" in name:
         for color in COLOR:
           name = name.replace(color, "")
-          
+      cleanindex = " ".join([name, auction['tier']])
       enchants = []
       #extra info
       if "§ka§r" in lore:
@@ -160,9 +160,9 @@ def auc(auction):
         p = p[2:]
         name = " ".join(p)
         index = str(" ".join([plevel, name, tier]))
+        cleanindex = index
       else:
         index = sub("\[[^\]]*\]", "", " ".join([name, tier]))  
-      cleanindex = auction['item_name']
       for star in STARS:
         cleanindex = cleanindex.replace(star, "")
       for reforge in REFORGES:
@@ -282,8 +282,8 @@ def main():
       for e in range(len(lm_results)):
         entry = lm_results[e]
         if (prices[entry[3]][1] != float('inf') and prices[entry[3]][0] == entry[2] and prices[entry[3]][0]/prices[entry[3]][1] < LARGE_MARGIN_P_M and prices[entry[3]][1] - prices[entry[3]][0] >= LARGE_MARGIN and prices[entry[3]][0] <= LARGE_MARGIN_MAXCOST):
-          #print(entry)
-          if len(lm_results[e]) == 5:
+          print(entry)
+          if len(lm_results[e]) == 4:
             lm_results[e] = lm_results[e] + [prices[entry[1]][1]]
           else:
             lm_results[e] = lm_results[e] + [prices[entry[1]][1]]
