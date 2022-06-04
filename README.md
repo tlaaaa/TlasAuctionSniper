@@ -17,6 +17,7 @@
     1.3 removed pet flippers and code (its just part of the other flip channels), fixed up some things with the code. should be faster, and nicer
     1.3.1 Indicators for some more enchants (se5, l5, ov5 etc)
     1.4 !!! Shows clean prices on items, rarity indicator changed to an emote instead of the longer text! Lowest BIN -> LBIN
+    1.4.1 bug fixes and added master stars to clean calculation
 
     
 VVVVVVV Things to Add VVVVVVV

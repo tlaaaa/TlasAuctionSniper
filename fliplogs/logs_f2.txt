@@ -1,0 +1,38 @@
+
+/viewauction `f751cd6007c24e0e942605b8d14cb074` | Item: `⚚ Ancient Shadow Assassin Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `5,000,000` | Second LBIN: `7,000,000` | Clean LBIN `5,000,000`
+/viewauction `271439f5190d49d2991445079f28f7e2` | Item: `⚚ Adaptive Helmet ✪✪✪✪✪ EPIC` | Price: `1,000,000` | Second LBIN: `3,500,000` | Clean LBIN `1,000,000`
+/viewauction `52154b9aae714da18c279a81fa80a88a` | Item: `Wild Strawberry Dye EPIC` | Price: `40,000,000` | Second LBIN: `46,000,000`
+/viewauction `55a1fe4bde52464da5de4c767d985826` | Item: `Withered Giant's Sword (re) MYTHIC` | Price: `191,999,999` | Second LBIN: `233,333,333` | Clean LBIN `189,500,000`
+/viewauction `72dd4a7e9581473ababf7a36dc593b7e` | Item: `Bat Person Boots LEGENDARY` | Price: `800,000` | Second LBIN: `2,000,000`
+/viewauction `9d3909a0f0eb4019b6d6f38949d0f861` | Item: `Spiritual Juju Shortbow ✪✪ EPIC` | Price: `18,500,000` | Second LBIN: `50,000,000` | Clean LBIN `18,299,000`
+/viewauction `bd415422736b4e188b5ba1361f72518d` | Item: `Bat Person Boots LEGENDARY` | Price: `800,000` | Second LBIN: `2,000,000`
+/viewauction `9d3909a0f0eb4019b6d6f38949d0f861` | Item: `Spiritual Juju Shortbow ✪✪ EPIC` | Price: `18,500,000` | Second LBIN: `50,000,000` | Clean LBIN `18,299,000`
+/viewauction `bd415422736b4e188b5ba1361f72518d` | Item: `Bat Person Boots LEGENDARY` | Price: `800,000` | Second LBIN: `2,000,000`
+/viewauction `8cd0d3293e2d4396b739cba2a4bc1a38` | Item: `⚚ Shadow Assassin Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `19,500,000` | Second LBIN: `22,000,000` | Clean LBIN `17,000,000`
+/viewauction `b19ca638b22e48ffba97035b908a3c9f` | Item: `Ancient Golden Livid Head ✪✪✪✪✪ SPECIAL` | Price: `1,500,000` | Second LBIN: `3,990,000` | Clean LBIN `600,000`
+/viewauction `24c73d9c6cf64fd980fe683ca7fda73f` | Item: `Ancient Tarantula Helmet ✪✪✪✪✪ EPIC` | Price: `2,300,000` | Second LBIN: `3,490,000` | Clean LBIN `499,998`
+/viewauction `6c6c2685fd404cc69c7b8ebdc239f2f4` | Item: `Spiritual Bonemerang ✪✪✪✪✪ (Ov5) LEGENDARY` | Price: `5,000,000` | Second LBIN: `6,500,000` | Clean LBIN `4,600,000`
+/viewauction `e9eaa071bfe54d6c915b50fa949e9696` | Item: `Wise Dragon Boots ✪✪✪✪✪ LEGENDARY` | Price: `1,000,000` | Second LBIN: `2,000,000` | Clean LBIN `900,000`
+/viewauction `332d3bf58a89411f8e951de15a17a164` | Item: `lvl>95 Tiger EPIC` | Price: `5,000,000` | Second LBIN: `7,900,000`
+/viewauction `53038d3b6c8f4143ab3332a94b9a4e8b` | Item: `⚚ Ancient Shadow Assassin Helmet ✪✪✪✪✪ ✦ (re) MYTHIC` | Price: `10,200,000` | Second LBIN: `13,000,000` | Clean LBIN `6,800,000`
+/viewauction `19e481e2e327472380710bd80325ba45` | Item: `Reindeer Minion Skin COMMON` | Price: `12,500,000` | Second LBIN: `13,999,999`
+/viewauction `439a45c1a35b4bbd9282f79c790cfd43` | Item: `Ancient Terror Boots (re) MYTHIC` | Price: `11,000,000` | Second LBIN: `20,000,000` | Clean LBIN `11,000,000`
+/viewauction `1b7f164a825a48e1b204f2de4cc8f3e4` | Item: `Bonzo's Mask ✪✪✪✪ RARE` | Price: `550,000` | Second LBIN: `1,599,999` | Clean LBIN `500,000`
+/viewauction `c9c0d9748cfd455fb5d52b428a6bd516` | Item: `Giant Reaper Mask ✪✪✪✪✪➊ (re) MYTHIC` | Price: `27,000,000` | Second LBIN: `31,313,131` | Clean LBIN `27,000,000`
+/viewauction `8a5628e4bf7a43d7a40c0fd413c8c837` | Item: `Terminator ✪✪✪✪✪➍ (re) (SE5 ,Ov5) MYTHIC` | Price: `806,000` | Second LBIN: `748,889,898` | Clean LBIN `806,000`
+/viewauction `21528f94a595495b85470583d2dea1f7` | Item: `⚚ Adaptive Helmet ✪✪✪✪✪ EPIC` | Price: `1,550,000` | Second LBIN: `3,500,000` | Clean LBIN `1,400,000`
+/viewauction `39f4681f8cc445d38e42a4b62ab6727d` | Item: `lvl>90 Baby Yeti EPIC` | Price: `12,000,000` | Second LBIN: `14,000,000`
+/viewauction `31d440aacdf746699e00401a8c71d230` | Item: `Giant Mender Crown ✪✪✪✪✪ (re) LEGENDARY` | Price: `13,400,000` | Second LBIN: `16,000,000` | Clean LBIN `13,400,000`
+/viewauction `65ae0a9ae1d348d886eff323f760a7f4` | Item: `Withered Axe of the Shredded ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `62,990,000` | Second LBIN: `150,000,000` | Clean LBIN `59,999,999`
+/viewauction `d69757da07c2489086ed4e3971fb24d1` | Item: `Flower of Truth ✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `12,000,000` | Clean LBIN `9,000,000`
+/viewauction `d2c2dc36f6de4bdd9fb1ef129a893dbc` | Item: `Travel Scroll to Magma Fields EPIC` | Price: `1,490,000` | Second LBIN: `19,999,000`
+/viewauction `9a95702e073a47baa1eba8fe720f4a3e` | Item: `Submerged Shark Scale Boots (re) MYTHIC` | Price: `5,400,000` | Second LBIN: `6,700,000` | Clean LBIN `4,990,000`
+/viewauction `1fcd4906847f4f7bb493122f46350ad4` | Item: `lvl>75 Dolphin RARE` | Price: `1,300,000` | Second LBIN: `2,600,000`
+/viewauction `4f1823e84bbc4c1fbd84681a8fd2ee4a` | Item: `Fabled Voidedge Katana RARE` | Price: `750,000` | Second LBIN: `1,800,000` | Clean LBIN `620,000`
+/viewauction `bc24e7da64c64baa92cf710d1fb2d930` | Item: `Autopet Rules 2-Pack SPECIAL` | Price: `7,000,000` | Second LBIN: `8,350,000`
+/viewauction `d69757da07c2489086ed4e3971fb24d1` | Item: `Flower of Truth ✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `12,000,000` | Clean LBIN `9,000,000`
+/viewauction `d2c2dc36f6de4bdd9fb1ef129a893dbc` | Item: `Travel Scroll to Magma Fields EPIC` | Price: `1,490,000` | Second LBIN: `19,999,000`
+/viewauction `9a95702e073a47baa1eba8fe720f4a3e` | Item: `Submerged Shark Scale Boots (re) MYTHIC` | Price: `5,400,000` | Second LBIN: `6,700,000` | Clean LBIN `4,990,000`
+/viewauction `1fcd4906847f4f7bb493122f46350ad4` | Item: `lvl>75 Dolphin RARE` | Price: `1,300,000` | Second LBIN: `2,600,000`
+/viewauction `4f1823e84bbc4c1fbd84681a8fd2ee4a` | Item: `Fabled Voidedge Katana RARE` | Price: `750,000` | Second LBIN: `1,800,000` | Clean LBIN `620,000`
+/viewauction `bc24e7da64c64baa92cf710d1fb2d930` | Item: `Autopet Rules 2-Pack SPECIAL` | Price: `7,000,000` | Second LBIN: `8,350,000`

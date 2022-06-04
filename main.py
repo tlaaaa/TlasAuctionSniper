@@ -28,6 +28,7 @@ prices = {}
 # parts to remove
 
 STARS = (" ✦", "⚚ ", " ✪", "✪")
+MSTARS = ('➊', '➋', '➌', '➍', '➎')
 REFORGES = ("Withered ", "Fabled ", "Gilded ", "Warped ", "Jaded ", "Loving ", "Renowned ", "Giant ", "Ancient ", "Spiritual ", "Submerged "
 ) #only those that arent in ignore reforges f2
 COLOR = ("Red ", "Orange ", "Yellow ", "Lime ", "Green ", "Aqua ", "Purple ", "Pink ", "Black ")
@@ -165,6 +166,8 @@ def auc(auction):
         index = sub("\[[^\]]*\]", "", " ".join([name, tier]))  
       for star in STARS:
         cleanindex = cleanindex.replace(star, "")
+      for mstar in MSTARS:
+        cleanindex = cleanindex.replace(mstar, "")
       for reforge in REFORGES:
         cleanindex = cleanindex.replace(reforge, "")
       if cleanindex == index:
@@ -282,7 +285,7 @@ def main():
       for e in range(len(lm_results)):
         entry = lm_results[e]
         if (prices[entry[3]][1] != float('inf') and prices[entry[3]][0] == entry[2] and prices[entry[3]][0]/prices[entry[3]][1] < LARGE_MARGIN_P_M and prices[entry[3]][1] - prices[entry[3]][0] >= LARGE_MARGIN and prices[entry[3]][0] <= LARGE_MARGIN_MAXCOST):
-          print(entry)
+          #print(entry)
           if len(lm_results[e]) == 4:
             lm_results[e] = lm_results[e] + [prices[entry[1]][1]]
           else:
