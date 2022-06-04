@@ -16,13 +16,13 @@
     1.2 removed super, allowed more types of flips in f1. This makes the bot faster, means that you need to check less channels.
     1.3 removed pet flippers and code (its just part of the other flip channels), fixed up some things with the code. should be faster, and nicer
     1.3.1 Indicators for some more enchants (se5, l5, ov5 etc)
-
+    1.4 !!! Shows clean prices on items, rarity indicator changed to an emote instead of the longer text! Lowest BIN -> LBIN
 
     
 VVVVVVV Things to Add VVVVVVV
 
-    - maybe more info on item - max ult enchants
-    - TREAT 1-4 STAR AS 0 STAR!! (at least for higher channels)
+    - ~~maybe more info on items max ult enchants~~
+    - ~~TREAT 1-4 STAR AS 0 STAR!! (at least for higher channels)~~ kinda
     - optimize harder
     - show (pet/armour) skin name
-    - rarity colour/indicator (as an emote maybe)
+    - ~~rarity colour/indicator (as an emote maybe)~~

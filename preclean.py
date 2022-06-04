@@ -30,7 +30,7 @@ prices = {}
 STARS = (" ✦", "⚚ ", " ✪", "✪")
 REFORGES = ("Withered ", "Fabled ", "Gilded ", "Warped ", "Jaded ", "Loving ", "Renowned ", "Giant ", "Ancient ", "Spiritual ", "Submerged "
 ) #only those that arent in ignore reforges f2
-COLOR = ("Red ", "Orange ", "Yellow ", "Lime ", "Green ", "Aqua ", "Purple ", "Pink ", "Black ")
+COLOR = ("Red ", "Orange ", "Yellow ", "Lime ", "Green ", "Aqua ", "Purple ", "Pink ", "Black ", "White ")
 
 ignore_reforges_f2 = ( #rework to include all blacksmith and uselees stones
     #swords
@@ -136,10 +136,8 @@ def auc(auction):
         if e in lore:
           enchants.append(enchantstocheck[e])
       if len(enchants):
-        ench = "".join([" ", "(", " ,".join(enchants),")"])
-        name = str("".join([name, ench]))
-      else:
-        ench = ""
+        name = str(" ".join([name, "".join(["("," ,".join(enchants),")"])]))
+      
       tier = str(auction['tier'])
                       
       if 'Right-click to add this pet to' in auction['item_lore']:
@@ -161,21 +159,18 @@ def auc(auction):
         name = " ".join(p)
         index = str(" ".join([plevel, name, tier]))
       else:
-        index = sub("\[[^\]]*\]", "", " ".join([name, tier]))  
-      cleanindex = auction['item_name']
-      for star in STARS:
-        cleanindex = cleanindex.replace(star, "")
-      for reforge in REFORGES:
-        cleanindex = cleanindex.replace(reforge, "")
-      if cleanindex == index:
-        cleanindex = ""
-      
+        index = sub("\[[^\]]*\]", "", " ".join([name, tier]))              
+        cleanindex = index.replace(e, "")
+        cleanindex = cleanindex.replace("✪", "")
+        
    #print("indexes formatted "+ str(default_timer() - datastart))
+
 #if price is bad, just return
       if index in prices:
         if prices[index][1] < auction['starting_bid']:
           return
 
+          
     # VV if the current item already has a price in the prices map, the price is updated                     
       if index in prices:
           if prices[index][0] > auction['starting_bid']:
@@ -183,20 +178,10 @@ def auc(auction):
               prices[index][0] = auction['starting_bid']
           elif prices[index][1] > auction['starting_bid']:
               prices[index][1] = auction['starting_bid']
+
 # VV otherwise, it's added to the prices map
       else:
         prices[index] = [auction['starting_bid'], float("inf")]
-
-        #do same for cleanindex!
-      if cleanindex != "":
-        if cleanindex in prices:
-          if prices[cleanindex][0] > auction['starting_bid']:
-              prices[cleanindex][1] = prices[cleanindex][0]
-              prices[cleanindex][0] = auction['starting_bid']
-          elif prices[cleanindex][1] > auction['starting_bid']:
-              prices[cleanindex][1] = auction['starting_bid']
-        else:
-          prices[cleanindex] = [auction['starting_bid'], float("inf")]
                           
       #print("indexed "+ str(default_timer() - datastart))
 
@@ -209,10 +194,7 @@ def auc(auction):
           
       if prices[index][0]/prices[index][1] < LARGE_MARGIN_P_M and prices[index][1] - prices[index][0] >= LARGE_MARGIN and prices[index][0] <= F3_MAXCOST:
         if prices[index][0] <= LARGE_MARGIN_MAXCOST:
-          if cleanindex:
-            lm_results.append([auction['uuid'], index, auction['starting_bid'], index, cleanindex])
-          else:
-            lm_results.append([auction['uuid'], index, auction['starting_bid'], index])
+            lm_results.append([auction['uuid'], sub(tier, "", index), auction['starting_bid'], index])
           
   except Exception as e:
     print("error! "+ str(e))
@@ -278,19 +260,8 @@ def main():
     # Makes sure all the results are still up to date
 
     if len(lm_results): 
-      #print(str(lm_results))
-      for e in range(len(lm_results)):
-        entry = lm_results[e]
-        if (prices[entry[3]][1] != float('inf') and prices[entry[3]][0] == entry[2] and prices[entry[3]][0]/prices[entry[3]][1] < LARGE_MARGIN_P_M and prices[entry[3]][1] - prices[entry[3]][0] >= LARGE_MARGIN and prices[entry[3]][0] <= LARGE_MARGIN_MAXCOST):
-          #print(entry)
-          if len(lm_results[e]) == 4:
-            lm_results[e] = lm_results[e] + [prices[entry[1]][1]]
-          else:
-            lm_results[e] = lm_results[e] + [prices[entry[1]][1]]
-            lm_results[e] = lm_results[e] + [prices[entry[4]][0]]
-          #print(str(lm_results[e]))
-        else:
-          lm_results[e] = ""
+      lm_results = [[entry, prices[entry[3]][1]] for entry in lm_results if (entry[2] > LOWEST_PRICE and prices[entry[3]][1] != float('inf') and prices[entry[3]][0] == entry[2] and prices[entry[3]][0]/prices[entry[3]][1] < LARGE_MARGIN_P_M and prices[entry[3]][1] - prices[entry[3]][0] >= LARGE_MARGIN and prices[entry[3]][0] <= LARGE_MARGIN_MAXCOST)]
+
     t = time.localtime()
     current_time = time.strftime("%H:%M:%S", t)
     print("main() done " + str(round(default_timer() - flipstart, 3)))
@@ -302,36 +273,31 @@ def main():
 
     if len(lm_results):
         for result in lm_results:
-          if result != "":
             #print(result)
             with open('./fliplogs/logs_f1.txt', 'a') as fAp2:
-              if len(result) == 7:
-                toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[5]) + " | Clean LBIN `{:,}`".format(result[6])
-              else:
-                toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[4])
-              fAp2.write(toprint)
-              #print(toprint)
+                toprint = "\n" + "/viewauction `" + str(result[0][0]) + "` | Item: `" + str(result[0][1]) + "` | Price: `{:,}`".format(result[0][2]) + " | Second Lowest BIN: `{:,}`".format(result[1])
+                fAp2.write(toprint)
+                #fAp.close()
+                #print(toprint)
             with open('./fliplogs/logs_f2.txt', 'a') as fAp3:
-                  if len(result) == 7:
-                    toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[5]) + " | Clean LBIN `{:,}`".format(result[6])
-                  else:
-                    toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[4])
-                  fAp3.write(toprint)
+                truechecker = []
+                if not False in truechecker:
+                    toprint = "\n" + "/viewauction `" + str(result[0][0]) + "` | Item: `" + str(result[0][1]) + "` | Price: `{:,}`".format(result[0][2]) + " | Second Lowest BIN: `{:,}`".format(result[1])
+                    fAp3.write(toprint)
             with open('./fliplogs/logs_f2_2.txt', 'a') as fAp3_2:
-                if ('✪' not in str(result[1]) or str(result[1]).count('✪') == 5):
-                  if len(result) == 7:
-                    toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[5]) + " | Clean LBIN `{:,}`".format(result[6])
-                  else:
-                    toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[4])
-                  fAp3_2.write(toprint)
+                truechecker2 = []
+                if ('✪' not in str(result[0][1]) or str(result[0][1]).count('✪') == 5):
+                  truechecker2.append(True)
+                else:
+                  truechecker2.append(False)
+                if not False in truechecker2:
+                    toprint = "\n" + "/viewauction `" + str(result[0][0]) + "` | Item: `" + str(result[0][1]) + "` | Price: `{:,}`".format(result[0][2]) + " | Second Lowest BIN: `{:,}`".format(result[1])
+                    fAp3_2.write(toprint)
             with open('./fliplogs/logs_f3.txt', 'a') as fAp4:
                 for reforge, AorWs in armour_weapon_meta_reforge_f3_remake.items():
-                    if reforge in str(result[1]) and any(substring in str(result[1]) for substring in AorWs) and ('✪' not in str(result[1]) or str(result[1]).count('✪') == 5):
-                      if len(result) == 7:
-                         toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[5]) + " | Clean LBIN `{:,}`".format(result[6])
-                      else:
-                        toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[4])
-                      fAp4.write(toprint)
+                    if reforge in str(result[0][1]) and any(substring in str(result[0][1]) for substring in AorWs) and ('✪' not in str(result[0][1]) or str(result[0][1]).count('✪') == 5):
+                        toprint = "\n" + "/viewauction `" + str(result[0][0]) + "` | Item: `" + str(result[0][1]) + "` | Price: `{:,}`".format(result[0][2]) + " | Second Lowest BIN: `{:,}`".format(result[1])
+                        fAp4.write(toprint)
     
 
 

@@ -1,5 +1,18 @@
 
-/viewauction `9a95cb4a4ed4446bbc4318e450ddcda0` | Item: `New Year Cake (Year 200) ` | Price: `200,000` | Second Lowest BIN: `2,800,000`
-/viewauction `00639165f6064c218f77ba73463b037c` | Item: `New Year Cake (Year 199) ` | Price: `200,000` | Second Lowest BIN: `2,000,000`
-/viewauction `f841a04f696947e8971afcdd012edeee` | Item: `⚚ Adaptive Chestplate ✪✪✪✪✪ ` | Price: `3,200,000` | Second Lowest BIN: `4,300,000`
-/viewauction `502e7e1e42cf46cb950e994c17f725ab` | Item: `Fel Sword ✪✪ ` | Price: `850,000` | Second Lowest BIN: `2,600,000`
+/viewauction `0679a38869df4d738247ed3e6bcc9f84` | Item: `Jaded Sorrow Leggings LEGENDARY` | Price: `16,000,000` | Second LBIN: `21,999,999` | Clean LBIN `15,380,000`
+/viewauction `28db9bb8dd7344069f73241c2e6ff42d` | Item: `Perfect Chestplate - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `8,000,000` | Clean LBIN `7,000,000`
+/viewauction `e67ac1213d8a472c9afecc65a1c784c7` | Item: `Jaded Sorrow Helmet LEGENDARY` | Price: `12,000,000` | Second LBIN: `17,264,454` | Clean LBIN `10,700,000`
+/viewauction `ab70f6350a3c47349175f0e8c1c04d92` | Item: `Ancient Maxor's Boots ✪✪ LEGENDARY` | Price: `3,000,000` | Second LBIN: `4,500,000` | Clean LBIN `2,300,000`
+/viewauction `3f9de132792144a99f6dcd3338352da0` | Item: `Jaded Sorrow Boots LEGENDARY` | Price: `11,000,000` | Second LBIN: `14,600,000` | Clean LBIN `8,400,000`
+/viewauction `32b6f7b9b7414719beb9cc00e2fd6555` | Item: `lvl>95 Enderman ✦ MYTHIC` | Price: `44,000,000` | Second LBIN: `125,000,000` | Clean LBIN `44,000,000`
+/viewauction `4f73cd6224734725951e8c5ef8d8802f` | Item: `lvl>95 Griffin UNCOMMON` | Price: `1,800,000` | Second LBIN: `3,700,000` | Clean LBIN `1,800,000`
+/viewauction `70441f9301a645cb8f967ea22e61a82e` | Item: `Fabled Aspect of the Dragons ✪✪✪✪✪ LEGENDARY` | Price: `1,798,000` | Second LBIN: `3,100,000` | Clean LBIN `300,000`
+/viewauction `7148240aa94240098e96af27579f4509` | Item: `Ancient Superior Dragon Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `15,000,000` | Second LBIN: `25,000,000` | Clean LBIN `7,000,000`
+/viewauction `e59cc51881bd4df59b9047d5a4dba0b5` | Item: `Ancient Superior Dragon Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `12,500,000` | Second LBIN: `14,000,000` | Clean LBIN `3,600,000`
+/viewauction `29aecadc99fb41fd924d84b3977d9edb` | Item: `Fabled Flower of Truth ✪✪✪ LEGENDARY` | Price: `4,000,000` | Second LBIN: `5,800,000` | Clean LBIN `3,099,999`
+/viewauction `13af4273ff34487ba0ee7f212a20725b` | Item: `Ancient Crimson Helmet LEGENDARY` | Price: `800,000` | Second LBIN: `2,000,000` | Clean LBIN `700,000`
+/viewauction `bd557bf1f01e4fa886b19e4237398fc2` | Item: `Beastmaster Crest RARE` | Price: `2,300,000` | Second LBIN: `3,499,000` | Clean LBIN `329,000`
+/viewauction `30dc05aa9f9f42c0ae8429df6df3f176` | Item: `Ancient Maxor's Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `11,900,000` | Second LBIN: `14,000,000` | Clean LBIN `2,300,000`
+/viewauction `39c18ac3826441eaa20586781796cd4a` | Item: `Roofed Forest Island COMMON` | Price: `1,000,000` | Second LBIN: `10,000,000` | Clean LBIN `1,000,000`
+/viewauction `01262f87c3b14cb6b1d160339c802212` | Item: `Necron's Boots ✪✪✪✪✪ LEGENDARY` | Price: `13,000,000` | Second LBIN: `14,999,999` | Clean LBIN `9,244,444`
+/viewauction `31a2a56024a6415a82ed6f624e131f32` | Item: `Fabled Livid Dagger ✪✪✪ LEGENDARY` | Price: `7,500,000` | Second LBIN: `8,844,000` | Clean LBIN `7,090,000`
