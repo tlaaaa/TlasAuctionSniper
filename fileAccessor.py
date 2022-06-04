@@ -53,6 +53,7 @@ async def check_logs():
     lm_channel = bot.get_channel(977539449837731911)
     f2_2channel = bot.get_channel(977539531538567200)
     f3channel = bot.get_channel(977539588748890132)
+    nodeletchannel = bot.get_channel(982478950288732180)
     lmlog = './fliplogs/logs_f1.txt'
     f2_2log = './fliplogs/logs_f2_2.txt'
     f3log = './fliplogs/logs_f3.txt'
@@ -114,6 +115,7 @@ async def check_logs():
                     for i, (margin, aucstr) in enumerate(slistcut):
                         for rep in replace:
                           aucstr = aucstr.replace(rep, replace[rep])
+                        await nodeletchannel.send(aucstr)
                         embed.add_field(name=str(i+1)+'.', value=aucstr, inline=False)
                     await f3channel.send(embed=embed)
                     f.truncate(0)
