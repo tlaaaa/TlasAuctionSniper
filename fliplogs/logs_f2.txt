@@ -50,3 +50,841 @@
 /viewauction `2bf621e5481a492a86ad7f505bf91739` | Item: `Ancient Final Destination Leggings LEGENDARY` | Price: `1,000,000` | Second LBIN: `2,000,000` | Clean LBIN `700,000`
 /viewauction `7a9384991ca3441fa69bdaa567799b17` | Item: `Ancient Sorrow Chestplate LEGENDARY` | Price: `12,500,000` | Second LBIN: `14,399,999` | Clean LBIN `12,499,000`
 /viewauction `ca39dea8d811434bba6fdfdd2d49f1a0` | Item: `Withered Vorpal Katana (OFA) EPIC` | Price: `4,900,000` | Second LBIN: `5,995,000` | Clean LBIN `4,849,000`
+/viewauction `40516036df404934918e91ea9549c741` | Item: `Fabled Scorpion Foil EPIC` | Price: `1,500,000` | Second LBIN: `6,000,000` | Clean LBIN `1,500,000`
+/viewauction `5eba25baaa2b47889b8d3deadfee2837` | Item: `Wand of Atonement (UW5) LEGENDARY` | Price: `5,000,000` | Second LBIN: `6,000,000` | Clean LBIN `3,450,000`
+/viewauction `70bf157ff65649d8af1d2f93f2ccbe13` | Item: `Crab Hat of Celebration - 2022 Edition SPECIAL` | Price: `1,000,000` | Second LBIN: `2,100,000`
+/viewauction `6ba5f352704a49bb97a58c324cbf750d` | Item: `Purple Snubfin Dolphin Skin RARE` | Price: `15,000,000` | Second LBIN: `20,000,000`
+/viewauction `9deab51c4d524643af80016ef459a102` | Item: `Ancient Storm's Helmet ✪✪✪✪✪ LEGENDARY` | Price: `6,000,000` | Second LBIN: `7,500,000` | Clean LBIN `4,400,000`
+/viewauction `66a9739c43a4492488dc53a731e2e3d4` | Item: `Ancient Frozen Blaze Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `14,000,000` | Clean LBIN `10,000,000`
+/viewauction `7da8b8dd9772423f80472c52dab0c52c` | Item: `Ancient Frozen Blaze Chestplate ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `13,000,000` | Clean LBIN `10,000,000`
+/viewauction `d8510e89b66c434089151dd57d94fd0f` | Item: `Giant Werewolf Chestplate LEGENDARY` | Price: `490,000` | Second LBIN: `2,800,000` | Clean LBIN `490,000`
+/viewauction `5057bc47d2bc4d44b5ada665a370f10a` | Item: `Fire Fury Staff (re) (UW5) LEGENDARY` | Price: `20,000,000` | Second LBIN: `30,000,000` | Clean LBIN `20,000,000`
+/viewauction `3fd55498c310420b819d489817c1431e` | Item: `Wither Chestplate ✪✪✪ LEGENDARY` | Price: `14,000,000` | Second LBIN: `16,800,000` | Clean LBIN `13,700,000`
+/viewauction `c02749ece65b4f1094d8b960b512f5c8` | Item: `lvl>75 Armadillo LEGENDARY` | Price: `1,900,000` | Second LBIN: `3,900,000`
+/viewauction `881c5a7420da4d85b98f05b5176217a8` | Item: `Fabled Livid Dagger ✪✪✪✪✪ (OFA) LEGENDARY` | Price: `13,000,000` | Second LBIN: `15,000,000` | Clean LBIN `6,400,000`
+/viewauction `4f938a272d0b430b95e07039110f925b` | Item: `Ancient Frozen Blaze Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `11,600,000` | Clean LBIN `10,000,000`
+/viewauction `e2e4da5084d54b5f9e7dbf805b4a7afc` | Item: `Ancient Necron's Boots ✪ LEGENDARY` | Price: `10,000,000` | Second LBIN: `12,000,000` | Clean LBIN `9,790,000`
+/viewauction `40447f1ad4ad42039553528166da73d1` | Item: `lvl>75 Tiger ✦ EPIC` | Price: `8,750,000` | Second LBIN: `12,000,000` | Clean LBIN `4,000,000`
+/viewauction `821d456081644958aff9c48a5d7c2873` | Item: `lvl>0 Tiger ✦ LEGENDARY` | Price: `21,800,000` | Second LBIN: `24,500,000` | Clean LBIN `14,999,990`
+/viewauction `b9206354d5d94d1ca1e38e9f3bc13750` | Item: `⚚ Ancient Shadow Assassin Helmet ✪✪✪✪✪ LEGENDARY` | Price: `2,700,000` | Second LBIN: `3,900,000` | Clean LBIN `2,499,999`
+/viewauction `9ec4eb3bc15d4ab7b6cfa3a67a5b3b87` | Item: `lvl>95 Griffin EPIC` | Price: `9,000,000` | Second LBIN: `13,999,999`
+/viewauction `a6e84ca159644489846236afc94ead59` | Item: `Magma Lord Leggings (re) MYTHIC` | Price: `20,000,000` | Second LBIN: `27,000,000` | Clean LBIN `20,000,000`
+/viewauction `6a4748c93d6f4ff49b0ea1d939320435` | Item: `Potato Talisman COMMON` | Price: `9,000,000` | Second LBIN: `10,899,900`
+/viewauction `805816019849414d9a3cae1022d57fa9` | Item: `Dark Queen's Soul Drop EPIC` | Price: `35,000` | Second LBIN: `2,499,950`
+/viewauction `43522db3b5a54a25b37df29f7a01ad28` | Item: `⚚ Ancient Shadow Assassin Boots ✪✪✪✪✪ LEGENDARY` | Price: `1,500,000` | Second LBIN: `2,700,000` | Clean LBIN `1,500,000`
+/viewauction `4facc123d11a433b8730e918aa6c459e` | Item: `Perfect Giant Chestplate - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `8,000,000` | Clean LBIN `6,900,000`
+/viewauction `d2a4b2f912e244468638bbaed09b3ecd` | Item: `Shark Scale Chestplate LEGENDARY` | Price: `1,000,000` | Second LBIN: `3,499,999`
+/viewauction `33e3bfb2129c4e98bbf00ab4f35a9421` | Item: `Potato Talisman COMMON` | Price: `2,500` | Second LBIN: `10,500,000`
+/viewauction `453d16d830b140588460ecd67a5c1d3e` | Item: `lvl>90 Sheep LEGENDARY` | Price: `3,849,000` | Second LBIN: `5,800,000`
+/viewauction `ab4f5a9e1c6449aa8174cf4ffff97d0d` | Item: `Purple Snubfin Dolphin Skin RARE` | Price: `17,000,000` | Second LBIN: `20,000,000`
+/viewauction `379e86cc154c4917ad8054d4e4d8a8a5` | Item: `Ancient Superior Dragon Chestplate LEGENDARY` | Price: `12,000,000` | Second LBIN: `13,360,000` | Clean LBIN `7,600,000`
+/viewauction `9addd4f569e64539aa5adcda05b9e8a2` | Item: `Spirit Sceptre ✪✪✪✪✪ (UW5) LEGENDARY` | Price: `14,000,000` | Second LBIN: `19,999,000` | Clean LBIN `14,000,000`
+/viewauction `d0130f8aad2644f6a65bb51fcfa806ae` | Item: `Spiritual Runaan's Bow ✪✪✪✪✪ (re) MYTHIC` | Price: `14,000,000` | Second LBIN: `20,000,000` | Clean LBIN `6,000,000`
+/viewauction `22dc6ad65332452e8172eb793aa9bc98` | Item: `Golden Sadan Head ✪✪✪✪✪ SPECIAL` | Price: `3,700,000` | Second LBIN: `5,800,000` | Clean LBIN `2,700,000`
+/viewauction `c66daa2711304794b8d4332ce632fa1c` | Item: `Ancient Golden Sadan Head ✪✪✪✪✪ SPECIAL` | Price: `4,000,000` | Second LBIN: `5,900,000` | Clean LBIN `2,700,000`
+/viewauction `f4bd408ff8f242ed89805bd493fded1f` | Item: `Jaded Sorrow Boots LEGENDARY` | Price: `11,200,000` | Second LBIN: `12,500,000` | Clean LBIN `6,700,000`
+/viewauction `7e06dc56262a437e8417b7e4b4f5f99c` | Item: `Flower of Truth ✪✪ (UW5) LEGENDARY` | Price: `5,500,000` | Second LBIN: `6,999,999` | Clean LBIN `3,800,000`
+/viewauction `3bb0ca92ba2b49fe96f5ce4eb7d43105` | Item: `⚚ Fabled Shadow Fury LEGENDARY` | Price: `24,900,000` | Second LBIN: `36,000,000` | Clean LBIN `24,450,000`
+/viewauction `6d20b4c189ed4e4e9fc9d3aaddb14655` | Item: `Necromancer Lord Leggings ✪✪✪✪✪ LEGENDARY` | Price: `3,000,000` | Second LBIN: `4,500,000` | Clean LBIN `2,550,000`
+/viewauction `82af7dea08684308ba97c33a5a449663` | Item: `Reaper Mask LEGENDARY` | Price: `7,000,000` | Second LBIN: `8,049,999`
+/viewauction `a630a523e9214db4a87b03c26a0673b7` | Item: `Storm's Leggings ✪✪✪✪ LEGENDARY` | Price: `8,700,000` | Second LBIN: `14,000,000` | Clean LBIN `7,799,999`
+/viewauction `9ef15057a71144df94e5083233dc5a51` | Item: `lvl100 Mithril Golem LEGENDARY` | Price: `3,999,999` | Second LBIN: `5,000,000`
+/viewauction `157310300d614505b5ac7b50286ee1e8` | Item: `Withered Flower of Truth ✪✪ LEGENDARY` | Price: `4,800,000` | Second LBIN: `7,450,000` | Clean LBIN `3,800,000`
+/viewauction `332b54e0dfb94f52be39339fb5074cd2` | Item: `Storm's Leggings LEGENDARY` | Price: `6,000,000` | Second LBIN: `7,799,999`
+/viewauction `d58eff3ff07049d68af737226b88bcf4` | Item: `Reaper Falchion (OFA) EPIC` | Price: `6,500,000` | Second LBIN: `9,960,000` | Clean LBIN `3,200,000`
+/viewauction `755cb131c2964cf886f5e093358bc0f3` | Item: `lvl>75 Dolphin EPIC` | Price: `3,000,000` | Second LBIN: `4,000,000`
+/viewauction `e7dc803a93b04756b37b074d7b698072` | Item: `Shadow Assassin Leggings ✪✪✪ EPIC` | Price: `3,000,000` | Second LBIN: `4,000,000` | Clean LBIN `3,000,000`
+/viewauction `71ccd568b84f401abd6363efd12c7156` | Item: `Necromancer Lord Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `4,000,000` | Second LBIN: `13,900,000` | Clean LBIN `3,400,000`
+/viewauction `35811ab2ca25406e92ab46a8f339a1f7` | Item: `lvl>75 Rabbit LEGENDARY` | Price: `1,400,000` | Second LBIN: `2,500,000`
+/viewauction `83ab60f4821b46aabee495b6dcda18b2` | Item: `lvl>75 Enderman ✦ EPIC` | Price: `1,700,000` | Second LBIN: `3,700,000` | Clean LBIN `1,700,000`
+/viewauction `64b425bb141043a5bdc80adca9589c7c` | Item: `Withered Flower of Truth (OFA) LEGENDARY` | Price: `8,500,000` | Second LBIN: `10,000,000` | Clean LBIN `3,600,000`
+/viewauction `b5e5b7d2a8294dc4895abb411549a5cb` | Item: `Giant Necromancer Lord Leggings ✪✪✪✪ LEGENDARY` | Price: `2,499,000` | Second LBIN: `5,500,000` | Clean LBIN `2,499,000`
+/viewauction `deae6f411b4643dba97e28af81de7e43` | Item: `lvl>0 Griffin UNCOMMON` | Price: `1,500,000` | Second LBIN: `2,600,000`
+/viewauction `ef1acf20094f42f7b12c06cb8d247e53` | Item: `Giant Necromancer Lord Boots ✪✪✪✪ LEGENDARY` | Price: `649,000` | Second LBIN: `2,500,000` | Clean LBIN `649,000`
+/viewauction `5dec60f3dc604302a0a697d006cc0d51` | Item: `Ancient Sorrow Chestplate LEGENDARY` | Price: `11,000,000` | Second LBIN: `13,500,000` | Clean LBIN `11,000,000`
+/viewauction `a7bfdef3fad044ec83992b5f811490b1` | Item: `Drill Engine RARE` | Price: `2,500,000` | Second LBIN: `3,699,000`
+/viewauction `292356a312344b15bf78d50050e8e745` | Item: `Terminator ✪✪✪✪✪➎ (re) (SE5 ,Ov5) MYTHIC` | Price: `829,900,000` | Second LBIN: `975,000,000` | Clean LBIN `579,000,000`
+/viewauction `d3c92984cff44ad5aef7745d3f5fd32f` | Item: `lvl100 Griffin UNCOMMON` | Price: `3,500,000` | Second LBIN: `4,500,000`
+/viewauction `c7b8f3d49bed460d9ce7b32e6ae2fa8d` | Item: `Giant Necromancer Lord Leggings ✪✪✪✪✪ LEGENDARY` | Price: `4,500,000` | Second LBIN: `6,000,000` | Clean LBIN `2,499,000`
+/viewauction `5510e10a51ba4ad7932ed2f2914b43bd` | Item: `Skeletor Boots LEGENDARY` | Price: `130,000` | Second LBIN: `1,600,000`
+/viewauction `c61d76743af540a09c6eb9fcd9bf5b7b` | Item: `⚚ Withered Shadow Fury ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `40,000,000` | Second LBIN: `44,999,000` | Clean LBIN `33,000,000`
+/viewauction `e566aeee93f54b3bbb34cb672db6c4b0` | Item: `Superior Dragon Chestplate ✪✪✪ LEGENDARY` | Price: `8,450,000` | Second LBIN: `9,800,000` | Clean LBIN `7,599,999`
+/viewauction `f6173eb865224502aeda2ac662d512ae` | Item: `Perfect Giant Chestplate - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `8,199,999` | Second LBIN: `9,999,995` | Clean LBIN `6,999,999`
+/viewauction `9f271c66ff064964a9e6d70a4e2cb0e5` | Item: `Potato Talisman COMMON` | Price: `9,400,000` | Second LBIN: `10,900,000`
+/viewauction `181e35fef4364aed843919a8fd587db5` | Item: `Withered Flower of Truth ✪✪ LEGENDARY` | Price: `6,000,000` | Second LBIN: `7,450,000` | Clean LBIN `3,859,999`
+/viewauction `a81163625df44c56860953749e67592e` | Item: `Livid Dagger ✪✪✪✪✪ (OFA) LEGENDARY` | Price: `14,500,000` | Second LBIN: `19,000,000` | Clean LBIN `6,497,000`
+/viewauction `78c87b3edfc54bc8bcd6d33542fd0ff4` | Item: `lvl>75 Blue Whale EPIC` | Price: `3,100,000` | Second LBIN: `4,500,000`
+/viewauction `cb0c91086dfb41859158c2448177a2ca` | Item: `Purple Snubfin Dolphin Skin RARE` | Price: `15,000,000` | Second LBIN: `17,000,000`
+/viewauction `8dd1118910a64d3ba2b9155a011cc125` | Item: `lvl>75 Blue Whale RARE` | Price: `1,500,000` | Second LBIN: `8,000,000`
+/viewauction `c8cda6236e3741d4ad0a31a828ea5ef9` | Item: `Atrocity EPIC` | Price: `23,000,000` | Second LBIN: `26,000,000`
+/viewauction `1343da0a32cd4e308e5cfe80bdcff35a` | Item: `⚚ Ancient Shadow Assassin Chestplate ✪✪✪✪✪ (re) MYTHIC` | Price: `22,000,000` | Second LBIN: `24,999,000` | Clean LBIN `22,000,000`
+/viewauction `acc7c05a7ef24eacaf199066acebd770` | Item: `Wither Leggings ✪✪ LEGENDARY` | Price: `6,000,000` | Second LBIN: `8,000,000` | Clean LBIN `4,899,899`
+/viewauction `b67d5427d9a344f4b3d9390ddbb6fdea` | Item: `Wither Chestplate ✪✪✪✪ LEGENDARY` | Price: `13,500,000` | Second LBIN: `18,000,000` | Clean LBIN `13,490,000`
+/viewauction `e5d52558f21a48a7b5ec581a6ea589d6` | Item: `lvl>90 Bal LEGENDARY` | Price: `15,690,000` | Second LBIN: `17,500,000`
+/viewauction `1775c1d25a454549af45a9d656688390` | Item: `Crab Hat of Celebration - 2022 Edition SPECIAL` | Price: `250,000` | Second LBIN: `2,200,000`
+/viewauction `28abc42db6684adc91f31bad8b09460e` | Item: `Fabled Soul Whip LEGENDARY` | Price: `11,000,000` | Second LBIN: `13,800,000` | Clean LBIN `9,999,000`
+/viewauction `d3e0576403c34f08890a492881d9906c` | Item: `Ancient Golden Livid Head ✪✪✪✪ SPECIAL` | Price: `2,100,000` | Second LBIN: `3,500,000` | Clean LBIN `500,000`
+/viewauction `65456f98cc5348a7a81ec06aec1811d3` | Item: `lvl100 Monkey LEGENDARY` | Price: `38,000,000` | Second LBIN: `43,500,000`
+/viewauction `97d15642119b4e6dbe2942e59e01a943` | Item: `Superior Dragon Helmet ✪ LEGENDARY` | Price: `4,690,000` | Second LBIN: `6,000,000` | Clean LBIN `4,690,000`
+/viewauction `d19f309c1a42475e8b2356f4a9b12a61` | Item: `Spiritual Bonemerang ✪✪✪✪✪ (re) MYTHIC` | Price: `5,000,000` | Second LBIN: `6,000,000` | Clean LBIN `5,000,000`
+/viewauction `256a6b36f3104918b9a139b28fbf337d` | Item: `Aspect of the Dragons ✪✪✪✪✪ LEGENDARY` | Price: `1,500,000` | Second LBIN: `3,700,000` | Clean LBIN `448,000`
+/viewauction `7a917f77d19a46289ce05a7f89ea31b5` | Item: `Fel Sword ✪✪ EPIC` | Price: `500,000` | Second LBIN: `2,000,000` | Clean LBIN `399,999`
+/viewauction `90b549981fe1446482022a0f60ccae69` | Item: `Storm's Helmet ✪✪✪✪✪ LEGENDARY` | Price: `5,500,000` | Second LBIN: `7,600,000` | Clean LBIN `4,500,000`
+/viewauction `2fce8476325342a19db94868df43c473` | Item: `Perfect Chestplate - Tier IX ✪✪✪✪✪ LEGENDARY` | Price: `4,150,000` | Second LBIN: `9,500,000` | Clean LBIN `4,150,000`
+/viewauction `7ebb71379f9644a0992f10266706fa60` | Item: `Wither Boots ✪✪✪✪ LEGENDARY` | Price: `2,000,000` | Second LBIN: `3,500,000` | Clean LBIN `1,399,990`
+/viewauction `f2f4484f5ec940298e4ceb8a475d9953` | Item: `Eternal Hoof RARE` | Price: `8,000,000` | Second LBIN: `9,700,000`
+/viewauction `b133826a76184fa490c9136fbb410f99` | Item: `Fabled Reaper Falchion ✪✪✪✪✪ (OFA) EPIC` | Price: `6,499,999` | Second LBIN: `9,000,000` | Clean LBIN `3,100,000`
+/viewauction `ed94188743cb4103bddde287436fb09b` | Item: `Giant Necromancer Lord Boots ✪✪✪✪ LEGENDARY` | Price: `1,500,000` | Second LBIN: `2,500,000` | Clean LBIN `670,000`
+/viewauction `3526446c5bbf4998b381ad39a8ae0e07` | Item: `Ancient Necron's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `21,700,000` | Second LBIN: `25,000,000` | Clean LBIN `15,999,000`
+/viewauction `35f299bdbac94fb2b4f76acd90a0fb64` | Item: `Spider Artifact (re) LEGENDARY` | Price: `8,000,000` | Second LBIN: `11,500,000` | Clean LBIN `8,000,000`
+/viewauction `a624adaaf0c04369b2b9a717a17752e6` | Item: `Titanium Relic LEGENDARY` | Price: `10,500,000` | Second LBIN: `12,000,000`
+/viewauction `3d8bf5e53e444df787a6c6ea8e7ca8f2` | Item: `Necromancer Sword ✪✪✪✪✪ LEGENDARY` | Price: `11,000,000` | Second LBIN: `16,000,000` | Clean LBIN `7,999,999`
+/viewauction `b261933538224dce96a0da1e4318281d` | Item: `⚚ Shadow Assassin Chestplate ✪✪✪✪ (re) MYTHIC` | Price: `21,567,000` | Second LBIN: `31,999,999` | Clean LBIN `21,567,000`
+/viewauction `2a37a32ddac04665a7929c61c6f59983` | Item: `Candy Relic LEGENDARY` | Price: `9,000,000` | Second LBIN: `10,200,000`
+/viewauction `71f61bf1afb84ca99e7fc817f1ae2dda` | Item: `Candy Relic (re) MYTHIC` | Price: `14,000,000` | Second LBIN: `16,000,000` | Clean LBIN `14,000,000`
+/viewauction `28d0a9401ef54e7fa1ebe86ea2d03275` | Item: `Withered Reaper Scythe ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `21,000,000` | Second LBIN: `25,000,000` | Clean LBIN `21,000,000`
+/viewauction `8d365bfb485e4781ba36a4f4f6dec29f` | Item: `Fabled Aspect of the Dragons ✪✪✪✪✪ LEGENDARY` | Price: `2,300,000` | Second LBIN: `4,500,000` | Clean LBIN `400,000`
+/viewauction `c5f5d73904984b34bdf5c3776afd7516` | Item: `Zombie Soldier Cutlass ✪✪✪✪✪ RARE` | Price: `6,500` | Second LBIN: `12,000,000` | Clean LBIN `6,100`
+/viewauction `ebc3e49287274ceaa82c2f1223ce0b4f` | Item: `Fabled Emerald Blade (re) (OFA) LEGENDARY` | Price: `12,000,000` | Second LBIN: `14,000,000` | Clean LBIN `10,800,000`
+/viewauction `9459a759a4f14b9c91875c60cfd49c69` | Item: `Rod of the Sea (re) MYTHIC` | Price: `11,000,000` | Second LBIN: `12,500,000` | Clean LBIN `11,000,000`
+/viewauction `72b06ed273a546bc8c19a202ec3e8e9c` | Item: `⚚ Shadow Fury ✪✪✪✪✪ LEGENDARY` | Price: `31,000,000` | Second LBIN: `47,990,000` | Clean LBIN `24,400,000`
+/viewauction `ae1f839dcdb8451dbb88c8075bed8474` | Item: `Giant Goldor's Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `16,000,000` | Second LBIN: `17,999,999` | Clean LBIN `13,000,000`
+/viewauction `80331b12495a473b833c518f33a3fc8f` | Item: `Necron's Leggings ✪ LEGENDARY` | Price: `14,250,000` | Second LBIN: `15,999,000` | Clean LBIN `14,250,000`
+/viewauction `bdfe9a73e0384e50b19d422ebbc1b441` | Item: `Flower of Truth ✪✪✪✪ LEGENDARY` | Price: `4,200,000` | Second LBIN: `5,600,000` | Clean LBIN `3,793,000`
+/viewauction `4defb56011d347d798b450579c87c3d4` | Item: `Fabled Livid Dagger ✪✪✪ LEGENDARY` | Price: `7,300,000` | Second LBIN: `8,500,000` | Clean LBIN `6,490,000`
+/viewauction `169f68f58dab42a6befdb2a4af1e3254` | Item: `Withered Flower of Truth LEGENDARY` | Price: `5,000,000` | Second LBIN: `6,099,000` | Clean LBIN `3,793,000`
+/viewauction `a07dcea93ede4d46b3c06b796a1b64fa` | Item: `Fel Sword ✪✪✪✪✪ EPIC` | Price: `600,000` | Second LBIN: `2,400,000` | Clean LBIN `400,000`
+/viewauction `cc9c23ba195e4e8d8ad311c0d20c01a8` | Item: `Wither Chestplate ✪✪✪✪ LEGENDARY` | Price: `16,000,000` | Second LBIN: `18,000,000` | Clean LBIN `13,400,000`
+/viewauction `25fe07f4a5404a50934eb5a59a551bce` | Item: `Ancient Storm's Boots ✪✪✪✪✪ (re) (L5) MYTHIC` | Price: `20,000,000` | Second LBIN: `41,000,000` | Clean LBIN `10,500,000`
+/viewauction `552ad77661e74c6b9a573f1866f2cb6b` | Item: `Necron's Leggings ✪ LEGENDARY` | Price: `14,150,000` | Second LBIN: `15,998,900` | Clean LBIN `14,150,000`
+/viewauction `20fd9572b75144e2bc1e2d3fd55b44d9` | Item: `lvl>90 Tiger EPIC` | Price: `5,000,000` | Second LBIN: `6,100,000`
+/viewauction `da23316d60ac4a00afd6b7aebecb2c4c` | Item: `Mithril Drill SX-R326 (re) EPIC` | Price: `13,000,000` | Second LBIN: `14,999,900` | Clean LBIN `13,000,000`
+/viewauction `59dc42a8a6ba4306aa7f33bbfaf0e836` | Item: `Mender Crown ✪✪✪✪✪ EPIC` | Price: `7,000,000` | Second LBIN: `8,000,000` | Clean LBIN `4,450,000`
+/viewauction `1574a7803bb943d081472af356c0ece7` | Item: `Spiritual Magma Bow EPIC` | Price: `370,000` | Second LBIN: `2,500,000` | Clean LBIN `370,000`
+/viewauction `c70da82a48f1411aadd3be2216d45e5b` | Item: `Voidedge Katana (OFA) RARE` | Price: `6,999,999` | Second LBIN: `8,000,000` | Clean LBIN `800,000`
+/viewauction `4071ef4eddfc4f3aac07087a05db592b` | Item: `New Year Cake (Year 124) SPECIAL` | Price: `684,000` | Second LBIN: `5,000,000`
+/viewauction `5c298c9fee3442a88b3e5fb61019da0d` | Item: `Purple Snubfin Dolphin Skin RARE` | Price: `10,000,000` | Second LBIN: `15,000,000`
+/viewauction `35dc72592ed94eaeab76115f3a162b91` | Item: `Ancient Shadow Assassin Helmet ✪✪✪ EPIC` | Price: `1,500,000` | Second LBIN: `3,000,000` | Clean LBIN `1,500,000`
+/viewauction `8ae4055c822f4525babcc7d8d8fd370b` | Item: `Flower of Truth ✪✪✪✪✪ (re) MYTHIC` | Price: `11,000,000` | Second LBIN: `12,600,000` | Clean LBIN `8,598,776`
+/viewauction `2a4366b9ae59458abc6e6195d6788a89` | Item: `⚚ Shadow Assassin Leggings ✪✪✪✪✪ LEGENDARY` | Price: `4,500,000` | Second LBIN: `5,700,000` | Clean LBIN `4,500,000`
+/viewauction `5621ddbfba3542a9b67f7c0ee93d5f04` | Item: `Frozen Scythe ✪ RARE` | Price: `7,500,000` | Second LBIN: `8,500,000` | Clean LBIN `7,450,000`
+/viewauction `8d1ee6d2a44140c7b6da0a508d8ad7c2` | Item: `Ancient Storm's Boots ✪✪✪✪✪ (re) (L5) MYTHIC` | Price: `35,000,000` | Second LBIN: `41,000,000` | Clean LBIN `10,500,000`
+/viewauction `f9fbecc716eb4929a92d01cb5cb21bdd` | Item: `Ancient Reaper Mask ✪✪✪✪✪ LEGENDARY` | Price: `8,900,000` | Second LBIN: `11,000,000` | Clean LBIN `7,999,999`
+/viewauction `44a18018b16b44d6821f53a53fa3a37c` | Item: `Ancient Superior Dragon Helmet ✪✪✪✪✪ LEGENDARY` | Price: `7,500,000` | Second LBIN: `11,000,000` | Clean LBIN `4,500,000`
+/viewauction `1a3c6ccc19b4415f8b235f82ea146691` | Item: `lvl100 Guardian RARE` | Price: `1,500,000` | Second LBIN: `2,500,000`
+/viewauction `aa76da83a72341ad803fe8f0d3b4c194` | Item: `Aspect of the Void (re) (UW5) LEGENDARY` | Price: `9,000,000` | Second LBIN: `16,250,000` | Clean LBIN `9,000,000`
+/viewauction `631758c9908346d187ac278b54085e9e` | Item: `Ancient Maxor's Boots ✪✪✪✪✪ LEGENDARY` | Price: `7,400,000` | Second LBIN: `8,900,000` | Clean LBIN `2,200,000`
+/viewauction `d308c34a5ef4493ab1f9d3053a5f28ea` | Item: `Wise Dragon Leggings ✪✪ LEGENDARY` | Price: `2,000,000` | Second LBIN: `6,666,666` | Clean LBIN `1,200,000`
+/viewauction `3186919a7a824dfeaeb27deff29910ad` | Item: `Braided Griffin Feather EPIC` | Price: `15,000,000` | Second LBIN: `17,000,000`
+/viewauction `915d3203ee6049208c2878a0d3ff2fb6` | Item: `Ancient Necron's Boots ✪✪✪✪✪ LEGENDARY` | Price: `14,000,000` | Second LBIN: `16,500,000` | Clean LBIN `9,790,000`
+/viewauction `da63f799856a413bb44f4f4628c4fee4` | Item: `Void Conqueror Enderman Skin EPIC` | Price: `14,000,000` | Second LBIN: `18,000,000`
+/viewauction `de7b22ec1fbe4d819da1638c99577d98` | Item: `Spiritual Death Bow ✪✪✪✪✪ (Ov5) EPIC` | Price: `13,010,233` | Second LBIN: `23,045,324` | Clean LBIN `1,900,000`
+/viewauction `af86ff736e934fb4b4f73c5b12644a0c` | Item: `Ancient Necromancer Lord Leggings ✪✪✪✪✪ LEGENDARY` | Price: `4,110,999` | Second LBIN: `5,800,000` | Clean LBIN `2,600,000`
+/viewauction `a2e4db8c1b804db5b15fe67770597735` | Item: `Ancient Necron's Boots LEGENDARY` | Price: `10,000,000` | Second LBIN: `11,499,999` | Clean LBIN `9,790,000`
+/viewauction `151d9b39517244e9be8c59f3254d0b07` | Item: `lvl>90 Griffin UNCOMMON` | Price: `2,000,000` | Second LBIN: `4,000,000`
+/viewauction `216f40db30834372a8048c0c020384d2` | Item: `Loving Adaptive Chestplate ✪✪✪✪✪ EPIC` | Price: `4,250,000` | Second LBIN: `7,500,000` | Clean LBIN `2,800,000`
+/viewauction `db1cece460bc493688232272d17dbcfb` | Item: `Withered Flower of Truth ✪✪✪ LEGENDARY` | Price: `5,500,000` | Second LBIN: `6,999,000` | Clean LBIN `3,899,998`
+/viewauction `11dbde9e920f4834a0827df7de9dcaaf` | Item: `✿ Ancient Maxor's Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `40,000,000` | Second LBIN: `55,000,000` | Clean LBIN `40,000,000`
+/viewauction `7404817cd26d406bb2babca296752fd2` | Item: `Ancient Tarantula Helmet ✪✪✪ EPIC` | Price: `500,000` | Second LBIN: `5,500,000` | Clean LBIN `500,000`
+/viewauction `b22c52f4d29343b4a945294a24856a09` | Item: `Void Conqueror Enderman Skin EPIC` | Price: `15,000,000` | Second LBIN: `18,000,000`
+/viewauction `7f1f49f3b85547658e058e665f5db247` | Item: `Goldor's Helmet ✪✪✪ LEGENDARY` | Price: `3,000,000` | Second LBIN: `4,500,000` | Clean LBIN `2,760,000`
+/viewauction `28bb22b6dc3949c7bf6d41485756a548` | Item: `⚚ Ancient Shadow Assassin Leggings ✪✪✪✪✪ LEGENDARY` | Price: `4,000,000` | Second LBIN: `5,800,000` | Clean LBIN `4,000,000`
+/viewauction `fa1cad0547a3437fae456bdbe5b06acf` | Item: `lvl>95 Dolphin EPIC` | Price: `4,999,999` | Second LBIN: `9,980,000`
+/viewauction `25d56f26e7354fa8a0ff728c521f8bfe` | Item: `⚚ Ancient Shadow Assassin Leggings ✪✪✪ LEGENDARY` | Price: `4,500,000` | Second LBIN: `5,500,000` | Clean LBIN `4,000,000`
+/viewauction `23cfd0bd283b427c9638f062723e4586` | Item: `Withered Ragnarock Axe RARE` | Price: `2,000,000` | Second LBIN: `10,000,000` | Clean LBIN `119,000`
+/viewauction `c6ccf4de468a468fb6faf51ba64e88bd` | Item: `Shadow Assassin Leggings EPIC` | Price: `2,100,000` | Second LBIN: `3,450,000`
+/viewauction `1193918c79484accab9fcbc59e48e32e` | Item: `Goldor's Chestplate ✪✪ LEGENDARY` | Price: `16,000,000` | Second LBIN: `17,800,000` | Clean LBIN `15,999,990`
+/viewauction `529e63bb18e94590ab7b5b76846ffaba` | Item: `Wise Dragon Helmet ✪✪✪✪✪ ✦ LEGENDARY` | Price: `25,000,000` | Second LBIN: `34,999,990` | Clean LBIN `890,000`
+/viewauction `ca44ab43d3e948528f8b73a0c54285f5` | Item: `⚚ Ancient Shadow Assassin Chestplate ✪✪✪✪ LEGENDARY` | Price: `19,300,000` | Second LBIN: `21,450,000` | Clean LBIN `19,300,000`
+/viewauction `c4746359d5fc42bebc79da7bc42ea22b` | Item: `Withered Flower of Truth ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `13,100,000` | Second LBIN: `15,500,000` | Clean LBIN `8,598,776`
+/viewauction `4e877058527548e58151533961dca3ac` | Item: `Aspect of the Dragons ✪✪✪✪✪ LEGENDARY` | Price: `800,000` | Second LBIN: `2,400,000` | Clean LBIN `398,999`
+/viewauction `b0ec5b579e034c7bb6125a2b7dc4dce5` | Item: `Mana Flux Power Orb RARE` | Price: `1,000,000` | Second LBIN: `2,500,000`
+/viewauction `0e9b0dd1b9e24579aa18726bc48d9122` | Item: `Necromancer Lord Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `3,800,000` | Second LBIN: `13,900,000` | Clean LBIN `3,400,000`
+/viewauction `61e7514fb46c4c4c80aaaba6b32ddcfd` | Item: `Ancient Tarantula Helmet ✪✪✪ EPIC` | Price: `1,500,000` | Second LBIN: `5,500,000` | Clean LBIN `522,000`
+/viewauction `fb09191a266042b0baa9eca084b684a4` | Item: `Frozen Scythe ✪✪ RARE` | Price: `7,900,000` | Second LBIN: `14,000,000` | Clean LBIN `7,450,000`
+/viewauction `0baa2d7c8773431b82a1659af074a709` | Item: `Gold Macaw Parrot Skin RARE` | Price: `8,989,000` | Second LBIN: `9,990,000`
+/viewauction `c220ccb2e6e9475581b868f972a22648` | Item: `Withered Flower of Truth ✪✪✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `9,200,000` | Clean LBIN `3,890,000`
+/viewauction `5575d1e7afeb4383a662bfcd773dd7a2` | Item: `Aspect of the Dragons (re) MYTHIC` | Price: `950,000` | Second LBIN: `10,971,000` | Clean LBIN `950,000`
+/viewauction `ac32415e4f15464295da4fbab3d076a0` | Item: `⚚ Shadow Assassin Chestplate ✪✪✪✪ (re) MYTHIC` | Price: `23,300,000` | Second LBIN: `31,999,999` | Clean LBIN `22,800,000`
+/viewauction `ab0d00251864444783bf54441550b9e9` | Item: `⚚ Ancient Shadow Assassin Helmet ✪✪ LEGENDARY` | Price: `2,000,000` | Second LBIN: `5,000,000` | Clean LBIN `2,000,000`
+/viewauction `35549ea7a7d1424888d66f2737fad0ee` | Item: `✿ Loving Storm's Chestplate ✪✪✪✪✪ (re) MYTHIC` | Price: `45,000,000` | Second LBIN: `56,000,000` | Clean LBIN `45,000,000`
+/viewauction `488ba4f4fa6644aebefd68d6bf539e23` | Item: `Void Conqueror Enderman Skin EPIC` | Price: `10,000,000` | Second LBIN: `15,000,000`
+/viewauction `90a2b4d9d69c4dd9b07790f0d61febed` | Item: `lvl>90 Mithril Golem LEGENDARY` | Price: `2,300,000` | Second LBIN: `3,900,000`
+/viewauction `076cb8d8acc647619015ccd998108c99` | Item: `Ancient Necron's Leggings ✪✪✪✪ LEGENDARY` | Price: `19,000,000` | Second LBIN: `22,999,999` | Clean LBIN `15,996,000`
+/viewauction `8affa59662a346fa86dd692672da4514` | Item: `Flower of Truth ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `11,500,000` | Second LBIN: `15,500,000` | Clean LBIN `8,598,776`
+/viewauction `1a7737fea6094274ace93e7f176bca9e` | Item: `Purple Snubfin Dolphin Skin RARE` | Price: `500` | Second LBIN: `14,210,000`
+/viewauction `c771a8352cd540dc83456fed510bc877` | Item: `⚚ Ancient Shadow Assassin Helmet ✪✪ LEGENDARY` | Price: `2,449,000` | Second LBIN: `5,000,000` | Clean LBIN `2,400,000`
+/viewauction `8d7696e7c8194c7089ee71adff81238a` | Item: `Frozen Blaze Boots ✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `8,000,000` | Clean LBIN `7,000,000`
+/viewauction `10f2f7c337a34fd7be537e00eb91d7cf` | Item: `New Year Cake (Year 191) SPECIAL` | Price: `200,000` | Second LBIN: `1,200,000`
+/viewauction `c4c80b67750d4b0a869cfda9741ed5c5` | Item: `Void Conqueror Enderman Skin EPIC` | Price: `8,000,000` | Second LBIN: `10,000,000`
+/viewauction `29b8f1c5c0094af08c5cdd7967cd003e` | Item: `Strong Ancient Dragon Chestplate LEGENDARY` | Price: `1,000,000` | Second LBIN: `40,000,000` | Clean LBIN `500,000`
+/viewauction `6b7f8171211249bfb2a91d553d4d3470` | Item: `lvl>75 Bal LEGENDARY` | Price: `12,999,999` | Second LBIN: `14,500,000`
+/viewauction `732fa5676fd148c08c1bfd515a5dbc23` | Item: `Flower of Truth ✪✪✪✪ LEGENDARY` | Price: `2,800,000` | Second LBIN: `5,200,000` | Clean LBIN `2,800,000`
+/viewauction `4a9245040763418da35060a61f09962e` | Item: `lvl>95 Bal EPIC` | Price: `12,000,000` | Second LBIN: `14,500,000`
+/viewauction `ddb1e8fc2e8342abac232fb75a9d2b72` | Item: `Strong Dragon Leggings ✪✪ LEGENDARY` | Price: `1,500,000` | Second LBIN: `5,000,000` | Clean LBIN `1,200,000`
+/viewauction `0ed7e7bd167b4f9d895e217aaec66ebb` | Item: `lvl>75 Bal EPIC` | Price: `10,000,000` | Second LBIN: `13,500,000`
+/viewauction `312e3e0834e34671aed7903ddaf8cb7f` | Item: `Juju Shortbow ✪✪✪✪✪ (re) LEGENDARY` | Price: `22,000,000` | Second LBIN: `25,990,000` | Clean LBIN `22,000,000`
+/viewauction `95def2120292419bb5aa9c3641283334` | Item: `Ancient Necron's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `19,000,000` | Second LBIN: `25,000,000` | Clean LBIN `14,990,000`
+/viewauction `0900748ce0c44839a2d3870e0610bb41` | Item: `Pooch Sword (re) (OFA) MYTHIC` | Price: `11,000,000` | Second LBIN: `13,000,000` | Clean LBIN `8,999,999`
+/viewauction `1b4eb42ec88c451388a9397f854b041e` | Item: `lvl100 Bal LEGENDARY` | Price: `22,000,000` | Second LBIN: `25,000,000`
+/viewauction `0aeda48f710e48cfbe90109793d08658` | Item: `Perfect Giant Chestplate - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `9,999,995` | Clean LBIN `6,700,000`
+/viewauction `a7c4e012282d4a16a7b4fbf6e5646d96` | Item: `Aspect of the Dragons ✪✪✪✪✪ (UW5) LEGENDARY` | Price: `3,100,000` | Second LBIN: `5,400,000` | Clean LBIN `397,000`
+/viewauction `d0907aa36cf04970bbdfffc0ffecd87a` | Item: `Reaper Falchion ✪ EPIC` | Price: `2,900,000` | Second LBIN: `5,000,000` | Clean LBIN `2,900,000`
+/viewauction `2699be75bd2e4b5885b4a6ee45d57b98` | Item: `lvl>0 Spirit LEGENDARY` | Price: `2,000,000` | Second LBIN: `4,750,000`
+/viewauction `cdaa83c81ac6446aa1552d19227cfb38` | Item: `Pioneer Pickaxe SPECIAL` | Price: `3,000,000` | Second LBIN: `4,999,999`
+/viewauction `4064a707179d48e2b63a6ddd0245ffe6` | Item: `Purple Snubfin Dolphin Skin RARE` | Price: `10,000,000` | Second LBIN: `14,210,000`
+/viewauction `89f57df02a2f4848b2c1f1054b44ea22` | Item: `Necromancer Lord Boots ✪✪✪✪✪ LEGENDARY` | Price: `799,000` | Second LBIN: `2,000,000` | Clean LBIN `799,000`
+/viewauction `54eb9f13f35f46d1833243e601f4414f` | Item: `lvl>75 Blue Whale EPIC` | Price: `1,300,000` | Second LBIN: `3,500,000`
+/viewauction `c563dd21409c4314a26f066ac90b8d46` | Item: `Necromancer Lord Leggings ✪✪✪✪✪ LEGENDARY` | Price: `2,099,000` | Second LBIN: `4,300,000` | Clean LBIN `2,099,000`
+/viewauction `61cbdcf9235d469eba12a386a09118d3` | Item: `Flower of Truth ✪✪✪✪ (UW5) LEGENDARY` | Price: `7,499,999` | Second LBIN: `10,000,000` | Clean LBIN `3,900,000`
+/viewauction `3728d0d149224a6cbdc93a3af74c72c7` | Item: `Inferno Rod EPIC` | Price: `13,290,000` | Second LBIN: `21,300,000`
+/viewauction `d2d092a1ebef4d559ca7eb376779cc5f` | Item: `Giant Goldor's Helmet ✪✪ LEGENDARY` | Price: `4,000,000` | Second LBIN: `5,000,000` | Clean LBIN `2,760,000`
+/viewauction `7e4f381db348474e839a03ffd194316f` | Item: `Reaper Falchion ✪ EPIC` | Price: `3,200,000` | Second LBIN: `5,000,000` | Clean LBIN `3,000,000`
+/viewauction `5c7881fe3be9435491c072eb6566a76b` | Item: `Shadow Assassin Helmet ✪✪✪✪✪ EPIC` | Price: `2,200,000` | Second LBIN: `3,400,000` | Clean LBIN `1,250,000`
+/viewauction `8c7a33f74ab44ec496df97a515680aae` | Item: `lvl>95 Enderman LEGENDARY` | Price: `48,000,000` | Second LBIN: `55,500,000`
+/viewauction `af5bd88bb8b5456599224f04ca9113c2` | Item: `Superior Dragon Boots (re) MYTHIC` | Price: `9,500,000` | Second LBIN: `10,700,000` | Clean LBIN `9,500,000`
+/viewauction `ba5a96027a8b4cba9b533907bb3e5b9c` | Item: `Inferno Rod EPIC` | Price: `17,000,000` | Second LBIN: `21,300,000`
+/viewauction `1265852f08834958beb2d35d2ea2cd54` | Item: `Withered Livid Dagger ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `16,000,000` | Second LBIN: `18,500,000` | Clean LBIN `13,900,000`
+/viewauction `0e467d6c39094479b6977bfbc50922f0` | Item: `Dark Queen's Soul Drop EPIC` | Price: `40,000` | Second LBIN: `2,499,950`
+/viewauction `3c353e701cc14b38aad7b747b121f636` | Item: `Aspect of the Dragons ✪✪✪✪✪ LEGENDARY` | Price: `1,400,000` | Second LBIN: `2,400,000` | Clean LBIN `394,999`
+/viewauction `ae9daf3647cf48968866c3d3c9a3d835` | Item: `Rod of the Sea (re) MYTHIC` | Price: `11,000,000` | Second LBIN: `12,500,000` | Clean LBIN `11,000,000`
+/viewauction `cc823d4b3fc64c43b51ed3fd8d17b0b0` | Item: `Fabled Emerald Blade (OFA) EPIC` | Price: `6,200,000` | Second LBIN: `7,500,000` | Clean LBIN `315,000`
+/viewauction `4cc9998fd60748a294d6f9e90c11b330` | Item: `Warped Aspect of the Void (UW5) EPIC` | Price: `16,000,000` | Second LBIN: `20,000,000` | Clean LBIN `5,100,000`
+/viewauction `3cb3425568eb440aaf71717bb0a68f54` | Item: `Fabled Reaper Falchion (OFA) EPIC` | Price: `5,100,000` | Second LBIN: `9,900,000` | Clean LBIN `3,000,000`
+/viewauction `eed336add7a14b7cb83443a4bcb7b4c6` | Item: `Flower of Truth ✪✪✪✪ LEGENDARY` | Price: `4,200,000` | Second LBIN: `5,200,000` | Clean LBIN `3,700,000`
+/viewauction `dfcf9bf33a1e4c94878bc1ad9eeda83b` | Item: `Ancient Superior Dragon Helmet (re) MYTHIC` | Price: `14,000,000` | Second LBIN: `17,000,000` | Clean LBIN `10,000,000`
+/viewauction `bf815221cbf540259af1431e66e863e4` | Item: `Ancient Tarantula Helmet EPIC` | Price: `500,000` | Second LBIN: `2,000,000` | Clean LBIN `500,000`
+/viewauction `1ae0fb1fd12c48b5bec2ac7fc4dc0e1d` | Item: `Ancient Diamond Necron Head ✪✪✪✪✪➍ (L5) SPECIAL` | Price: `239,000,000` | Second LBIN: `270,000,000` | Clean LBIN `133,000,000`
+/viewauction `ca145b559a9b4307967356030aa3d817` | Item: `Withered Emerald Blade (re) LEGENDARY` | Price: `10,500,000` | Second LBIN: `24,000,000` | Clean LBIN `10,500,000`
+/viewauction `4d8c585971f24102bb4991dcb24720fa` | Item: `Perfect Chestplate - Tier IX ✪✪✪✪✪ LEGENDARY` | Price: `7,499,999` | Second LBIN: `9,500,000` | Clean LBIN `7,499,999`
+/viewauction `3a379d4dcab348bcbb24cf3f71572f99` | Item: `Precursor Eye ✪ LEGENDARY` | Price: `25,000,000` | Second LBIN: `37,000,000` | Clean LBIN `24,999,999`
+/viewauction `ba7d1d01548e411b84e6f38a9a1cf7f2` | Item: `Ancient Golden Sadan Head ✪✪✪✪✪ SPECIAL` | Price: `2,433,333` | Second LBIN: `5,900,000` | Clean LBIN `2,433,333`
+/viewauction `c6773d6d97344138bd69e68a88b72092` | Item: `Ancient Werewolf Boots ✪✪✪✪✪ LEGENDARY` | Price: `2,000,000` | Second LBIN: `3,399,999` | Clean LBIN `200,000`
+/viewauction `bebf6f051aaf46f08ebca656de2a37bd` | Item: `Superior Dragon Helmet (re) MYTHIC` | Price: `6,000,000` | Second LBIN: `13,900,000` | Clean LBIN `6,000,000`
+/viewauction `601258e53d344dce80a6a590f93fb31f` | Item: `Strong Dragon Leggings ✪✪✪✪ LEGENDARY` | Price: `975,000` | Second LBIN: `2,500,000` | Clean LBIN `975,000`
+/viewauction `daa9e09c74f34712b8f06e50a3ef44cb` | Item: `Strong Dragon Leggings ✪✪✪✪✪ LEGENDARY` | Price: `1,350,000` | Second LBIN: `2,500,000` | Clean LBIN `975,000`
+/viewauction `2bb21ce900594d6a960eed4fefa228d8` | Item: `Fabled Reaper Falchion (OFA) EPIC` | Price: `8,900,000` | Second LBIN: `9,900,000` | Clean LBIN `3,000,000`
+/viewauction `b481595917c64d50a8a633bebd7304ab` | Item: `Ancient Tarantula Helmet EPIC` | Price: `1,000,000` | Second LBIN: `2,000,000` | Clean LBIN `530,000`
+/viewauction `39b8514d463c4e6e8df8c311722bc7d0` | Item: `Ancient Golden Bonzo Head ✪✪✪✪ SPECIAL` | Price: `2,250,000` | Second LBIN: `3,500,000` | Clean LBIN `350,000`
+/viewauction `184728983f3d45518bf0a3be84df4def` | Item: `Aspect of the Dragons ✪✪✪✪✪ (OFA) LEGENDARY` | Price: `5,500,000` | Second LBIN: `9,000,000` | Clean LBIN `394,999`
+/viewauction `e06f35b692bb45dfaaeac8aba1abfddd` | Item: `Spiritual Juju Shortbow ✪✪✪✪✪ EPIC` | Price: `17,100,000` | Second LBIN: `21,999,990` | Clean LBIN `16,499,998`
+/viewauction `b91b49be1c3446529cbb97878f67ca1d` | Item: `New Year Cake (Year 189) SPECIAL` | Price: `300,000` | Second LBIN: `99,999,999`
+/viewauction `4c093ed9f1224e47bd5fe2931b64b40c` | Item: `Ancient Sorrow Chestplate LEGENDARY` | Price: `12,389,899` | Second LBIN: `14,200,000` | Clean LBIN `12,389,899`
+/viewauction `08e12ad9770b4c468d93bc99a5f32816` | Item: `Superior Dragon Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `10,000,000` | Second LBIN: `11,450,000` | Clean LBIN `7,400,000`
+/viewauction `923bc27f1e154fbe99802ff508ab37cd` | Item: `Reaper Falchion EPIC` | Price: `2,000,000` | Second LBIN: `3,000,000`
+/viewauction `17c6453cf56847d9a025c2557fbd5a84` | Item: `Fabled Vorpal Katana (re) (OFA) LEGENDARY` | Price: `5,000,000` | Second LBIN: `6,300,000` | Clean LBIN `5,000,000`
+/viewauction `78a46fa0f3d2425f84615bbab14309bf` | Item: `Ancient Maxor's Boots ✪✪✪✪✪ LEGENDARY` | Price: `7,999,999` | Second LBIN: `9,000,000` | Clean LBIN `2,200,000`
+/viewauction `5165384233a84924aa371ae766b4d6be` | Item: `Fabled Soul Whip ✪✪✪✪ LEGENDARY` | Price: `13,000,000` | Second LBIN: `16,000,000` | Clean LBIN `10,000,000`
+/viewauction `b8446480ea9c40648af69a45ea0e9a38` | Item: `Void Conqueror Enderman Skin EPIC` | Price: `4,000,000` | Second LBIN: `6,400,000`
+/viewauction `e56cb1fba20547fdbb731b121f781f5a` | Item: `Ancient Diamond Livid Head ✪✪✪✪✪➊ (L5) SPECIAL` | Price: `101,111,111` | Second LBIN: `116,000,000` | Clean LBIN `86,000,000`
+/viewauction `cc12f1ecdcee46eebdcedea8d4b1ca9a` | Item: `lvl>75 Tiger ✦ LEGENDARY` | Price: `22,000,000` | Second LBIN: `24,600,000` | Clean LBIN `16,399,999`
+/viewauction `918495059c9f458c9764e64c02d8460f` | Item: `Auto Recombobulator LEGENDARY` | Price: `1,000` | Second LBIN: `9,989,000`
+/viewauction `9bd9b06a923040a4a14958e6fa4428b2` | Item: `lvl>75 Flying Fish LEGENDARY` | Price: `4,500,000` | Second LBIN: `5,500,000`
+/viewauction `223e34a7d889487594b850f6123c7fe5` | Item: `Ancient Terror Leggings LEGENDARY` | Price: `580,000` | Second LBIN: `1,930,000` | Clean LBIN `580,000`
+/viewauction `cafa47500e604c06baed33b1f146891f` | Item: `Ancient Terror Chestplate LEGENDARY` | Price: `700,000` | Second LBIN: `1,930,000` | Clean LBIN `700,000`
+/viewauction `65a4b9af468a4ae188dfeba84fc56565` | Item: `Ancient Terror Helmet LEGENDARY` | Price: `500,000` | Second LBIN: `2,000,000` | Clean LBIN `500,000`
+/viewauction `bbd2e5247fc64288ba2d845b82765ac6` | Item: `Runaan's Bow ✪✪✪✪✪ LEGENDARY` | Price: `370,000` | Second LBIN: `1,750,000` | Clean LBIN `370,000`
+/viewauction `d0e3bba13e1c45e2b7c1d70dbc7e895c` | Item: `Wither Cloak Sword (UW5) EPIC` | Price: `7,000,000` | Second LBIN: `8,000,000` | Clean LBIN `3,299,999`
+/viewauction `77c3fc7a15884328adf1116dc68cf95d` | Item: `Crab Hat of Celebration - 2022 Edition SPECIAL` | Price: `1,300,000` | Second LBIN: `2,450,000`
+/viewauction `f303419daacd4430bfac180c7126dda2` | Item: `Withered Flower of Truth ✪✪✪✪✪ LEGENDARY` | Price: `8,000,000` | Second LBIN: `9,200,000` | Clean LBIN `3,799,999`
+/viewauction `b2e4d8edad00445e8acc72e6ebfbbe1c` | Item: `Auto Recombobulator LEGENDARY` | Price: `1,000` | Second LBIN: `9,990,000`
+/viewauction `fce75b4ded2948c8aeb1a057622a2c1e` | Item: `Superior Dragon Helmet (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `13,900,000` | Clean LBIN `10,000,000`
+/viewauction `29ce8fcf37e140d891318b37e12b92e9` | Item: `Void Conqueror Enderman Skin EPIC` | Price: `3,499,999` | Second LBIN: `6,300,000`
+/viewauction `4df8d9dae8734068915debf764a8a86f` | Item: `lvl>75 Mithril Golem LEGENDARY` | Price: `1,300,000` | Second LBIN: `2,400,000`
+/viewauction `a74092006afb4c48b0bbefcc2d120204` | Item: `lvl>75 Tarantula LEGENDARY` | Price: `4,000,000` | Second LBIN: `6,000,000`
+/viewauction `05ec217ebcf640fdaa9f58ce00a6fcf5` | Item: `⚚ Spiritual Venom's Touch EPIC` | Price: `1,700,000` | Second LBIN: `4,000,000` | Clean LBIN `450,000`
+/viewauction `18013b2da0f74b138c1452f8e2a06037` | Item: `Giant Goldor's Boots ✪✪ LEGENDARY` | Price: `3,500,000` | Second LBIN: `6,100,000` | Clean LBIN `2,199,000`
+/viewauction `3f4f7410b5c54e6f8bc5a2ac2405780e` | Item: `Renowned Werewolf Helmet LEGENDARY` | Price: `400,000` | Second LBIN: `7,696,969` | Clean LBIN `300,000`
+/viewauction `ea4437b64d694acc991abf91eef93000` | Item: `Titanium-Infused Fuel Tank RARE` | Price: `12,000,000` | Second LBIN: `16,000,000`
+/viewauction `1a87fb0b01d54abf85da36a376b7194c` | Item: `lvl>90 Ammonite LEGENDARY` | Price: `11,000,000` | Second LBIN: `13,000,000`
+/viewauction `be674e8f19df43d887ae9145825dbf5e` | Item: `lvl>95 Griffin RARE` | Price: `4,445,000` | Second LBIN: `5,500,000`
+/viewauction `7d18e598f6a449ed926932555cac6173` | Item: `Ancient Necron's Leggings ✪✪✪✪ LEGENDARY` | Price: `20,000,000` | Second LBIN: `23,000,000` | Clean LBIN `13,750,000`
+/viewauction `f629dd74b34f40d1ab166a039516d909` | Item: `Unstable Dragon Chestplate ✪✪✪ LEGENDARY` | Price: `500,000` | Second LBIN: `1,500,000` | Clean LBIN `228,999`
+/viewauction `b60917966ba14bf5b63e83efeadaf8a7` | Item: `Ancient Superior Dragon Helmet ✪✪✪✪✪ (re) MYTHIC` | Price: `9,999,000` | Second LBIN: `12,000,000` | Clean LBIN `9,999,000`
+/viewauction `b88e487a81d84eb7ab5be84344da1510` | Item: `Superior Dragon Leggings (re) MYTHIC` | Price: `14,000,000` | Second LBIN: `18,999,000` | Clean LBIN `14,000,000`
+/viewauction `4ab2a666b1b8475ab57ac8e52ee2e802` | Item: `Pigman Sword (re) MYTHIC` | Price: `13,000,000` | Second LBIN: `50,000,000` | Clean LBIN `13,000,000`
+/viewauction `cb30dec86e744b0ea93b274489fdeaec` | Item: `⚚ Ancient Shadow Assassin Helmet ✪✪ LEGENDARY` | Price: `2,800,000` | Second LBIN: `5,000,000` | Clean LBIN `2,450,000`
+/viewauction `50fad1754afb444f860be1de8fa07d8b` | Item: `Ancient Superior Dragon Boots (re) MYTHIC` | Price: `8,999,000` | Second LBIN: `10,300,000` | Clean LBIN `8,999,000`
+/viewauction `fb6db08a78f44d6f9eea567f3b49af70` | Item: `⚚ Shadow Assassin Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `17,999,000` | Second LBIN: `21,690,420` | Clean LBIN `17,999,000`
+/viewauction `aac3f2da785a4e4b8786f608950335c2` | Item: `Ancient Maxor's Helmet ✪✪✪ LEGENDARY` | Price: `4,099,999` | Second LBIN: `7,888,888` | Clean LBIN `2,800,000`
+/viewauction `6efd2a44bbb74737b639e5fa95237652` | Item: `Giant Goldor's Leggings ✪✪ LEGENDARY` | Price: `10,000,000` | Second LBIN: `12,000,000` | Clean LBIN `5,891,000`
+/viewauction `a7045f9f202d47daa04f0064204e7a1a` | Item: `Giant Goldor's Leggings ✪ LEGENDARY` | Price: `10,000,000` | Second LBIN: `11,500,000` | Clean LBIN `5,891,000`
+/viewauction `43936caf65f74e4da0f7bb030e5b6444` | Item: `Ancient Crimson Chestplate (re) (L5) MYTHIC` | Price: `26,000,000` | Second LBIN: `30,000,000` | Clean LBIN `7,777,777`
+/viewauction `a4f6d408a81845e597c767aa207eb7aa` | Item: `Void Conqueror Enderman Skin EPIC` | Price: `3,696,969` | Second LBIN: `6,000,000`
+/viewauction `a18ae0582ab54570abcc7e9e52a5e58f` | Item: `New Year Cake (Year 209) SPECIAL` | Price: `390,000` | Second LBIN: `2,000,000`
+/viewauction `0d9971bb2d0d40bead16d2e333e1d016` | Item: `New Year Cake (Year 206) SPECIAL` | Price: `390,000` | Second LBIN: `11,000,000`
+/viewauction `b140a787d13c41d7ab786886028b465c` | Item: `⚚ Ancient Shadow Assassin Chestplate ✪✪✪ LEGENDARY` | Price: `21,000,000` | Second LBIN: `40,000,000` | Clean LBIN `17,999,000`
+/viewauction `c946ff1b4bed49d099d8a23d1f440ac0` | Item: `⚚ Shadow Assassin Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `21,500,000` | Second LBIN: `24,000,000` | Clean LBIN `18,850,000`
+/viewauction `6b65fa03f4d342f880d0ce95c85a14a6` | Item: `Superior Dragon Boots ✪ LEGENDARY` | Price: `3,700,000` | Second LBIN: `5,000,000` | Clean LBIN `3,699,999`
+/viewauction `bd87a3bafcbc4c51aa39b1b273605da0` | Item: `Florid Zombie Sword ✪✪✪✪✪ LEGENDARY` | Price: `2,100,000` | Second LBIN: `3,499,000` | Clean LBIN `2,100,000`
+/viewauction `2277d7b96375407fbb4043264db4c070` | Item: `Ancient Necron's Boots ✪ LEGENDARY` | Price: `9,700,000` | Second LBIN: `11,999,000` | Clean LBIN `9,700,000`
+/viewauction `0b2b0855aefa4e3f80b4581d7cf37495` | Item: `Renowned Superior Dragon Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `24,000,000` | Second LBIN: `28,000,000` | Clean LBIN `14,000,000`
+/viewauction `1e4fe5436d684a39b1fb1bfd79093a5c` | Item: `Necron's Helmet ✪ (re) MYTHIC` | Price: `18,000,000` | Second LBIN: `21,499,000` | Clean LBIN `18,000,000`
+/viewauction `ea758ef38d8b4b8eb404d8aa591040de` | Item: `Aspect of the Dragons ✪✪✪✪✪ LEGENDARY` | Price: `500,000` | Second LBIN: `2,400,000` | Clean LBIN `398,000`
+/viewauction `94882ba64483434c98d461fa1fc19ba2` | Item: `Gemstone Gauntlet LEGENDARY` | Price: `13,000,000` | Second LBIN: `14,900,000`
+/viewauction `1550fbf539b54ca28ae3cd99650fa6be` | Item: `lvl100 Dolphin ✦ LEGENDARY` | Price: `23,999,999` | Second LBIN: `34,800,000` | Clean LBIN `23,999,999`
+/viewauction `55213477ab2c4a38a01b815372453f66` | Item: `Ancient Tarantula Helmet ✪✪✪✪✪ EPIC` | Price: `1,200,000` | Second LBIN: `2,500,000` | Clean LBIN `530,000`
+/viewauction `45de8f2e782c46f3a52f1fe68958d703` | Item: `Fabled Voidedge Katana (OFA) RARE` | Price: `6,000,000` | Second LBIN: `7,000,000` | Clean LBIN `550,000`
+/viewauction `44743a66d3fd49f691ed96f18d053307` | Item: `Withered Flower of Truth ✪✪✪✪✪ (UW5) LEGENDARY` | Price: `8,250,000` | Second LBIN: `9,500,000` | Clean LBIN `3,797,999`
+/viewauction `0c42bbec28a448b1b6f57e091802923c` | Item: `Giant Goldor's Leggings LEGENDARY` | Price: `10,000,000` | Second LBIN: `11,500,000` | Clean LBIN `5,891,000`
+/viewauction `e03134e5e8244f1daed58a1c57e624a3` | Item: `Giant Goldor's Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `9,000,000` | Second LBIN: `14,000,000` | Clean LBIN `9,000,000`
+/viewauction `f4179a9e1034447eac8dd4c6756bd439` | Item: `Spiritual Juju Shortbow ✪✪✪✪✪ (re) LEGENDARY` | Price: `26,000,000` | Second LBIN: `28,999,900` | Clean LBIN `23,499,000`
+/viewauction `d5963ac5d924435cb6ef2c553d416543` | Item: `Giant Necromancer Lord Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `9,000,000` | Second LBIN: `11,000,000` | Clean LBIN `9,000,000`
+/viewauction `e78403fc5e524dce83ca79643863b304` | Item: `Fabled Flower of Truth ✪✪✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `8,300,000` | Clean LBIN `3,797,999`
+/viewauction `fc46e552d30549de90dd8fdbe76ec4c3` | Item: `Giant Necromancer Lord Helmet ✪✪✪✪ LEGENDARY` | Price: `2,200,000` | Second LBIN: `4,750,000` | Clean LBIN `290,000`
+/viewauction `df1144637e4a4dd184d0735255ff85bd` | Item: `Chestplate of the Rising Sun EPIC` | Price: `20,000,000` | Second LBIN: `22,900,000`
+/viewauction `e5bb077879864eba8a356f677bf1a8c9` | Item: `Ancient Necromancer Lord Helmet ✪✪✪✪✪ LEGENDARY` | Price: `1,800,000` | Second LBIN: `5,500,000` | Clean LBIN `290,000`
+/viewauction `5a3ed375cdf74ab29dee8b434b41957c` | Item: `Superior Dragon Boots LEGENDARY` | Price: `425,000` | Second LBIN: `3,700,000`
+/viewauction `443e804d9c454cb88eb8715a8038885a` | Item: `Frozen Scythe ✪✪✪✪✪ RARE` | Price: `7,300,000` | Second LBIN: `8,500,000` | Clean LBIN `7,000,000`
+/viewauction `b2489f1e482947268211aeaae3cc7267` | Item: `Fabled Scorpion Foil EPIC` | Price: `1,500,000` | Second LBIN: `6,000,000` | Clean LBIN `1,500,000`
+/viewauction `5ace9faea16748adadb0b5b779446fe2` | Item: `Frozen Scythe (UW5) RARE` | Price: `10,500,000` | Second LBIN: `25,000,000` | Clean LBIN `7,000,000`
+/viewauction `599fef6bf24d4a128e501656838893b5` | Item: `lvl100 Griffin COMMON` | Price: `2,000,000` | Second LBIN: `6,000,000`
+/viewauction `e33a14fb23ec46eaa2a1d82312624fae` | Item: `Wise Dragon Leggings ✪ LEGENDARY` | Price: `1,400,000` | Second LBIN: `45,000,000` | Clean LBIN `1,400,000`
+/viewauction `04e7e4d756a644169702fe143f9854b7` | Item: `Ancient Necron's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `23,600,000` | Second LBIN: `27,690,000` | Clean LBIN `13,899,000`
+/viewauction `db6c8398a3704f65aab761c77c14c78e` | Item: `Flower of Truth ✪✪✪✪ (UW5) LEGENDARY` | Price: `7,000,000` | Second LBIN: `10,000,000` | Clean LBIN `3,796,000`
+/viewauction `78b2627345f94afe8242f90267ccc90e` | Item: `Ancient Werewolf Helmet ✪✪✪✪✪ LEGENDARY` | Price: `1,250,000` | Second LBIN: `4,890,000` | Clean LBIN `300,000`
+/viewauction `1efa22a257484e99bf2941eb9570c913` | Item: `⚚ Adaptive Blade ✪✪✪✪✪ EPIC` | Price: `2,000,000` | Second LBIN: `4,000,000` | Clean LBIN `730,000`
+/viewauction `28b4f699bb9049fb92e728dd65a55ea9` | Item: `lvl>0 Lion EPIC` | Price: `2,500,000` | Second LBIN: `3,500,000`
+/viewauction `3c1db6bebae44d0196715c13a011d5b9` | Item: `Shaman Sword (OFA) EPIC` | Price: `6,500,000` | Second LBIN: `7,900,000` | Clean LBIN `150,000`
+/viewauction `d1de1414e5b647deb8f3d10aafc7198a` | Item: `Chestplate of the Rising Sun EPIC` | Price: `17,000,000` | Second LBIN: `22,800,000`
+/viewauction `40d134384cb24f8c8a2a44eb237ca22d` | Item: `Perfect Ancient Chestplate - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `8,000,000` | Second LBIN: `10,800,000` | Clean LBIN `6,699,999`
+/viewauction `dbeb94bb861945e18a07f037f56c456f` | Item: `Strong Ancient Dragon Chestplate LEGENDARY` | Price: `1,110,000` | Second LBIN: `40,000,000` | Clean LBIN `450,000`
+/viewauction `8b79276e5aa74fde87b680d300b37828` | Item: `Fabled Midas' Sword (re) MYTHIC` | Price: `56,000,000` | Second LBIN: `63,000,000` | Clean LBIN `13,000,000`
+/viewauction `8980ce110dcc4cf794e1806103ba270b` | Item: `Giant Necromancer Lord Helmet ✪✪✪✪✪ (re) MYTHIC` | Price: `7,000,000` | Second LBIN: `8,500,000` | Clean LBIN `5,350,000`
+/viewauction `c90f12cd0be148a29e859a575b57eb29` | Item: `Ancient Crimson Leggings LEGENDARY` | Price: `900,000` | Second LBIN: `1,900,000` | Clean LBIN `900,000`
+/viewauction `ccd094465b014bab861cbd5f1c19f053` | Item: `Midas Staff ✪✪✪✪✪ (UW5) LEGENDARY` | Price: `25,000,000` | Second LBIN: `36,550,000` | Clean LBIN `25,000,000`
+/viewauction `97750554261e4679abd14e35d87a704e` | Item: `Ancient Terror Boots (re) MYTHIC` | Price: `6,000,000` | Second LBIN: `12,000,000` | Clean LBIN `6,000,000`
+/viewauction `bb8268b100344112ae058aabc517744b` | Item: `Ancient Storm's Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `24,242,000` | Clean LBIN `10,000,000`
+/viewauction `de4fe657749e47798c239286dd29c41b` | Item: `lvl>95 Baby Yeti EPIC` | Price: `13,250,000` | Second LBIN: `15,000,000`
+/viewauction `8714b8abd7bd4b7891826e9940db185c` | Item: `Spirit Sceptre ✪✪✪✪✪ (UW5) LEGENDARY` | Price: `17,000,000` | Second LBIN: `20,000,000` | Clean LBIN `14,650,000`
+/viewauction `768c1caab0184913ac8e06a5113e58ba` | Item: `Ancient Storm's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `14,500,000` | Second LBIN: `20,000,000` | Clean LBIN `7,790,000`
+/viewauction `8b598e4e555e4e5e9736929e4ae9b13b` | Item: `lvl>95 Bal LEGENDARY` | Price: `13,000,000` | Second LBIN: `20,000,000`
+/viewauction `9336692715d84e45a1b82891c20f6a92` | Item: `Ancient Golden Livid Head ✪✪✪✪✪ SPECIAL` | Price: `1,900,000` | Second LBIN: `2,990,000` | Clean LBIN `500,000`
+/viewauction `49a5f1fb75c74b70a19e408bfbfecf51` | Item: `Catacombs Expert Ring (re) LEGENDARY` | Price: `27,000,000` | Second LBIN: `34,600,000` | Clean LBIN `27,000,000`
+/viewauction `6a560b7bf9374a769242d54d73592377` | Item: `Implosion Belt EPIC` | Price: `4,000,000` | Second LBIN: `5,499,000`
+/viewauction `4a61708e9fd04a659e77ac980edb72a6` | Item: `Withered Soul Whip LEGENDARY` | Price: `12,500,000` | Second LBIN: `17,000,000` | Clean LBIN `9,999,999`
+/viewauction `5124f05dcbc848ee9139dde85f32de56` | Item: `Necromancer Lord Chestplate ✪✪✪ LEGENDARY` | Price: `9,000,000` | Second LBIN: `11,000,000` | Clean LBIN `7,900,000`
+/viewauction `4f02016767ff4d51bfd54d5b5247d588` | Item: `Personal Compactor 7000 (re) MYTHIC` | Price: `4,000,000` | Second LBIN: `13,000,000` | Clean LBIN `4,000,000`
+/viewauction `631ab123518c4881b386898dedb0f343` | Item: `Auto Recombobulator (re) MYTHIC` | Price: `9,000,000` | Second LBIN: `16,500,000` | Clean LBIN `9,000,000`
+/viewauction `04723ee5b9d84f25add0bac630bf7bb2` | Item: `Candy Relic (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `16,250,000` | Clean LBIN `10,000,000`
+/viewauction `4ac0068fdec64ec4b5d44ee574d61e1a` | Item: `Submerged Shark Scale Chestplate LEGENDARY` | Price: `2,788,800` | Second LBIN: `4,500,000` | Clean LBIN `2,750,000`
+/viewauction `69a69db1da61475089eaff8858895da4` | Item: `Submerged Shark Scale Helmet (re) (L5) MYTHIC` | Price: `8,000,000` | Second LBIN: `9,500,000` | Clean LBIN `4,500,000`
+/viewauction `9b26372e526b4ad88bf9130ac8ee1c78` | Item: `Loving Necromancer Lord Chestplate ✪✪ LEGENDARY` | Price: `9,000,000` | Second LBIN: `10,500,000` | Clean LBIN `7,900,000`
+/viewauction `956dd70bc5a148298ad96e2a464c2fb6` | Item: `Ancient Golden Bonzo Head ✪✪✪✪✪ SPECIAL` | Price: `4,300,000` | Second LBIN: `12,000,000` | Clean LBIN `315,000`
+/viewauction `9d4ab1f5359444e58f1cfcd5aeb858a6` | Item: `⚚ Fabled Shadow Fury ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `38,000,000` | Second LBIN: `42,555,555` | Clean LBIN `33,000,000`
+/viewauction `a6019eada99c44339a33b3dee41910f2` | Item: `Personal Compactor 7000 (re) MYTHIC` | Price: `8,850,000` | Second LBIN: `13,000,000` | Clean LBIN `8,850,000`
+/viewauction `08a08199c9b94b3ba33f8e6e5cd35b43` | Item: `Tarantula Talisman EPIC` | Price: `1,000,000` | Second LBIN: `2,100,000`
+/viewauction `2cff43145e594285834af86f31f1598c` | Item: `Void Conqueror Enderman Skin EPIC` | Price: `500` | Second LBIN: `3,000,000`
+/viewauction `70ece1b9272d48e695b0dbd029103686` | Item: `lvl>75 Bal LEGENDARY` | Price: `12,950,000` | Second LBIN: `14,500,000`
+/viewauction `1b4730e4523a4311a2f5a201e6ef6f6f` | Item: `lvl>90 Dolphin EPIC` | Price: `5,500,000` | Second LBIN: `7,000,000`
+/viewauction `9a210f0a10c5428fb9bddb8aa01101b0` | Item: `Giant Goldor's Boots ✪✪✪✪ LEGENDARY` | Price: `8,500,000` | Second LBIN: `14,500,000` | Clean LBIN `2,100,000`
+/viewauction `c5d3aacbb0874181a38c0857034255df` | Item: `Shadow Assassin Leggings ✪ EPIC` | Price: `1,300,000` | Second LBIN: `3,500,000` | Clean LBIN `1,300,000`
+/viewauction `03500265f17b4a7f91cd42c5c0fb3383` | Item: `Ancient Necron's Leggings ✪✪✪✪ LEGENDARY` | Price: `17,500,000` | Second LBIN: `23,000,000` | Clean LBIN `13,800,000`
+/viewauction `7bd28f16ff684d2889be663421431064` | Item: `Scarf's Grimoire (re) MYTHIC` | Price: `9,000,000` | Second LBIN: `15,000,000` | Clean LBIN `9,000,000`
+/viewauction `08ed9d9e71814f4e972f4be436b15c78` | Item: `Ancient Necron's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `24,000,000` | Second LBIN: `27,000,000` | Clean LBIN `13,800,000`
+/viewauction `329580b460f04d6fab25e65f59b79c4f` | Item: `lvl>90 Mithril Golem EPIC` | Price: `2,500,000` | Second LBIN: `3,700,000`
+/viewauction `8f47cb1fa4fa4a0da5c1127bc1632d78` | Item: `lvl100 Armadillo RARE` | Price: `24,000` | Second LBIN: `1,500,000`
+/viewauction `ba67827e031c47029ed3ad4832047b62` | Item: `Giant Necromancer Lord Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `8,000,000` | Second LBIN: `9,000,000` | Clean LBIN `8,000,000`
+/viewauction `b2ce5b78971440c6807f213f0ec945b3` | Item: `lvl>90 Dolphin RARE` | Price: `2,000,000` | Second LBIN: `3,600,000`
+/viewauction `ea09178316864c408c1361252381d3e1` | Item: `Ancient Terror Boots (re) MYTHIC` | Price: `2,000,000` | Second LBIN: `6,000,000` | Clean LBIN `2,000,000`
+/viewauction `c55a6695624f4a0591988b2b179ddaf5` | Item: `Ancient Frozen Blaze Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `9,700,000` | Second LBIN: `15,999,000` | Clean LBIN `8,999,990`
+/viewauction `c2ae7250c2664d518e3db40dd91da662` | Item: `⚚ Shadow Assassin Chestplate ✪✪✪✪ (re) MYTHIC` | Price: `25,420,690` | Second LBIN: `31,999,999` | Clean LBIN `23,000,000`
+/viewauction `04932117435b4e10a3fc695ea1e4ba5e` | Item: `Strong Dragon Leggings ✪✪✪ LEGENDARY` | Price: `1,199,000` | Second LBIN: `5,500,000` | Clean LBIN `1,199,000`
+/viewauction `cfc3ce5a6b34443fa9c93a67d351e95c` | Item: `Pigman Sword LEGENDARY` | Price: `3,100,120` | Second LBIN: `9,000,000`
+/viewauction `f7960c8a88d545a6be54210fcaf5f265` | Item: `Bonzo's Staff ✪✪✪✪✪ (UW5) RARE` | Price: `4,999,000` | Second LBIN: `9,000,000` | Clean LBIN `2,690,000`
+/viewauction `781c750efede45b1996ad21fba38c850` | Item: `Fel Sword ✪✪✪✪✪ EPIC` | Price: `1,100,000` | Second LBIN: `2,400,000` | Clean LBIN `435,000`
+/viewauction `73bc3c14c86d4b11a4d007c3f8f7b729` | Item: `Ember Ash Leggings UNCOMMON` | Price: `5,000,000` | Second LBIN: `8,000,000`
+/viewauction `a6439712cba246f09509544a5a4ee3ab` | Item: `Ancient Necron's Helmet ✪✪✪✪✪ LEGENDARY` | Price: `10,500,000` | Second LBIN: `17,000,000` | Clean LBIN `9,999,999`
+/viewauction `30aba6894f774d38838b10781db880cf` | Item: `Ember Ash Boots UNCOMMON` | Price: `10,000,000` | Second LBIN: `13,000,000`
+/viewauction `fb6a598cc13c4b22b81a1ab9f3a9d4ba` | Item: `Perfect Boots - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `4,920,290` | Second LBIN: `8,000,000` | Clean LBIN `4,920,290`
+/viewauction `495a4bb72afe486c95d178c864e0d02a` | Item: `⚚ Shadow Assassin Leggings ✪✪✪✪ LEGENDARY` | Price: `4,300,000` | Second LBIN: `5,400,000` | Clean LBIN `4,300,000`
+/viewauction `e77f508a6a384cf7b543b99b8374482b` | Item: `Perfect Loving Chestplate - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `5,400,000` | Second LBIN: `7,000,000` | Clean LBIN `5,400,000`
+/viewauction `9a1fb635354a4c34a9e3326db8080b51` | Item: `lvl>95 Griffin EPIC` | Price: `11,500,000` | Second LBIN: `13,999,999`
+/viewauction `9ac0780715ac4971b291027f22bbca40` | Item: `⚚ Ancient Shadow Assassin Boots ✪✪✪✪ (re) MYTHIC` | Price: `7,955,550` | Second LBIN: `9,100,000` | Clean LBIN `5,200,000`
+/viewauction `211b57ab7ccb4e579aff73ce0adaff79` | Item: `Ancient Maxor's Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `23,506,900` | Second LBIN: `100,000,000` | Clean LBIN `15,699,000`
+/viewauction `466c5b21664444e5a986e74c2158ffb4` | Item: `Topaz Drill KGR-12 (P5) EPIC` | Price: `15,000,000` | Second LBIN: `43,000,000` | Clean LBIN `10,999,000`
+/viewauction `d5776dbb4b054b879e0f036ed01535e1` | Item: `Ancient Terror Boots (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `12,000,000` | Clean LBIN `10,000,000`
+/viewauction `92f63daad155427e9b94519ce1fcfd40` | Item: `Withered Ragnarock Axe (re) EPIC` | Price: `10,000,000` | Second LBIN: `20,000,000` | Clean LBIN `10,000,000`
+/viewauction `2c8c5f1a80bc477490cef66eac8cddd7` | Item: `Runaan's Bow ✪✪✪✪✪ (re) MYTHIC` | Price: `4,800,000` | Second LBIN: `6,000,000` | Clean LBIN `4,800,000`
+/viewauction `0920ec433ed442eabee5d8f319f9d81b` | Item: `⚚ Adaptive Chestplate ✪✪✪✪✪ (re) LEGENDARY` | Price: `5,000,000` | Second LBIN: `11,800,000` | Clean LBIN `5,000,000`
+/viewauction `b9f29a14086440cc88783c8a2488212c` | Item: `Ancient Necron's Helmet ✪✪✪✪✪ LEGENDARY` | Price: `13,500,000` | Second LBIN: `17,000,000` | Clean LBIN `9,999,999`
+/viewauction `96035299f1d24594a1f4a5090ae2b9ba` | Item: `Puffer Fish Skin LEGENDARY` | Price: `29,999,999` | Second LBIN: `40,000,000`
+/viewauction `a0184fe382fd41c3b75c8b80ed42bd18` | Item: `Strong Dragon Leggings ✪✪ LEGENDARY` | Price: `2,000,000` | Second LBIN: `5,000,000` | Clean LBIN `1,199,000`
+/viewauction `627409e8eba54369bc14a90f087d2776` | Item: `Ancient Storm's Helmet ✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `9,200,000` | Clean LBIN `4,500,000`
+/viewauction `e9923f99ed5448f08a5815a4c694eabf` | Item: `Submerged Shark Scale Helmet LEGENDARY` | Price: `4,500,000` | Second LBIN: `5,999,999` | Clean LBIN `590,000`
+/viewauction `993e4bad1b2b4568a4d3f79181d74d5d` | Item: `Spiritual Juju Shortbow ✪✪✪✪✪ (re) (SE5 ,Ov5) LEGENDARY` | Price: `41,000,000` | Second LBIN: `52,959,999` | Clean LBIN `23,499,000`
+/viewauction `9af19f5f3aca42c6b9527ea283f45186` | Item: `Tarantula Helmet ✪✪✪✪✪ EPIC` | Price: `2,000,000` | Second LBIN: `3,999,999` | Clean LBIN `500,000`
+/viewauction `f03226f328764de999aa6626f0c8f7ee` | Item: `Juju Shortbow ✪✪✪✪ EPIC` | Price: `16,500,000` | Second LBIN: `19,998,000` | Clean LBIN `16,500,000`
+/viewauction `5d19c0e064e9471b9cea6f19296424b5` | Item: `Purple Snubfin Dolphin Skin RARE` | Price: `11,000,000` | Second LBIN: `13,100,000`
+/viewauction `c9315432f1844c698f6dda728fc46daa` | Item: `lvl100 Snail LEGENDARY` | Price: `17,777,777` | Second LBIN: `19,999,999`
+/viewauction `8fbfe2fb76294a58ae9b5d655375cd76` | Item: `lvl>75 Megalodon LEGENDARY` | Price: `3,899,989` | Second LBIN: `7,000,000`
+/viewauction `c9906cd8f9514e83bda2e781fda766fd` | Item: `lvl>95 Snail LEGENDARY` | Price: `7,000,000` | Second LBIN: `10,000,000`
+/viewauction `a444eab6d07849f0900d34b43ded054e` | Item: `Fourth Master Star EPIC` | Price: `30,000,000` | Second LBIN: `33,900,000`
+/viewauction `ee5543381d6845f39ca53d267c86a98c` | Item: `Chestplate of the Rising Sun EPIC` | Price: `10,000,000` | Second LBIN: `16,499,999`
+/viewauction `1a00e1db8b654975b10eff9de3960d14` | Item: `Phantom Rod ✪✪ LEGENDARY` | Price: `1,500,000` | Second LBIN: `2,600,000` | Clean LBIN `980,000`
+/viewauction `62e156a9e3364478a8570342b19afc9f` | Item: `Loving Storm's Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `20,500,000` | Second LBIN: `24,300,000` | Clean LBIN `16,500,000`
+/viewauction `452c2fd0b1fd4d68ad07ec92262663ef` | Item: `lvl>95 Skeleton LEGENDARY` | Price: `8,999,000` | Second LBIN: `14,000,000`
+/viewauction `f8aba1da815949afb26880b36c21728b` | Item: `lvl>75 Skeleton LEGENDARY` | Price: `978,999` | Second LBIN: `4,000,000`
+/viewauction `17cf3385bd2849c2acc8edd1e905e37c` | Item: `Withered Soul Whip LEGENDARY` | Price: `11,000,000` | Second LBIN: `17,000,000` | Clean LBIN `9,500,000`
+/viewauction `a654307c220c4b17984fe428996f755e` | Item: `Dark Queen's Soul Drop EPIC` | Price: `100,000` | Second LBIN: `2,499,950`
+/viewauction `09f104c0589d4f2cbafc51ef8bd84616` | Item: `Aspect of the Dragons (OFA) LEGENDARY` | Price: `500,000` | Second LBIN: `6,300,000` | Clean LBIN `499,999`
+/viewauction `e90cf5d752184866bebe9bd249645e89` | Item: `Storm's Leggings ✪✪✪✪ LEGENDARY` | Price: `10,200,000` | Second LBIN: `14,000,000` | Clean LBIN `7,500,000`
+/viewauction `d2c71ab7167b45638e4dfbe21d041390` | Item: `Flower of Truth ✪✪✪✪ LEGENDARY` | Price: `4,000,000` | Second LBIN: `6,000,000` | Clean LBIN `3,798,999`
+/viewauction `b593658f4ffb4e2babe5d018c6fd077a` | Item: `Tarantula Helmet ✪✪ EPIC` | Price: `499,999` | Second LBIN: `1,500,000` | Clean LBIN `499,999`
+/viewauction `de2a3086db9447f988b3f415414886ba` | Item: `⚚ Adaptive Chestplate ✪✪✪✪ EPIC` | Price: `3,000,000` | Second LBIN: `4,249,000` | Clean LBIN `2,500,000`
+/viewauction `f309d010e6b6483dbd0614bfec4ab6a2` | Item: `Ancient Golden Sadan Head ✪✪✪✪✪ SPECIAL` | Price: `5,000,000` | Second LBIN: `6,700,000` | Clean LBIN `2,500,000`
+/viewauction `9f7693862ad6418db915323b68c9635c` | Item: `Voidedge Katana (OFA) RARE` | Price: `6,000` | Second LBIN: `6,999,999` | Clean LBIN `6,000`
+/viewauction `3798819d4ad544d69bcdc83e809c6d22` | Item: `lvl100 Sheep LEGENDARY` | Price: `7,000,000` | Second LBIN: `8,690,000`
+/viewauction `c4a629a4a65145f78cfebe21e6c977aa` | Item: `Loving Maxor's Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `23,000,000` | Second LBIN: `34,000,000` | Clean LBIN `15,699,000`
+/viewauction `0518bce618ab435e9b4bd1da21554edf` | Item: `Auger Rod (re) MYTHIC` | Price: `18,000,000` | Second LBIN: `20,500,000` | Clean LBIN `18,000,000`
+/viewauction `56bcda09f78d430a8339073c006fc16c` | Item: `Ancient Werewolf Leggings ✪✪✪ LEGENDARY` | Price: `1,000,000` | Second LBIN: `4,800,000` | Clean LBIN `399,999`
+/viewauction `c0437aba80ae4c55a9bcaa4993eadba2` | Item: `Withered Livid Dagger ✪✪✪✪ LEGENDARY` | Price: `8,500,000` | Second LBIN: `11,999,999` | Clean LBIN `6,250,000`
+/viewauction `60b9968f7e8b445c80533ceb05f7a6e0` | Item: `Ancient Werewolf Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `1,000,000` | Second LBIN: `2,499,999` | Clean LBIN `399,999`
+/viewauction `286f1aae818f4e28aa9869beb16a2fe5` | Item: `Ancient Werewolf Helmet ✪✪✪✪✪ LEGENDARY` | Price: `1,000,000` | Second LBIN: `4,890,000` | Clean LBIN `180,000`
+/viewauction `c25058d6d7d6450196adf04063f7270d` | Item: `Death Bow ✪✪✪✪✪ EPIC` | Price: `2,000,000` | Second LBIN: `3,500,000` | Clean LBIN `1,888,888`
+/viewauction `fe049bb5f80140fe929ad432fc17e4d0` | Item: `Ancient Shadow Assassin Helmet ✪✪✪ EPIC` | Price: `2,000,000` | Second LBIN: `3,000,000` | Clean LBIN `1,400,000`
+/viewauction `076b1ad5c5be4efea5cfc0b15f379288` | Item: `lvl>75 Squid LEGENDARY` | Price: `12,400,000` | Second LBIN: `13,800,000`
+/viewauction `8d7cf5e8a8514fcab756ffe76ba4a156` | Item: `Fabled Emerald Blade (re) (OFA) LEGENDARY` | Price: `1,000,000` | Second LBIN: `12,499,999` | Clean LBIN `1,000,000`
+/viewauction `d0849d973f5d421cbc43a90d5b7628b8` | Item: `Young Dragon Leggings ✪✪✪✪✪ LEGENDARY` | Price: `1,300,000` | Second LBIN: `5,000,000` | Clean LBIN `230,000`
+/viewauction `27ed4e8a7beb457182bad547b97a82f6` | Item: `Reaper Mask ✪✪✪✪ LEGENDARY` | Price: `8,500,000` | Second LBIN: `14,988,000` | Clean LBIN `8,049,999`
+/viewauction `9ba46009f6444c2e89bec8657cc3c889` | Item: `lvl>90 Rabbit LEGENDARY` | Price: `4,000,000` | Second LBIN: `5,000,000`
+/viewauction `ce9ca673cb724c18badae21ca5d7b1dd` | Item: `Wither Leggings ✪✪✪✪✪ LEGENDARY` | Price: `9,600,000` | Second LBIN: `10,980,000` | Clean LBIN `4,910,000`
+/viewauction `88f5cb19f3f244e2aeafe0959e7775c5` | Item: `Ancient Tarantula Helmet ✪✪✪✪✪ ✦ (re) LEGENDARY` | Price: `38,000,000` | Second LBIN: `44,999,999` | Clean LBIN `9,694,200`
+/viewauction `37085caed7a4464bb20c83509170f40d` | Item: `lvl>0 Spirit LEGENDARY` | Price: `750,000` | Second LBIN: `4,750,000`
+/viewauction `a49854d5a2524018981b2f6014eeb4b1` | Item: `Wither Cloak Sword (UW5) EPIC` | Price: `3,500,000` | Second LBIN: `6,750,000` | Clean LBIN `3,280,000`
+/viewauction `66c785551dda4163b6aa3a8bc6043d87` | Item: `Necron's Chestplate ✪ LEGENDARY` | Price: `22,970,000` | Second LBIN: `28,000,000` | Clean LBIN `22,800,000`
+/viewauction `ed5c049ac140498bb5b165cef9c89f81` | Item: `Withered Axe of the Shredded ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `55,000,000` | Second LBIN: `69,999,999` | Clean LBIN `52,000,000`
+/viewauction `2ddd3132943e487a84cb75ac53114dfa` | Item: `lvl>0 Spirit EPIC` | Price: `850,000` | Second LBIN: `2,290,000`
+/viewauction `565227bdbae34843a490be8528a59d75` | Item: `lvl>75 Skeleton Horse LEGENDARY` | Price: `9,000,000` | Second LBIN: `15,000,000`
+/viewauction `c98b6d310b5f498db34401f70d3ed18f` | Item: `Pigman Sword LEGENDARY` | Price: `5,000,000` | Second LBIN: `8,999,900`
+/viewauction `f9d3560d239f4e44969e59e4897f6e55` | Item: `Wand of Atonement (UW5) LEGENDARY` | Price: `6,000,000` | Second LBIN: `7,000,000` | Clean LBIN `3,400,000`
+/viewauction `05ca6c2b6576480a94c527f473946a1b` | Item: `Livid Dagger ✪✪ (re) MYTHIC` | Price: `13,499,999` | Second LBIN: `16,000,000` | Clean LBIN `13,499,999`
+/viewauction `754fcfa2aca94ec39df7e96006ad8d75` | Item: `Flamebreaker Chestplate EPIC` | Price: `400,000` | Second LBIN: `32,900,000`
+/viewauction `e9a25c9a9d724f29b1ac9bdb7437b5df` | Item: `Storm's Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `13,000,000` | Second LBIN: `14,700,000` | Clean LBIN `10,500,000`
+/viewauction `0291abcba2354c4986155fc4fd8eb483` | Item: `Loving Storm's Chestplate ✪✪ LEGENDARY` | Price: `17,900,000` | Second LBIN: `24,700,000` | Clean LBIN `16,500,000`
+/viewauction `49c6ee9f922e4c7d9d37d930c55758ff` | Item: `Wise Dragon Leggings LEGENDARY` | Price: `300,000` | Second LBIN: `1,500,000`
+/viewauction `04ac9171eda04556ac12ed4fc665b9f4` | Item: `Withered Flower of Truth ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `13,200,000` | Clean LBIN `8,598,776`
+/viewauction `d4ac8e0744c642bbbcbddb26787d7163` | Item: `Renowned Sorrow Chestplate (re) (L5) MYTHIC` | Price: `41,000,000` | Second LBIN: `300,000,000` | Clean LBIN `19,909,999`
+/viewauction `9e2eb73b87164aaf8e48c0540c1db1c1` | Item: `Tropical Bird 2 Minion Skin COMMON` | Price: `200,000` | Second LBIN: `3,000,000`
+/viewauction `28f3f5e3787e48fb9387872bd200b1e2` | Item: `lvl>90 Griffin EPIC` | Price: `9,000,000` | Second LBIN: `10,700,000`
+/viewauction `b0673a8e0a484935bd95bee2256a5484` | Item: `Renowned Sorrow Helmet (re) (L5) MYTHIC` | Price: `39,000,000` | Second LBIN: `48,000,000` | Clean LBIN `16,600,000`
+/viewauction `1843b9d6251b4f718fe0cfb9cfa29d55` | Item: `Griffin Upgrade Stone (re) LEGENDARY` | Price: `7,000,000` | Second LBIN: `13,999,999` | Clean LBIN `7,000,000`
+/viewauction `71409d6e10a6467d9adb58555fa85846` | Item: `Ice Spray Wand ✪✪✪✪✪ (re) (UW5) EPIC` | Price: `30,000,000` | Second LBIN: `34,900,000` | Clean LBIN `30,000,000`
+/viewauction `4423fafb89e14d918a23d93af0bd15ec` | Item: `Spiritual Juju Shortbow ✪✪✪✪✪ EPIC` | Price: `18,500,000` | Second LBIN: `22,000,000` | Clean LBIN `16,700,000`
+/viewauction `e626271090f54fa5aa4e925c1ff6e4ac` | Item: `Withered Emerald Blade (OFA) EPIC` | Price: `7,000,000` | Second LBIN: `8,000,000` | Clean LBIN `330,000`
+/viewauction `475f6c7ce9fb44c2bdae8a3ccf7f1fc7` | Item: `Fabled Axe of the Shredded (OFA) LEGENDARY` | Price: `51,000,000` | Second LBIN: `65,000,000` | Clean LBIN `50,000,000`
+/viewauction `f4f17fc47d1347e09e816be6090ea443` | Item: `Withered Flower of Truth ✪✪✪ LEGENDARY` | Price: `4,600,000` | Second LBIN: `7,000,000` | Clean LBIN `3,779,999`
+/viewauction `ac6e8ae7a54243ef9564e016939e3735` | Item: `Ancient Necron's Helmet ✪✪ LEGENDARY` | Price: `10,000,000` | Second LBIN: `13,600,000` | Clean LBIN `9,999,999`
+/viewauction `5c1d87fdded84884be8b71f71bdcb52d` | Item: `⚚ Shadow Fury ✪✪✪✪✪ LEGENDARY` | Price: `26,000,000` | Second LBIN: `30,400,000` | Clean LBIN `24,000,000`
+/viewauction `b58470050a6c49028fee7e396c965e16` | Item: `Bonzo's Staff ✪✪✪✪✪ RARE` | Price: `2,600,000` | Second LBIN: `3,600,000` | Clean LBIN `2,500,000`
+/viewauction `02d637dda48e4d5d9bf3101172c71b68` | Item: `Fabled Flower of Truth ✪✪✪✪✪ LEGENDARY` | Price: `6,000,000` | Second LBIN: `8,300,000` | Clean LBIN `3,779,998`
+/viewauction `522cd3f737ac428f845998764059a2be` | Item: `lvl>0 Dolphin RARE` | Price: `2,000,000` | Second LBIN: `3,400,000`
+/viewauction `a9a5f035601349ba9e74a91877be6166` | Item: `Ancient Tarantula Helmet (re) LEGENDARY` | Price: `8,300,000` | Second LBIN: `9,694,200` | Clean LBIN `8,300,000`
+/viewauction `2f486ed369d1404ebaa454c9ffc1b846` | Item: `Flame Dye EPIC` | Price: `380,000,000` | Second LBIN: `449,999,000`
+/viewauction `57640f78604d4a9eb691d8f8cb12a331` | Item: `Renowned Sorrow Helmet LEGENDARY` | Price: `12,000,000` | Second LBIN: `13,500,000` | Clean LBIN `8,199,999`
+/viewauction `42579fdf172741f9b1a9b40939666d9a` | Item: `Fabled Axe of the Shredded (OFA) LEGENDARY` | Price: `52,000,000` | Second LBIN: `65,000,000` | Clean LBIN `50,000,000`
+/viewauction `6d0f828b345f453a9b29189cef4eee60` | Item: `Griffin Upgrade Stone (re) LEGENDARY` | Price: `7,500,000` | Second LBIN: `14,000,000` | Clean LBIN `7,500,000`
+/viewauction `7ce7909f07b446a4b5519b645fa37e78` | Item: `lvl>95 Dolphin EPIC` | Price: `5,000,000` | Second LBIN: `6,200,000`
+/viewauction `3bb98e5da2e04fafa358c926bad3f63b` | Item: `lvl>90 Enderman EPIC` | Price: `8,000,000` | Second LBIN: `10,000,000`
+/viewauction `fc4a59b8fc974932b2ca8ed97463fe66` | Item: `Livid Dagger ✪✪✪✪✪ (OFA) LEGENDARY` | Price: `13,000,000` | Second LBIN: `19,000,000` | Clean LBIN `6,450,000`
+/viewauction `dabc71235b95491f8a59afc5f960f7f2` | Item: `Withered Reaper Falchion (OFA) EPIC` | Price: `8,300,000` | Second LBIN: `11,500,000` | Clean LBIN `3,300,000`
+/viewauction `882b93e01ced41dd82788db66872d50b` | Item: `lvl>90 Blue Whale LEGENDARY` | Price: `18,500,000` | Second LBIN: `21,000,000`
+/viewauction `77a8a0720c134a33bf37d88cc73832af` | Item: `Goldor's Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `24,000,000` | Second LBIN: `77,000,000` | Clean LBIN `13,000,000`
+/viewauction `2196df2bc644491dbfb47e18849d8ebe` | Item: `lvl>90 Droplet Wisp UNCOMMON` | Price: `10,000,000` | Second LBIN: `12,500,000`
+/viewauction `9750def26a4b47139c885e17bf3612a0` | Item: `⚚ Adaptive Chestplate ✪✪✪✪✪ (re) LEGENDARY` | Price: `4,000,000` | Second LBIN: `5,000,000` | Clean LBIN `4,000,000`
+/viewauction `f21f025157c84e05be6a008c9dc90717` | Item: `Shadow Assassin Helmet ✪✪✪✪✪ EPIC` | Price: `1,399,997` | Second LBIN: `2,699,999` | Clean LBIN `1,399,997`
+/viewauction `74338404df6b4c63aa5dcd255678425c` | Item: `Giant Necromancer Lord Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `7,000,000` | Second LBIN: `8,000,000` | Clean LBIN `7,000,000`
+/viewauction `e29ee5b31dd34715b2ca6d2d65d8ea9e` | Item: `Superior Dragon Leggings ✪✪✪✪✪ LEGENDARY` | Price: `7,500,000` | Second LBIN: `19,999,999` | Clean LBIN `7,500,000`
+/viewauction `4896bb108f3c48008f079c13a076f11f` | Item: `Superior Dragon Boots ✪✪✪✪✪ LEGENDARY` | Price: `5,000,000` | Second LBIN: `6,300,000` | Clean LBIN `3,979,000`
+/viewauction `6e2a4ba31bd44d5797755f450a29b74f` | Item: `Withered Daedalus Axe LEGENDARY` | Price: `61,000,000` | Second LBIN: `69,420,000` | Clean LBIN `61,000,000`
+/viewauction `365162da57954fbaad15ab01d1832bcc` | Item: `⚚ Shadow Fury ✪✪✪✪✪ LEGENDARY` | Price: `32,100,000` | Second LBIN: `47,990,000` | Clean LBIN `24,000,000`
+/viewauction `3447cd0cb0044303a5489d53348da56f` | Item: `Ancient Terror Helmet LEGENDARY` | Price: `300,000` | Second LBIN: `1,800,000` | Clean LBIN `300,000`
+/viewauction `edf5833509b249128a745c5919952872` | Item: `Ancient Terror Boots LEGENDARY` | Price: `500,000` | Second LBIN: `2,200,000` | Clean LBIN `500,000`
+/viewauction `f1443980476b4fa6867b7942d142c7e3` | Item: `Reaper Scythe ✪ LEGENDARY` | Price: `16,000,000` | Second LBIN: `20,300,000` | Clean LBIN `16,000,000`
+/viewauction `a59c8ddd8294405fa95a80def20f9d3a` | Item: `⚚ Ancient Shadow Assassin Helmet ✪✪✪✪✪ LEGENDARY` | Price: `2,400,000` | Second LBIN: `3,400,000` | Clean LBIN `2,400,000`
+/viewauction `d5ad4ee536cf41f28fa4dcc5b6d225bf` | Item: `Withered Reaper Falchion ✪✪✪✪✪ EPIC` | Price: `4,200,000` | Second LBIN: `7,499,000` | Clean LBIN `3,300,000`
+/viewauction `14d28913957a462b993b28af26d22edc` | Item: `Ancient Golden Sadan Head ✪✪✪✪ SPECIAL` | Price: `4,499,999` | Second LBIN: `7,000,000` | Clean LBIN `2,700,000`
+/viewauction `e8fef143827642aca40f4a16cb509ec3` | Item: `Fabled Flower of Truth ✪✪✪✪✪ LEGENDARY` | Price: `5,000,000` | Second LBIN: `7,000,000` | Clean LBIN `3,749,999`
+/viewauction `310f4608c39146bba2a1a709633d4f22` | Item: `Shadow Assassin Chestplate EPIC` | Price: `5,000` | Second LBIN: `16,899,999`
+/viewauction `69e536d2fb8d4b588a81886ef16b595f` | Item: `Ancient Werewolf Helmet LEGENDARY` | Price: `179,000` | Second LBIN: `1,200,000` | Clean LBIN `179,000`
+/viewauction `5fb47843e57148c9b61e48f75dd5b50e` | Item: `Fabled Aspect of the Dragons ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `7,000,000` | Second LBIN: `9,000,000` | Clean LBIN `6,500,000`
+/viewauction `6dec0a2e339148e78268a559bc42ebac` | Item: `Wise Dragon Leggings ✪✪✪ LEGENDARY` | Price: `1,000,000` | Second LBIN: `2,200,000` | Clean LBIN `1,000,000`
+/viewauction `328cad05f67e4000bacb9eaa3ae94b3e` | Item: `Strong Dragon Leggings ✪✪✪ LEGENDARY` | Price: `700,000` | Second LBIN: `5,500,000` | Clean LBIN `700,000`
+/viewauction `1aca20740d844d51a8ca25336e6c76c5` | Item: `Fabled Flower of Truth ✪✪✪✪✪ LEGENDARY` | Price: `5,999,000` | Second LBIN: `7,000,000` | Clean LBIN `3,749,999`
+/viewauction `e4c1274d7f1040f3968fadfa562b800e` | Item: `Pastel Ender Dragon Skin LEGENDARY` | Price: `8,000,000` | Second LBIN: `10,000,000`
+/viewauction `b02f1c39e99849688cbc34fb47321280` | Item: `⚚ Spiritual Last Breath ✪✪✪✪✪ LEGENDARY` | Price: `5,800,000` | Second LBIN: `9,000,000` | Clean LBIN `4,400,000`
+/viewauction `9c1d8cb77c8c411f93e89472edbe16a6` | Item: `⚚ Venom's Touch EPIC` | Price: `600,000` | Second LBIN: `2,320,000` | Clean LBIN `480,000`
+/viewauction `95ddc1de1289443a945bd24d41b03759` | Item: `Withered Axe of the Shredded ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `54,999,000` | Second LBIN: `62,999,999` | Clean LBIN `52,000,000`
+/viewauction `30c4095555b64ed2883fa682467bc30c` | Item: `Ancient Tarantula Helmet ✪✪✪✪✪ (re) LEGENDARY` | Price: `9,000,000` | Second LBIN: `10,400,000` | Clean LBIN `8,300,000`
+/viewauction `c734c08c07d24f138e559930ee6d67d4` | Item: `Giant Goldor's Boots ✪✪✪ LEGENDARY` | Price: `4,000,000` | Second LBIN: `6,000,000` | Clean LBIN `2,200,000`
+/viewauction `d48ebfab83f645a68dcba89ee6c6289a` | Item: `Ancient Young Dragon Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `1,600,000` | Second LBIN: `4,999,999` | Clean LBIN `249,999`
+/viewauction `97700dcb460b407c91a3896311b751f4` | Item: `Ancient Superior Dragon Boots ✪✪✪ LEGENDARY` | Price: `5,500,000` | Second LBIN: `12,000,000` | Clean LBIN `3,979,000`
+/viewauction `ea3a1df81ec84931817f9d7777016a6b` | Item: `Fabled Reaper Falchion ✪ (OFA) EPIC` | Price: `8,100,000` | Second LBIN: `11,900,000` | Clean LBIN `3,300,000`
+/viewauction `d5b26dd84f04442b9988ffd1925f2ef2` | Item: `Ancient Necron's Helmet ✪✪✪ LEGENDARY` | Price: `14,000,000` | Second LBIN: `16,500,000` | Clean LBIN `9,999,999`
+/viewauction `9db388331a144b4c9baf6c41e741487b` | Item: `Giant Reaper Mask ✪✪✪✪✪ LEGENDARY` | Price: `9,000,000` | Second LBIN: `10,880,000` | Clean LBIN `8,049,999`
+/viewauction `7abc0180f5634f84968ff596f8e72689` | Item: `Fabled Daedalus Axe (re) (OFA) MYTHIC` | Price: `57,000,000` | Second LBIN: `71,000,000` | Clean LBIN `57,000,000`
+/viewauction `ac53ac1161844185b57ae22cfb67a5a8` | Item: `Superior Dragon Leggings ✪✪✪✪✪ LEGENDARY` | Price: `7,500,000` | Second LBIN: `19,999,999` | Clean LBIN `7,500,000`
+/viewauction `407d213985a64d2fb757400516af4463` | Item: `Necromancer Lord Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `3,000,000` | Second LBIN: `13,900,000` | Clean LBIN `3,000,000`
+/viewauction `ada1a1a01cb74cd3bb1c1c070944cba4` | Item: `lvl>95 Griffin LEGENDARY` | Price: `34,000,000` | Second LBIN: `50,000,000`
+/viewauction `9a2b79aae2154eb0972de50e9d6f6ed2` | Item: `Withered Soul Whip ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `17,000,000` | Second LBIN: `25,000,000` | Clean LBIN `15,000,000`
+/viewauction `01677baab3cc4dbc9149fe1083eadfd7` | Item: `lvl100 Tiger LEGENDARY` | Price: `20,000,000` | Second LBIN: `26,000,000`
+/viewauction `a1cfe717b0fa4afab1ac7ee48cfc2fd9` | Item: `⚚ Ancient Adaptive Leggings ✪✪✪✪✪ EPIC` | Price: `1,000,000` | Second LBIN: `2,200,000` | Clean LBIN `170,000`
+/viewauction `82007a657d0f4d83a99d349631a53cf6` | Item: `Renowned Sorrow Chestplate (re) (L5) MYTHIC` | Price: `52,222,222` | Second LBIN: `300,000,000` | Clean LBIN `19,909,999`
+/viewauction `f40eb580c01043158856ae7700405ddf` | Item: `Protector Dragon Helmet ✪✪✪✪✪ LEGENDARY` | Price: `1,000,000` | Second LBIN: `2,999,998` | Clean LBIN `175,000`
+/viewauction `a742c9480ce744eab2cd406142cd1071` | Item: `Soul Whip ✪✪ LEGENDARY` | Price: `12,000,000` | Second LBIN: `18,000,000` | Clean LBIN `9,990,000`
+/viewauction `4fd031fbd43e400887391de30e1db5b2` | Item: `Flower of Truth ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `13,000,000` | Second LBIN: `15,200,000` | Clean LBIN `8,598,776`
+/viewauction `008950562ad443e0a5ef91c2fb2bfe45` | Item: `lvl>75 Baby Yeti EPIC` | Price: `8,000,000` | Second LBIN: `10,000,000`
+/viewauction `f03dd153f181404888c3e4195541e95a` | Item: `Protector Dragon Leggings ✪✪✪✪✪ LEGENDARY` | Price: `1,600,000` | Second LBIN: `3,000,000` | Clean LBIN `200,000`
+/viewauction `5ee2d63ecdec46c0b2c8a6688f4c9203` | Item: `Livid Dagger ✪✪ LEGENDARY` | Price: `9,000,000` | Second LBIN: `12,300,000` | Clean LBIN `6,300,000`
+/viewauction `99b6f1c62c0a4c689459e3653dcfd2d5` | Item: `⚚ Adaptive Leggings ✪✪✪✪ EPIC` | Price: `720,000` | Second LBIN: `1,900,000` | Clean LBIN `169,999`
+/viewauction `aa60a73e19144213a9c0ace1c1e66792` | Item: `Death Bow ✪✪✪✪✪ EPIC` | Price: `1,660,000` | Second LBIN: `3,500,000` | Clean LBIN `1,660,000`
+/viewauction `bdc9f144194940bca29846fd71dc7607` | Item: `Necromancer Lord Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `7,500,000` | Second LBIN: `13,900,000` | Clean LBIN `3,400,000`
+/viewauction `6b79e987a18e422da1934fa309e28ff1` | Item: `Chestplate of the Rising Sun EPIC` | Price: `7,700,000` | Second LBIN: `10,000,000`
+/viewauction `8ac364005a3044d19b9170f24ba91cd7` | Item: `Fabled Phantom Rod LEGENDARY` | Price: `1,200,000` | Second LBIN: `6,500,000` | Clean LBIN `1,000,000`
+/viewauction `3f0769e8bea74856a733bdcf13831cfa` | Item: `Flower of Truth ✪✪✪✪ LEGENDARY` | Price: `5,000,000` | Second LBIN: `6,300,000` | Clean LBIN `3,799,000`
+/viewauction `fa578f933c2e457bb20bdbd921266562` | Item: `⚚ Ancient Shadow Assassin Chestplate ✪✪ LEGENDARY` | Price: `18,499,999` | Second LBIN: `20,999,999` | Clean LBIN `18,499,999`
+/viewauction `3dbce3ffb4954bba9ceb3f07a08d49af` | Item: `Aurora Leggings (re) MYTHIC` | Price: `3,000,000` | Second LBIN: `7,000,000` | Clean LBIN `3,000,000`
+/viewauction `614e7ce59bb24a9fa0423d0b6c194e34` | Item: `Aurora Boots (re) MYTHIC` | Price: `3,000,000` | Second LBIN: `5,400,000` | Clean LBIN `3,000,000`
+/viewauction `d6fbab94859c427c863fe2413fa569f7` | Item: `Fabled Livid Dagger ✪✪✪✪✪ (re) MYTHIC` | Price: `13,500,000` | Second LBIN: `16,399,999` | Clean LBIN `13,000,000`
+/viewauction `993116e61e5c47b49f0a7719e20099df` | Item: `Spirit Sceptre ✪✪✪ LEGENDARY` | Price: `14,000,000` | Second LBIN: `16,000,000` | Clean LBIN `14,000,000`
+/viewauction `9ab9106674214d3887f62fb4c31f621f` | Item: `lvl>90 Wither Skeleton LEGENDARY` | Price: `6,000,000` | Second LBIN: `7,500,000`
+/viewauction `92b34fec55f045d5887d9459a9598ead` | Item: `Ancient Maxor's Helmet ✪✪✪✪✪ LEGENDARY` | Price: `7,400,000` | Second LBIN: `11,500,000` | Clean LBIN `2,800,000`
+/viewauction `ddec0d1e6a764fd6baa9fe2e51515cd2` | Item: `Ancient Rancher's Boots EPIC` | Price: `2,500,000` | Second LBIN: `14,141,414` | Clean LBIN `2,500,000`
+/viewauction `1e7691474dbe4812b8007ed1f905ea71` | Item: `Goldor's Boots ✪✪ LEGENDARY` | Price: `3,000,000` | Second LBIN: `4,000,000` | Clean LBIN `2,200,000`
+/viewauction `06186e015b4849138197009cf16ad14d` | Item: `Pastel Ender Dragon Skin LEGENDARY` | Price: `8,000,000` | Second LBIN: `9,000,000`
+/viewauction `ce6e3237426f4682aae24d7087bd8f09` | Item: `Storm's Boots ✪✪✪✪✪ LEGENDARY` | Price: `8,500,000` | Second LBIN: `9,900,000` | Clean LBIN `3,698,000`
+/viewauction `c5cbede12176431ba34f7a0b8be68c12` | Item: `Frozen Scythe ✪✪✪✪✪ RARE` | Price: `7,500,000` | Second LBIN: `8,500,000` | Clean LBIN `7,250,000`
+/viewauction `3daf68f8c78342dd8c90c27146da0b60` | Item: `Withered Emerald Blade (OFA) EPIC` | Price: `6,700,000` | Second LBIN: `8,000,000` | Clean LBIN `300,000`
+/viewauction `a524ea0671c74f9e8587b9d19c4d43b4` | Item: `Ancient Necron's Helmet LEGENDARY` | Price: `10,000,000` | Second LBIN: `14,000,000` | Clean LBIN `9,999,999`
+/viewauction `d87bfa18636a43cc8b16da1f805bb711` | Item: `Fabled Livid Dagger ✪✪✪✪✪ (OFA) LEGENDARY` | Price: `12,222,222` | Second LBIN: `15,000,000` | Clean LBIN `6,499,000`
+/viewauction `fc917abe35084149ad859078ffdeb33d` | Item: `lvl>95 Griffin LEGENDARY` | Price: `37,899,999` | Second LBIN: `50,000,000`
+/viewauction `3be4790651ac4fcf8868cdbe3865f2b9` | Item: `Livid Dagger ✪✪✪✪✪ LEGENDARY` | Price: `8,000,000` | Second LBIN: `9,000,000` | Clean LBIN `6,499,000`
+/viewauction `9bccfe96e9314929baa14985a636134e` | Item: `Synthesizer v1 EPIC` | Price: `1,000,000` | Second LBIN: `2,000,000`
+/viewauction `943aee7d91cb4e28b22238cedc52df41` | Item: `lvl>75 Droplet Wisp UNCOMMON` | Price: `5,000,000` | Second LBIN: `13,500,000`
+/viewauction `75df023601234e02a196cd6637effb83` | Item: `lvl>75 Mithril Golem EPIC` | Price: `890,000` | Second LBIN: `2,500,000`
+/viewauction `5f633f7f7ad549fd8598b7662a7505ee` | Item: `Ancient Necron's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `21,999,000` | Second LBIN: `25,000,000` | Clean LBIN `14,000,000`
+/viewauction `efed33adca4c4f74bbb1bd739bd80d42` | Item: `Storm's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `12,500,000` | Second LBIN: `14,100,000` | Clean LBIN `7,500,000`
+/viewauction `4eab21f741d642869b375efcf41f3c2f` | Item: `Ancient Crimson Leggings (re) MYTHIC` | Price: `6,000,000` | Second LBIN: `7,900,000` | Clean LBIN `6,000,000`
+/viewauction `8263561541a84953a9b2b8fcbe54b2f8` | Item: `lvl>95 Dolphin EPIC` | Price: `5,000,000` | Second LBIN: `6,200,000`
+/viewauction `f01ace1bd4d548908fb6fc3f5e3fe721` | Item: `Fabled Vorpal Katana (re) LEGENDARY` | Price: `4,900,000` | Second LBIN: `6,200,000` | Clean LBIN `4,900,000`
+/viewauction `2f6c886d10d24296b34605617e07f725` | Item: `Fabled Flower of Truth ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `11,000,000` | Second LBIN: `15,299,900` | Clean LBIN `8,598,776`
+/viewauction `0c11a870f39949d6ab513644bcb1ebfd` | Item: `Necron's Helmet ✪ (re) MYTHIC` | Price: `17,900,000` | Second LBIN: `21,499,000` | Clean LBIN `17,900,000`
+/viewauction `2ce6b63d1c7b4016a874982e6da16e69` | Item: `lvl>75 Armadillo LEGENDARY` | Price: `3,300,000` | Second LBIN: `4,500,000`
+/viewauction `9b409e669b374807aa2058de3dff714b` | Item: `Ancient Berserker Chestplate (re) LEGENDARY` | Price: `5,000,000` | Second LBIN: `15,000,000` | Clean LBIN `5,000,000`
+/viewauction `cf16913f7bd2412f9eb82ae9bcab49d4` | Item: `Ancient Tarantula Helmet ✪✪✪✪✪ (re) LEGENDARY` | Price: `4,000,000` | Second LBIN: `9,000,000` | Clean LBIN `4,000,000`
+/viewauction `e1d2809bd7d247d79e896d82e154a54b` | Item: `lvl100 Mithril Golem EPIC` | Price: `1,000,000` | Second LBIN: `3,900,000`
+/viewauction `5abbd1ce14d94e5dbd33a80c0254257e` | Item: `Withered Soul Whip ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `17,000,000` | Second LBIN: `25,000,000` | Clean LBIN `15,000,000`
+/viewauction `aa10631bb1c940d5ba86045eb5e8e90a` | Item: `⚚ Ancient Shadow Assassin Chestplate ✪✪✪✪✪ (re) MYTHIC` | Price: `20,000,000` | Second LBIN: `24,300,000` | Clean LBIN `20,000,000`
+/viewauction `b3eaec57259f459c8227fa5ab0d6f081` | Item: `Withered Emerald Blade (OFA) EPIC` | Price: `6,749,000` | Second LBIN: `8,000,000` | Clean LBIN `329,000`
+/viewauction `09bbe89874a94542a70442cb90734b2b` | Item: `lvl>75 Tiger RARE` | Price: `1,000,000` | Second LBIN: `3,000,000`
+/viewauction `7329c222583e4e728380e9009b1c7614` | Item: `Personal Compactor 7000 (re) MYTHIC` | Price: `11,000,000` | Second LBIN: `13,000,000` | Clean LBIN `11,000,000`
+/viewauction `999283b7fd01473ab9c39fa1b90b8ccf` | Item: `Frozen Scythe ✪✪✪✪✪ (re) (UW5) EPIC` | Price: `9,000,000` | Second LBIN: `23,950,000` | Clean LBIN `9,000,000`
+/viewauction `07ba791263574540b351ab130e94848b` | Item: `⚚ Adaptive Chestplate ✪✪✪✪✪ (re) LEGENDARY` | Price: `3,000,000` | Second LBIN: `4,000,000` | Clean LBIN `3,000,000`
+/viewauction `c1b6cc88a7754b3f99bc7d709b370746` | Item: `Renowned Superior Dragon Chestplate ✪✪✪✪✪ (re) (L5) MYTHIC` | Price: `42,000,000` | Second LBIN: `49,000,000` | Clean LBIN `14,000,000`
+/viewauction `3eae03b07ad7472b9affcf892896e39a` | Item: `Shadow Assassin Chestplate EPIC` | Price: `15,000,000` | Second LBIN: `16,999,000`
+/viewauction `0669ab37aeec4112aae197e9c4601fbc` | Item: `Bonzo's Staff (UW5) RARE` | Price: `3,600,000` | Second LBIN: `5,850,000` | Clean LBIN `2,500,000`
+/viewauction `5d83f9c8a21b4523bea572674c87dc7c` | Item: `Fabled Twilight Dagger RARE` | Price: `7,000,000` | Second LBIN: `13,000,000` | Clean LBIN `7,000,000`
+/viewauction `843a87a2e4794f92b9c93ae0cb69350b` | Item: `lvl100 Jellyfish LEGENDARY` | Price: `25,000,000` | Second LBIN: `27,900,000`
+/viewauction `d27afd4237fb46f3a0cddaee3c2720a2` | Item: `Ancient Maxor's Helmet ✪✪✪ LEGENDARY` | Price: `4,000,000` | Second LBIN: `7,599,000` | Clean LBIN `2,800,000`
+/viewauction `f2ee8624543449ae896582b64763a0c6` | Item: `lvl100 Blaze ✦ LEGENDARY` | Price: `32,000,000` | Second LBIN: `36,990,000` | Clean LBIN `30,000,000`
+/viewauction `bfea9751f9cd415f8b47e86bb3bd5035` | Item: `lvl100 Griffin EPIC` | Price: `8,000,000` | Second LBIN: `15,500,000`
+/viewauction `050f6294f3dc42e0b52e0aa277279d1e` | Item: `⚚ Shadow Assassin Leggings ✪✪✪ LEGENDARY` | Price: `4,099,999` | Second LBIN: `5,499,999` | Clean LBIN `4,099,999`
+/viewauction `e0159bae388f43b9a62c7cd5b564b6e2` | Item: `Ancient Necron's Boots ✪✪✪ LEGENDARY` | Price: `15,000,000` | Second LBIN: `22,000,000` | Clean LBIN `9,790,000`
+/viewauction `82af1616d1044c16b158f3388ef88635` | Item: `Ancient Necron's Boots ✪✪✪✪✪➌ (re) (L5) MYTHIC` | Price: `98,000,000` | Second LBIN: `128,000,000` | Clean LBIN `18,000,000`
+/viewauction `b7ddcfeb290948cf8a45ead416e9deff` | Item: `Runaan's Bow ✪ LEGENDARY` | Price: `400,000` | Second LBIN: `1,650,000` | Clean LBIN `370,000`
+/viewauction `3a1d1deef3634cf3acc35d5d5471ef3d` | Item: `Midas Staff ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `30,000,000` | Second LBIN: `38,000,000` | Clean LBIN `30,000,000`
+/viewauction `da577a168a7d409f8733e79cb36287b3` | Item: `Giant Goldor's Boots ✪✪✪✪✪ LEGENDARY` | Price: `6,500,000` | Second LBIN: `8,999,995` | Clean LBIN `2,200,000`
+/viewauction `5919c8486f7d4fa1b48f1c7fcd3a06aa` | Item: `lvl>75 Blaze LEGENDARY` | Price: `24,999,999` | Second LBIN: `27,900,000`
+/viewauction `f58ddf421ff748e099d59f8a08f75890` | Item: `⚚ Adaptive Chestplate ✪✪✪✪✪ (re) LEGENDARY` | Price: `6,000,000` | Second LBIN: `11,800,000` | Clean LBIN `6,000,000`
+/viewauction `10736ea6559048f68df6250b6ada35e4` | Item: `Giant Goldor's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `6,500,000` | Second LBIN: `13,000,000` | Clean LBIN `5,899,999`
+/viewauction `03084a680a3a4f09b5da34ba053edb76` | Item: `Abiphone XIII Pro Giga EPIC` | Price: `84,999,995` | Second LBIN: `94,999,995`
+/viewauction `a2afe068e73a4f409a0512b03efd4429` | Item: `Midas Staff ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `35,000,000` | Second LBIN: `39,000,000` | Clean LBIN `35,000,000`
+/viewauction `c7ca883957d048d8accfdb1215618139` | Item: `Goldor's Helmet ✪✪✪✪✪ LEGENDARY` | Price: `5,000,000` | Second LBIN: `10,000,000` | Clean LBIN `2,760,000`
+/viewauction `f8ed9783bfcf43b8b2b709622057a965` | Item: `Fabled Pyrochaos Dagger (re) MYTHIC` | Price: `399,999,999` | Second LBIN: `449,999,999` | Clean LBIN `399,999,999`
+/viewauction `307d38662c294583b9b9efbb71aa6221` | Item: `Frozen Scythe ✪ RARE` | Price: `7,199,000` | Second LBIN: `11,000,000` | Clean LBIN `7,000,000`
+/viewauction `b7beb217103348998dfccc22a8526cac` | Item: `Fabled Livid Dagger ✪✪✪ LEGENDARY` | Price: `8,000,000` | Second LBIN: `9,000,000` | Clean LBIN `6,498,000`
+/viewauction `d923102b07f04722bf43ca6ad0d5f23b` | Item: `Frozen Scythe ✪✪✪✪✪ RARE` | Price: `7,500,000` | Second LBIN: `8,500,000` | Clean LBIN `7,000,000`
+/viewauction `41b98ec773a9463fbc463b8e9b697d3b` | Item: `Leggings of the Rising Sun EPIC` | Price: `10,000,000` | Second LBIN: `19,000,000`
+/viewauction `dd13ab562dd645d1a78dab3a300e6f4d` | Item: `Ancient Necron's Chestplate ✪✪✪✪✪ (re) MYTHIC` | Price: `26,499,999` | Second LBIN: `35,000,000` | Clean LBIN `26,499,999`
+/viewauction `426a3d8ba79740acbfaeffb562d1dba2` | Item: `lvl>95 Griffin LEGENDARY` | Price: `38,000,000` | Second LBIN: `50,000,000`
+/viewauction `ea14ebd1a98b408082dda5f04b0607e2` | Item: `Shadow Assassin Chestplate ✪✪ EPIC` | Price: `16,999,999` | Second LBIN: `19,000,000` | Clean LBIN `16,999,999`
+/viewauction `d8a8183aa288460598deee30b3f30e91` | Item: `Livid Dagger ✪✪ LEGENDARY` | Price: `7,800,000` | Second LBIN: `9,000,000` | Clean LBIN `6,498,000`
+/viewauction `d4ccba2ba1c949829f5fcc208e157f60` | Item: `Fabled Vorpal Katana (re) (SE5) LEGENDARY` | Price: `20,000,000` | Second LBIN: `23,000,000` | Clean LBIN `4,900,000`
+/viewauction `5bf7ba7c9b834432b5c1535872b3e9b2` | Item: `lvl>95 Griffin LEGENDARY` | Price: `40,000,000` | Second LBIN: `50,000,000`
+/viewauction `78cf23e444554b1da4fb50ee9b619bf3` | Item: `Wither Goggles ✪✪✪✪✪ EPIC` | Price: `5,200,000` | Second LBIN: `6,800,000` | Clean LBIN `5,100,000`
+/viewauction `8de2f3a69ac241fd94a20705cf7475cd` | Item: `Ancient Golden Sadan Head ✪✪✪✪✪ SPECIAL` | Price: `5,500,000` | Second LBIN: `6,700,000` | Clean LBIN `2,800,000`
+/viewauction `780f8b7748284003a7aa908a1e485a08` | Item: `⚚ Shadow Assassin Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `18,800,000` | Second LBIN: `22,899,000` | Clean LBIN `18,499,999`
+/viewauction `7d8cfabef69c469c86c7294871846b21` | Item: `Perfect Giant Chestplate - Tier IX ✪✪✪✪✪ LEGENDARY` | Price: `20,000,000` | Second LBIN: `35,000,000` | Clean LBIN `7,499,999`
+/viewauction `57460831e4cf4e23af8de38a7b80f80e` | Item: `⚚ Shadow Assassin Leggings LEGENDARY` | Price: `4,500,000` | Second LBIN: `5,799,000` | Clean LBIN `4,500,000`
+/viewauction `def0430d7b944ee0b2ceb2c505845f6b` | Item: `Withered Thick Scorpion Foil (re) MYTHIC` | Price: `15,000,000` | Second LBIN: `17,500,000` | Clean LBIN `12,000,000`
+/viewauction `6296eca1f3b747a9b987e1e29becca27` | Item: `lvl>90 Enderman EPIC` | Price: `8,199,999` | Second LBIN: `17,500,000`
+/viewauction `4685e4d5822b41d481bb03df776236ff` | Item: `Fabled Flower of Truth ✪ LEGENDARY` | Price: `4,099,999` | Second LBIN: `12,500,000` | Clean LBIN `3,749,999`
+/viewauction `f15b266ac66a426b8f60bbea11096dc6` | Item: `Wither Cloak Sword (UW5) EPIC` | Price: `3,500,000` | Second LBIN: `6,750,000` | Clean LBIN `3,000,000`
+/viewauction `ece567f48aae4a7890f0d9f7a1582641` | Item: `Ragnarock Axe (OFA) RARE` | Price: `132,000` | Second LBIN: `7,000,000` | Clean LBIN `132,000`
+/viewauction `7f750392a4864e829edc88022632b0b4` | Item: `Renowned Sorrow Chestplate (re) (L5) MYTHIC` | Price: `38,990,000` | Second LBIN: `52,222,222` | Clean LBIN `19,909,999`
+/viewauction `54dd05cd427948e291b395c10fec6902` | Item: `Revenant Chestplate EPIC` | Price: `450,000` | Second LBIN: `1,600,000`
+/viewauction `5d33f752c1c840ceabc5119579fc29d7` | Item: `Storm's Boots ✪✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `45,000,000` | Clean LBIN `3,698,000`
+/viewauction `741ad39956424acbaee82f17d940c716` | Item: `Loving Storm's Chestplate ✪✪✪✪✪ (re) MYTHIC` | Price: `25,000,000` | Second LBIN: `29,400,000` | Clean LBIN `23,500,000`
+/viewauction `c8024c9b34374c55b91dfdd471eb1959` | Item: `Fabled Flower of Truth ✪ LEGENDARY` | Price: `5,900,000` | Second LBIN: `12,500,000` | Clean LBIN `3,749,999`
+/viewauction `834ca01a068847e8b3649cf73d2dc9c5` | Item: `Storm's Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `12,000,000` | Second LBIN: `14,650,000` | Clean LBIN `10,500,000`
+/viewauction `1a1b20adbe9a4f0cb1b667c3f643a920` | Item: `Storm's Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `12,500,000` | Second LBIN: `20,000,000` | Clean LBIN `12,500,000`
+/viewauction `866b93a5eb8a433ca097abd8d8b4d63e` | Item: `lvl>75 Ammonite LEGENDARY` | Price: `799,999` | Second LBIN: `7,400,000`
+/viewauction `bd0e4bf34eeb42ceac49d8ef0985ba0f` | Item: `Auger Rod (re) MYTHIC` | Price: `18,000,000` | Second LBIN: `20,400,000` | Clean LBIN `18,000,000`
+/viewauction `24e7d82a11964fbfb08c11b189bdd8f2` | Item: `Flower of Truth ✪✪✪ (UW5) LEGENDARY` | Price: `6,000,000` | Second LBIN: `8,000,000` | Clean LBIN `3,700,000`
+/viewauction `4f3b4dac07b14d899336c07b7411df19` | Item: `Runaan's Bow ✪ LEGENDARY` | Price: `369,000` | Second LBIN: `1,650,000` | Clean LBIN `369,000`
+/viewauction `08ada6d689de49c88493272a8ca74ae7` | Item: `lvl100 Sheep LEGENDARY` | Price: `6,499,999` | Second LBIN: `7,999,999`
+/viewauction `6bf3b1b761b1478b9db3ce25bc70313e` | Item: `Tropical Bird 2 Minion Skin COMMON` | Price: `4,000,000` | Second LBIN: `8,000,000`
+/viewauction `85eeba9e53e0478080d7401092a5428c` | Item: `Mithril Drill SX-R326 RARE` | Price: `13,000,000` | Second LBIN: `17,000,000`
+/viewauction `7036fecb5cbf45a39a9c3fdae365e267` | Item: `Ancient Frozen Blaze Boots ✪✪✪✪✪➊ (re) (L5) MYTHIC` | Price: `25,000,000` | Second LBIN: `28,760,000` | Clean LBIN `10,000,000`
+/viewauction `688f91cf20cc4f39b84421c582684431` | Item: `Ancient Frozen Blaze Leggings ✪✪✪✪✪➊ (re) (L5) MYTHIC` | Price: `26,000,000` | Second LBIN: `33,000,000` | Clean LBIN `12,300,000`
+/viewauction `7cb35e2cb4a4461985dabf775e37d367` | Item: `lvl>75 Griffin EPIC` | Price: `9,400,000` | Second LBIN: `11,500,000`
+/viewauction `9db8ac358f914ebeadf37176bf4edf6d` | Item: `Phantom Rod ✪✪ LEGENDARY` | Price: `1,750,000` | Second LBIN: `5,000,000` | Clean LBIN `1,240,000`
+/viewauction `04d5aa389de14e97af6e53897aa0e179` | Item: `⚚ Shadow Assassin Leggings ✪✪✪✪ LEGENDARY` | Price: `4,499,999` | Second LBIN: `5,500,000` | Clean LBIN `4,499,999`
+/viewauction `5b1f30945d9b402a9888b7e742c57572` | Item: `Fabled Soul Whip ✪✪✪✪✪ LEGENDARY` | Price: `11,999,000` | Second LBIN: `17,000,000` | Clean LBIN `10,990,000`
+/viewauction `4b00f0e282804974a7771c95a6cc8b84` | Item: `⚚ Adaptive Chestplate ✪✪✪✪ EPIC` | Price: `3,000,000` | Second LBIN: `4,249,000` | Clean LBIN `2,500,000`
+/viewauction `5ccbd001bdca4a9dbc68cb208f20290e` | Item: `lvl>95 Dolphin EPIC` | Price: `5,000,000` | Second LBIN: `6,200,000`
+/viewauction `2a31ec057f9049b59662875304cbf774` | Item: `Flower of Truth ✪✪✪✪✪ (re) MYTHIC` | Price: `10,500,000` | Second LBIN: `12,500,000` | Clean LBIN `8,598,776`
+/viewauction `f264f22a03a64120b166f527ab3196d7` | Item: `Spirit Boots ✪✪✪✪✪ EPIC` | Price: `4,000,000` | Second LBIN: `5,800,000` | Clean LBIN `2,900,000`
+/viewauction `428cde80bfcc4ff895f2a78271cca5a1` | Item: `Perfect Giant Leggings - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `6,000,000` | Second LBIN: `10,000,000` | Clean LBIN `6,000,000`
+/viewauction `899eee14e81d48ce94e633473e397d2e` | Item: `Chestplate of the Rising Sun EPIC` | Price: `3,000,000` | Second LBIN: `7,000,000`
+/viewauction `a5312333c542494d94036ab086694529` | Item: `Reaper Falchion ✪✪✪✪✪ (OFA) EPIC` | Price: `9,990,000` | Second LBIN: `11,800,000` | Clean LBIN `3,200,000`
+/viewauction `fa6d95b58f36440c910fdd26468f8657` | Item: `Midas' Sword ✪✪✪ (re) MYTHIC` | Price: `14,000,000` | Second LBIN: `16,000,000` | Clean LBIN `14,000,000`
+/viewauction `c37fc246b48b4c0e86ccdd8096502f1d` | Item: `Potato Talisman COMMON` | Price: `1,500,000` | Second LBIN: `10,250,000`
+/viewauction `3dc5f96fe2a44075a85170c083c5267e` | Item: `⚚ Loving Adaptive Chestplate ✪✪✪✪✪ EPIC` | Price: `3,600,000` | Second LBIN: `4,900,000` | Clean LBIN `2,500,000`
+/viewauction `f2fddfb0af364df8ac167df6bc1dcb7e` | Item: `⚚ Shadow Assassin Leggings ✪✪✪✪✪ LEGENDARY` | Price: `4,250,000` | Second LBIN: `5,500,000` | Clean LBIN `4,250,000`
+/viewauction `c7267959108b40d0b3dbcb8a03ef9638` | Item: `Ancient Frozen Blaze Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `12,000,000` | Second LBIN: `13,800,000` | Clean LBIN `12,000,000`
+/viewauction `316f45c6c13d4db794f2dca717ce0a32` | Item: `Reaper Falchion ✪ EPIC` | Price: `3,199,990` | Second LBIN: `5,000,000` | Clean LBIN `3,100,000`
+/viewauction `a46b8202a3734a9ab2f3e95ab30c688d` | Item: `Flamebreaker Chestplate EPIC` | Price: `500,000` | Second LBIN: `32,900,000`
+/viewauction `383bc23efda24318aedea6a622585c3b` | Item: `Gemstone Gauntlet (re) MYTHIC` | Price: `19,000,000` | Second LBIN: `23,000,000` | Clean LBIN `19,000,000`
+/viewauction `ec8005fb6304413aaafe89681f742421` | Item: `Fabled Flower of Truth LEGENDARY` | Price: `4,600,000` | Second LBIN: `5,900,000` | Clean LBIN `3,690,000`
+/viewauction `c5bc4ac445c141b98e787b36c48c7cde` | Item: `Perfect Loving Chestplate - Tier XI ✪✪✪✪✪ (re) MYTHIC` | Price: `9,696,969` | Second LBIN: `13,900,000` | Clean LBIN `9,696,969`
+/viewauction `d9e01f9ceaa042bba3ea7b819291263c` | Item: `Enderpack Skin EPIC` | Price: `9,999,999` | Second LBIN: `11,500,000`
+/viewauction `3473a4db9e964925b0c15ab4997b8a84` | Item: `lvl100 Dolphin ✦ EPIC` | Price: `13,000,000` | Second LBIN: `17,000,000` | Clean LBIN `10,500,000`
+/viewauction `d2e5807aa84f489b8ca2de9c53915b8e` | Item: `lvl>75 Endermite EPIC` | Price: `500,000` | Second LBIN: `3,100,000`
+/viewauction `803e7099dd4b4055bfbcb1c5fc7565e0` | Item: `Cyan Repelling Candle UNCOMMON` | Price: `85,000` | Second LBIN: `1,200,000`
+/viewauction `d59201621b9a4f02839d2f857294a95e` | Item: `Chestplate of the Rising Sun EPIC` | Price: `2,000,000` | Second LBIN: `3,000,000`
+/viewauction `2462d40ac64a40b9a7d4f42331648801` | Item: `lvl>0 Snail LEGENDARY` | Price: `3,200,000` | Second LBIN: `4,200,000`
+/viewauction `f8fbeb38bbfd408b90af3a5244230bdf` | Item: `Ancient Necron's Boots ✪✪✪✪✪ LEGENDARY` | Price: `15,000,000` | Second LBIN: `17,700,000` | Clean LBIN `9,999,999`
+/viewauction `a72a485a4c5e419189914bdc7013d017` | Item: `⚚ Withered Shadow Fury ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `40,000,000` | Second LBIN: `45,000,000` | Clean LBIN `34,999,822`
+/viewauction `99228a06cf9442038f3ecf9e357ed46b` | Item: `Wither Goggles ✪✪✪✪✪ (re) LEGENDARY` | Price: `5,500,000` | Second LBIN: `12,000,000` | Clean LBIN `5,500,000`
+/viewauction `2ac00da166594f4599e79810b69dc403` | Item: `Perfect Giant Leggings - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `10,000,000` | Clean LBIN `6,300,000`
+/viewauction `977942f67a694702b5755bf97030ae79` | Item: `Necromancer Sword ✪✪✪✪✪ LEGENDARY` | Price: `9,000,000` | Second LBIN: `11,000,000` | Clean LBIN `8,900,000`
+/viewauction `4d449cf27030444fb6ef82d28e4821f2` | Item: `Shadow Assassin Leggings ✪✪✪ EPIC` | Price: `3,000,000` | Second LBIN: `4,000,000` | Clean LBIN `3,000,000`
+/viewauction `360e6437d52e444bbe51806cacb13d46` | Item: `⚚ Shadow Assassin Boots ✪✪✪✪✪ LEGENDARY` | Price: `2,000,000` | Second LBIN: `3,000,000` | Clean LBIN `2,000,000`
+/viewauction `60288b23944e425bbef0232d61f11f73` | Item: `Tarantula Helmet ✪✪✪✪ EPIC` | Price: `600,000` | Second LBIN: `1,999,999` | Clean LBIN `500,000`
+/viewauction `f955f5391baa4e3baf7ab29579ad8b50` | Item: `Ancient Necron's Helmet ✪✪✪✪✪ LEGENDARY` | Price: `16,000,000` | Second LBIN: `18,999,999` | Clean LBIN `10,200,000`
+/viewauction `cef7854e3d8e4b88b8e3bc0f5e55c5e3` | Item: `lvl100 Ammonite LEGENDARY` | Price: `17,000,000` | Second LBIN: `19,650,000`
+/viewauction `2c29ec7efeff40c5b5ebc88bc995f9ee` | Item: `Soul Whip ✪ LEGENDARY` | Price: `11,998,999` | Second LBIN: `18,000,000` | Clean LBIN `10,990,000`
+/viewauction `d1ff5c615ad646d7ad401442f0a8bd1f` | Item: `Ancient Wither Goggles ✪✪✪✪✪ (re) (L5) LEGENDARY` | Price: `32,999,000` | Second LBIN: `47,999,999` | Clean LBIN `11,980,000`
+/viewauction `17b73cb8805b42e08f40fa66de862a65` | Item: `Frozen Scythe ✪✪✪✪✪ (re) (UW5) EPIC` | Price: `18,000,000` | Second LBIN: `23,950,000` | Clean LBIN `18,000,000`
+/viewauction `c6981b5598814b95972d4e2628d6dd1e` | Item: `Griffin Upgrade Stone (re) LEGENDARY` | Price: `7,900,000` | Second LBIN: `14,950,000` | Clean LBIN `7,900,000`
+/viewauction `0ef6735a65e84636af532f06c438d03d` | Item: `Wise Dragon Leggings ✪✪✪✪✪ LEGENDARY` | Price: `900,000` | Second LBIN: `2,300,000` | Clean LBIN `900,000`
+/viewauction `3984fb49612e45d99704356a67a69d5d` | Item: `Ancient Elegant Tuxedo Pants (re) MYTHIC` | Price: `16,000,000` | Second LBIN: `20,000,000` | Clean LBIN `16,000,000`
+/viewauction `79454725a390424b9249e8a36c233082` | Item: `Ancient Elegant Tuxedo Oxfords (re) MYTHIC` | Price: `16,800,000` | Second LBIN: `18,888,888` | Clean LBIN `16,800,000`
+/viewauction `9e84002cd38642e4b7448c89af0d1abc` | Item: ` Blue Whale LEGENDARY` | Price: `17,000,000` | Second LBIN: `18,990,000` | Clean LBIN `17,000,000`
+/viewauction `ee08adc8ec984da0b61a423eca17ad25` | Item: `Ancient Crimson Boots (re) MYTHIC` | Price: `8,000,000` | Second LBIN: `9,000,000` | Clean LBIN `8,000,000`
+/viewauction `53e83c8158a1467a83bcc32522137743` | Item: `Wise Dragon Helmet ✪✪✪✪✪ LEGENDARY` | Price: `900,000` | Second LBIN: `1,900,000` | Clean LBIN `765,000`
+/viewauction `9b61a5c4b28d49d0a51cb53bddda66af` | Item: `Synthesizer v3 EPIC` | Price: `18,000,000` | Second LBIN: `21,999,999`
+/viewauction `dfd9b51bbfe4428c8502ce7b01028f34` | Item: `Ancient Maxor's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `14,000,000` | Second LBIN: `15,800,000` | Clean LBIN `6,400,000`
+/viewauction `4683c779f53945e998080933ff09a1e6` | Item: `Necron's Chestplate ✪✪✪✪ LEGENDARY` | Price: `28,000,000` | Second LBIN: `32,299,999` | Clean LBIN `22,970,000`
+/viewauction `140cf9f2a0684c90a65681763863149f` | Item: `Giant Mender Crown ✪✪✪✪✪ (re) LEGENDARY` | Price: `17,500,000` | Second LBIN: `23,000,000` | Clean LBIN `14,300,000`
+/viewauction `208344cc14c142cca176c34c984dbd24` | Item: `Giant Necromancer Lord Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `10,000,000` | Second LBIN: `11,999,990` | Clean LBIN `8,000,000`
+/viewauction `6c4ef3f75b2043d98c552f2ee6be5933` | Item: `Ancient Crimson Helmet (re) MYTHIC` | Price: `8,000,000` | Second LBIN: `9,000,000` | Clean LBIN `6,600,000`
+/viewauction `7b4807c5b9bc4969a343cc7a2d4472c8` | Item: `Ice Spray Wand ✪✪✪✪✪ RARE` | Price: `22,000,000` | Second LBIN: `24,500,000` | Clean LBIN `22,000,000`
+/viewauction `e83638d9f69e416c818b16dcb0a1c47d` | Item: `Ancient Final Destination Leggings LEGENDARY` | Price: `670,000` | Second LBIN: `2,000,000` | Clean LBIN `670,000`
+/viewauction `6aaadf942efd4992830726642b33ce0b` | Item: `Ancient Necron's Leggings ✪✪✪✪✪ LEGENDARY` | Price: `22,000,000` | Second LBIN: `25,000,000` | Clean LBIN `13,900,000`
+/viewauction `96b95d3939034a7e8429e9f6aa2b5e3b` | Item: `Ancient Final Destination Boots LEGENDARY` | Price: `380,000` | Second LBIN: `1,490,000` | Clean LBIN `380,000`
+/viewauction `8a53573512664bb29f1df1fc90814e3a` | Item: `New Year Cake (Year 199) SPECIAL` | Price: `225,000` | Second LBIN: `2,000,000`
+/viewauction `9ec32f7bc3e64189a8f2378a1a782ff7` | Item: `Ancient Golden Sadan Head ✪✪✪✪✪ SPECIAL` | Price: `5,000,000` | Second LBIN: `6,700,000` | Clean LBIN `2,800,000`
+/viewauction `b54798a489f94510bb245be07b382065` | Item: `Withered Flower of Truth ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `13,000,000` | Second LBIN: `14,500,000` | Clean LBIN `8,500,000`
+/viewauction `50381c4793a04741bab2fc8ff539bfa3` | Item: `Ancient Final Destination Chestplate LEGENDARY` | Price: `950,000` | Second LBIN: `2,300,000` | Clean LBIN `880,000`
+/viewauction `c64fcf5c5aed4402bba3633eb39069a6` | Item: `Skeleton Master Boots ✪✪✪✪✪ LEGENDARY` | Price: `1,000,000` | Second LBIN: `3,000,000` | Clean LBIN `200,000`
+/viewauction `d2687e9cac1b4a3c8b81597d18a81ed6` | Item: `lvl>75 Rabbit EPIC` | Price: `1,200,000` | Second LBIN: `3,990,000`
+/viewauction `52ade82f956c483cb5660b51b93a9086` | Item: `Skeleton Master Leggings ✪✪✪✪✪ LEGENDARY` | Price: `1,000,000` | Second LBIN: `3,500,000` | Clean LBIN `250,000`
+/viewauction `53b362ca86c24d7f8407928f2036993e` | Item: `Giant Reaper Mask LEGENDARY` | Price: `7,900,000` | Second LBIN: `19,999,990` | Clean LBIN `7,900,000`
+/viewauction `e18f789eee124d5f8de5b1e4c0cecb7b` | Item: `Wither Helmet ✪✪✪ LEGENDARY` | Price: `2,499,000` | Second LBIN: `4,000,000` | Clean LBIN `2,099,999`
+/viewauction `48abb47400494f449e9780c1891ec744` | Item: `Ancient Cheap Tuxedo Jacket EPIC` | Price: `650,000` | Second LBIN: `2,500,000` | Clean LBIN `600,000`
+/viewauction `b1235c25f37f4222b6d20647fa4d026b` | Item: `Giant Goldor's Leggings ✪✪✪ LEGENDARY` | Price: `16,000,000` | Second LBIN: `130,000,000` | Clean LBIN `5,899,999`
+/viewauction `c7e7b897c34b4e008a33e4eee6b0a225` | Item: `⚚ Ancient Shadow Assassin Chestplate ✪✪✪ LEGENDARY` | Price: `20,000,000` | Second LBIN: `40,000,000` | Clean LBIN `18,800,000`
+/viewauction `578b0a76ba554dadae4f8cb838b92270` | Item: `Ancient Golden Necron Head ✪✪✪✪✪ SPECIAL` | Price: `22,000,000` | Second LBIN: `25,990,000` | Clean LBIN `22,000,000`
+/viewauction `555aff2e7ff14aa8b9993350c5585fa3` | Item: `Giant Reaper Mask LEGENDARY` | Price: `9,000,000` | Second LBIN: `19,999,990` | Clean LBIN `7,999,999`
+/viewauction `5616bd2f76db48baa3661800341ecb78` | Item: `Fabled Firedust Dagger (re) EPIC` | Price: `10,490,000` | Second LBIN: `11,890,000` | Clean LBIN `10,490,000`
+/viewauction `c5b3b3d7ec7e46ceb7b0875965f9e823` | Item: `Phantom Rod ✪✪✪✪✪ LEGENDARY` | Price: `2,000,000` | Second LBIN: `3,500,000` | Clean LBIN `1,240,000`
+/viewauction `d3a0d4be80be4b8983d86db45d2f7aad` | Item: `Crab Hat of Celebration - 2022 Edition SPECIAL` | Price: `1,000,000` | Second LBIN: `2,390,000`
+/viewauction `ec9433bcecf34717926c0c1d70ae3b5e` | Item: `Withered Twilight Dagger RARE` | Price: `5,000,000` | Second LBIN: `7,290,000` | Clean LBIN `5,000,000`
+/viewauction `60e40e859a9b48f1b343c00c91d4966c` | Item: `lvl>75 Griffin EPIC` | Price: `9,000,000` | Second LBIN: `10,500,000`
+/viewauction `519a0280fd3a46e1bc56e2cd9d81de7b` | Item: `Frozen Scythe (UW5) RARE` | Price: `10,500,000` | Second LBIN: `25,000,000` | Clean LBIN `6,999,000`
+/viewauction `f3ed5b5fab734aceb2e8e2c332a55d59` | Item: `Wither Goggles ✪✪✪✪✪ EPIC` | Price: `5,000,000` | Second LBIN: `6,400,000` | Clean LBIN `5,000,000`
+/viewauction `e0dfa420f4cf4e179370c1c45542ef91` | Item: `lvl100 Skeleton LEGENDARY` | Price: `13,000,000` | Second LBIN: `16,500,000`
+/viewauction `7edbeab6c26341079ecb03fe87955f34` | Item: `Florid Zombie Sword ✪✪✪✪✪ (UW5) LEGENDARY` | Price: `5,000,000` | Second LBIN: `7,000,000` | Clean LBIN `2,480,000`
+/viewauction `bde918c7b38844699e05bb073cadad20` | Item: `Giant Protector Dragon Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `2,400,000` | Second LBIN: `4,000,000` | Clean LBIN `120,000`
+/viewauction `ae3ad13a53f045c790fe189ca59e6e3b` | Item: `Ancient Superior Dragon Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `15,000,000` | Second LBIN: `27,999,999` | Clean LBIN `14,000,000`
+/viewauction `8395edb21a4d44e4917372edb99646df` | Item: `Ancient Superior Dragon Helmet ✪✪✪✪✪ (re) MYTHIC` | Price: `11,000,000` | Second LBIN: `12,800,000` | Clean LBIN `10,000,000`
+/viewauction `02a62519a1d941129c8dbd3442578329` | Item: `Revenant Falchion RARE` | Price: `350,000` | Second LBIN: `1,400,000`
+/viewauction `e50638a4754e42c4b0a5d0c7825631fe` | Item: `Fabled Livid Dagger ✪✪ LEGENDARY` | Price: `7,498,000` | Second LBIN: `9,321,001` | Clean LBIN `6,489,000`
+/viewauction `e23466074b474142ac6119803574aeb6` | Item: `Juju Shortbow ✪✪✪ EPIC` | Price: `5,318` | Second LBIN: `18,400,000` | Clean LBIN `5,318`
+/viewauction `2a6d4703ba37438fac690f15ad2a8564` | Item: `Spiritual Juju Shortbow ✪✪✪✪✪ (re) (SE5 ,Ov5) LEGENDARY` | Price: `45,000,000` | Second LBIN: `54,696,969` | Clean LBIN `23,499,000`
+/viewauction `495e1b69c7844e088b0bc6a4367638a1` | Item: `Fabled Reaper Falchion ✪✪✪✪✪ (re) (OFA) LEGENDARY` | Price: `10,000,000` | Second LBIN: `11,999,998` | Clean LBIN `7,999,999`
+/viewauction `9bd6725c381e460e971babad20a366d3` | Item: `Fabled Livid Dagger (OFA) LEGENDARY` | Price: `12,498,000` | Second LBIN: `15,000,000` | Clean LBIN `6,489,000`
+/viewauction `6caf3374b1cf4e25aac9df665ccbe589` | Item: `Necromancer Sword (UW5) LEGENDARY` | Price: `8,800,000` | Second LBIN: `10,980,000` | Clean LBIN `8,800,000`
+/viewauction `234a316ea1be4c40a50bd5829df82afd` | Item: `Flower of Truth ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `13,000,000` | Second LBIN: `14,500,000` | Clean LBIN `8,500,000`
+/viewauction `f07238c3b23a42909cf924aaddf8cc82` | Item: `Runaan's Bow ✪ LEGENDARY` | Price: `550,000` | Second LBIN: `1,650,000` | Clean LBIN `370,000`
+/viewauction `e1b243e485124d6aae16b52e86dc12d2` | Item: `Withered Ragnarock Axe RARE` | Price: `5,500,000` | Second LBIN: `10,000,000` | Clean LBIN `135,000`
+/viewauction `3fb389fac49d41899214475c051fce94` | Item: `Storm's Helmet ✪✪✪✪ LEGENDARY` | Price: `4,600,000` | Second LBIN: `5,990,000` | Clean LBIN `4,499,999`
+/viewauction `890a02b237524c55b34c182808bf4f4b` | Item: `Adaptive Chestplate ✪✪✪✪✪ EPIC` | Price: `2,700,000` | Second LBIN: `5,500,000` | Clean LBIN `2,500,000`
+/viewauction `73fc847442744752a1899971c0a680b9` | Item: `Storm's Boots ✪✪✪✪ LEGENDARY` | Price: `9,000,000` | Second LBIN: `45,000,000` | Clean LBIN `3,699,000`
+/viewauction `ad94606f3d854221ab7a0959801f31c8` | Item: `Withered Voidedge Katana RARE` | Price: `1,300,000` | Second LBIN: `2,590,000` | Clean LBIN `599,000`
+/viewauction `c8715f5862f54cfc80de83a488daf674` | Item: `Spirit Sceptre ✪✪✪ (UW5) LEGENDARY` | Price: `16,000,000` | Second LBIN: `18,000,000` | Clean LBIN `14,698,000`
+/viewauction `c73e5c17c63d4b2ba4415718d1102a55` | Item: `Loving Necromancer Lord Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `11,000,000` | Second LBIN: `15,000,000` | Clean LBIN `8,070,000`
+/viewauction `6b9d56366971479098973244054f73a2` | Item: `Adaptive Leggings ✪✪✪✪✪ EPIC` | Price: `250,000` | Second LBIN: `1,400,000` | Clean LBIN `150,000`
+/viewauction `6fb483319cd54e95880de2ab81bf5b70` | Item: `Ancient Terror Boots (re) MYTHIC` | Price: `5,900,000` | Second LBIN: `10,000,000` | Clean LBIN `5,900,000`
+/viewauction `a14b79aef13d4782aeac070bfa29ac16` | Item: `Fabled Flower of Truth ✪✪✪ LEGENDARY` | Price: `4,000,000` | Second LBIN: `7,500,000` | Clean LBIN `3,698,000`
+/viewauction `97cbbbd0644a45f1b68ee2b285e3ec06` | Item: `Fabled Voidedge Katana RARE` | Price: `600,000` | Second LBIN: `1,800,000` | Clean LBIN `599,000`
+/viewauction `0ab5c78b866742b6a4472b750df75828` | Item: `Magma Lord Helmet (re) (L5) MYTHIC` | Price: `44,444,400` | Second LBIN: `49,999,999` | Clean LBIN `27,777,777`
+/viewauction `93ee2992f40446c383a197a48483fd9f` | Item: `Leggings of the Rising Sun EPIC` | Price: `7,000,000` | Second LBIN: `9,000,000`
+/viewauction `46944c5655b34b18b022042773ad6552` | Item: `Fabled Flower of Truth ✪✪✪ LEGENDARY` | Price: `5,890,000` | Second LBIN: `7,500,000` | Clean LBIN `3,698,000`
+/viewauction `4f55e703aea14ee1a5b87c1386a38336` | Item: `⚚ Shadow Assassin Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `5,700,000` | Second LBIN: `8,700,000` | Clean LBIN `5,700,000`
+/viewauction `40acca5eb5ec49dda50b4fa6c8bc43f2` | Item: `Fabled Reaper Falchion ✪ (OFA) EPIC` | Price: `8,400,000` | Second LBIN: `11,900,000` | Clean LBIN `3,100,000`
+/viewauction `612afd3487344769b9119f4c0419938e` | Item: `⚚ Shadow Assassin Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `5,100,000` | Second LBIN: `7,200,000` | Clean LBIN `5,100,000`
+/viewauction `419c9f2b61b3407c9e5e43d1d474faee` | Item: `⚚ Shadow Assassin Leggings ✪✪✪✪✪ LEGENDARY` | Price: `4,490,000` | Second LBIN: `5,800,000` | Clean LBIN `4,490,000`
+/viewauction `524069a8c8134540a61a9c2c302f8d0d` | Item: `Storm's Leggings ✪✪ LEGENDARY` | Price: `7,500,000` | Second LBIN: `8,500,000` | Clean LBIN `7,500,000`
+/viewauction `1c8cf314fd8b48c8a87cf77fd2844d88` | Item: `lvl100 Wolf LEGENDARY` | Price: `12,999,999` | Second LBIN: `15,300,000`
+/viewauction `9e3b7b9f0554443b86df8016b888dc98` | Item: `⚚ Shadow Assassin Helmet ✪✪✪✪✪ LEGENDARY` | Price: `2,400,000` | Second LBIN: `3,400,000` | Clean LBIN `2,399,000`
+/viewauction `e82a962e45784e1893ba53cad6780713` | Item: `Aspect of the Dragons ✪✪✪✪✪ (re) MYTHIC` | Price: `6,000,000` | Second LBIN: `11,500,000` | Clean LBIN `5,000,000`
+/viewauction `d0384d6b6d5c45bd95272ebb70029715` | Item: `Withered Flower of Truth ✪✪✪ LEGENDARY` | Price: `4,500,000` | Second LBIN: `7,000,000` | Clean LBIN `3,650,000`
+/viewauction `20f151604fa24f649ac34d58eb1ad8e4` | Item: `Fel Sword ✪✪✪✪✪ EPIC` | Price: `600,000` | Second LBIN: `1,600,000` | Clean LBIN `400,000`
+/viewauction `211ed0567a574f7190abb92af0e295c9` | Item: `Fabled Reaper Falchion ✪✪✪✪✪ (OFA) EPIC` | Price: `8,000,000` | Second LBIN: `10,000,000` | Clean LBIN `3,100,000`
+/viewauction `80167293540544958ee133b58b31f874` | Item: `Renowned Superior Dragon Chestplate ✪✪✪✪✪ (re) MYTHIC` | Price: `25,500,000` | Second LBIN: `29,999,999` | Clean LBIN `14,000,000`
+/viewauction `82b818c28eb544ddaa369014ace340cc` | Item: `Snow Suit Boots EPIC` | Price: `200,000` | Second LBIN: `4,000,000`
+/viewauction `7c45b6a366d54613aa051b0ed62a3666` | Item: `Giant Mender Crown ✪✪✪✪✪ (re) LEGENDARY` | Price: `15,000,000` | Second LBIN: `23,000,000` | Clean LBIN `14,300,000`
+/viewauction `1359f60aa44b415c83853b271353aff6` | Item: `Storm's Chestplate LEGENDARY` | Price: `12,000,000` | Second LBIN: `16,500,000`
+/viewauction `6dd9ba44778d49b79ab093fca86e385e` | Item: `Ancient Tarantula Helmet ✪✪✪✪✪ EPIC` | Price: `600,000` | Second LBIN: `2,100,000` | Clean LBIN `540,000`
+/viewauction `9eeb0881891f4ca3907672cadf0f2f06` | Item: `Werewolf Boots ✪ LEGENDARY` | Price: `230,000` | Second LBIN: `3,000,000` | Clean LBIN `230,000`
+/viewauction `5d0cdde7d0494704a313ee6f2561e506` | Item: `Snow Suit Boots EPIC` | Price: `110,000` | Second LBIN: `4,000,000`
+/viewauction `bd7003e68bdb49a6886774ba77c5ef0b` | Item: `Recall Potion EPIC` | Price: `35,000,000` | Second LBIN: `90,000,000`
+/viewauction `f038249b32cb4142899ae77dbcf483b7` | Item: `Flower of Truth ✪✪ (UW5) LEGENDARY` | Price: `5,500,000` | Second LBIN: `6,999,999` | Clean LBIN `3,650,000`
+/viewauction `9119a6cfa9de4d59aa75376003d0a02e` | Item: `Ancient Superior Dragon Boots ✪✪✪✪✪ LEGENDARY` | Price: `7,500,000` | Second LBIN: `14,000,000` | Clean LBIN `3,989,000`
+/viewauction `9cb8fb19ba644e78b5bdfaa0c5becd89` | Item: `Storm's Leggings ✪ LEGENDARY` | Price: `5,000,000` | Second LBIN: `8,000,000` | Clean LBIN `5,000,000`
+/viewauction `2b400e7c762a4a70902ba16ea97c6d05` | Item: `Yeti Sword ✪✪ (UW5) LEGENDARY` | Price: `53,000,000` | Second LBIN: `60,000,000` | Clean LBIN `47,900,000`
+/viewauction `76b5358660764429b25f9a2d61ec16f7` | Item: `Precursor Eye ✪✪✪✪ LEGENDARY` | Price: `23,000,000` | Second LBIN: `26,000,000` | Clean LBIN `23,000,000`
+/viewauction `0f8aa15396f643e8a953aabfb67b37a7` | Item: `Soul Whip ✪ LEGENDARY` | Price: `12,500,000` | Second LBIN: `18,000,000` | Clean LBIN `11,000,000`
+/viewauction `14c75509927147298dc5e789512a0217` | Item: `Frozen Scythe ✪✪ RARE` | Price: `6,700,000` | Second LBIN: `14,000,000` | Clean LBIN `6,700,000`
+/viewauction `f6df2f4cb8f743ffb35b98aef35caffe` | Item: `Boots of the Rising Sun EPIC` | Price: `4,000,000` | Second LBIN: `12,000,000`
+/viewauction `460015c513cf4819a849b0da5a7440f2` | Item: `Ancient Necron's Helmet ✪✪✪ LEGENDARY` | Price: `11,500,000` | Second LBIN: `14,000,000` | Clean LBIN `10,000,000`
+/viewauction `a99d8d7b84284a33a9dd59ca83c8bf6e` | Item: `⚚ Giant Shadow Assassin Helmet ✪✪ ✦ LEGENDARY` | Price: `3,000,000` | Second LBIN: `5,000,000` | Clean LBIN `2,300,000`
+/viewauction `698089068f0d47538bb28cea7ef9c727` | Item: `Lava Shell Necklace EPIC` | Price: `4,000,000` | Second LBIN: `5,000,000`
+/viewauction `a4d02b8019b74249a2327c426a916f63` | Item: `Fabled Livid Dagger ✪ LEGENDARY` | Price: `6,480,000` | Second LBIN: `9,334,000` | Clean LBIN `6,480,000`
+/viewauction `5c26ea81720543c499db1426d48ff4df` | Item: `⚚ Shadow Assassin Leggings ✪ LEGENDARY` | Price: `4,500,000` | Second LBIN: `5,509,999` | Clean LBIN `4,500,000`
+/viewauction `bc8f0ddb2fc64419890cfd3fdfc50774` | Item: `Sorrow Boots (re) MYTHIC` | Price: `13,000,000` | Second LBIN: `15,500,000` | Clean LBIN `13,000,000`
+/viewauction `ee9b2fcad2844d51a5c7bdefb5039ff2` | Item: `Bonzo's Staff ✪✪✪✪✪ (UW5) RARE` | Price: `3,100,000` | Second LBIN: `9,000,000` | Clean LBIN `2,400,000`
+/viewauction `dfb11ac1cd9c46779882b3c18f7cc28d` | Item: `Yeti Sword ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `57,500,000` | Second LBIN: `66,000,000` | Clean LBIN `57,500,000`
+/viewauction `67f88c145c6040bdbc3f028e250d393d` | Item: `Snow Suit Boots EPIC` | Price: `3,000,000` | Second LBIN: `4,000,000`
+/viewauction `45a7c03704cc4b87a28559d776640867` | Item: `Boots of the Rising Sun EPIC` | Price: `450,000` | Second LBIN: `4,000,000`
+/viewauction `7bbaf08be38f4e7892cb856edce28b03` | Item: `Snow Suit Boots EPIC` | Price: `250,000` | Second LBIN: `3,000,000`
+/viewauction `55074bc9ca12432ab4ed04b0e875fd0a` | Item: `Wise Dragon Leggings LEGENDARY` | Price: `139,999` | Second LBIN: `1,250,000`
+/viewauction `8cefc860c8a944ef9c334224839a00d1` | Item: `Shadow Assassin Leggings ✪✪ (re) LEGENDARY` | Price: `4,400,000` | Second LBIN: `6,200,000` | Clean LBIN `4,400,000`
+/viewauction `d628677957b3492381c1d50a5bb68f16` | Item: `Livid Dagger ✪✪✪✪✪ (re) (UW5) MYTHIC` | Price: `14,000,000` | Second LBIN: `15,600,000` | Clean LBIN `13,000,000`
+/viewauction `67829a5a47c34d55b4cc061b10365d3c` | Item: `Spiritual Juju Shortbow ✪✪✪✪✪ EPIC` | Price: `18,000,000` | Second LBIN: `21,999,999` | Clean LBIN `16,450,000`
+/viewauction `4bad8218b08e48a3b7dfac07fa5557b4` | Item: `Ancient Crimson Boots LEGENDARY` | Price: `1,000,000` | Second LBIN: `2,390,000` | Clean LBIN `900,000`
+/viewauction `efa2752e98934ac6ae042e07d5495cf8` | Item: `Ancient Crimson Leggings LEGENDARY` | Price: `1,000,000` | Second LBIN: `2,000,000` | Clean LBIN `915,000`
+/viewauction `c10c7b82922c46418923d3a16230aa97` | Item: `Florid Zombie Sword ✪✪✪✪✪ (UW5) LEGENDARY` | Price: `4,999,999` | Second LBIN: `6,100,000` | Clean LBIN `2,400,000`
+/viewauction `d175ac2059e34b2c95d0f63015c3f239` | Item: `Livid Dagger ✪✪✪✪ LEGENDARY` | Price: `7,000,000` | Second LBIN: `8,800,000` | Clean LBIN `6,479,999`
+/viewauction `975e022b9cc1454cb12a6d603c11f28f` | Item: `⚚ Shadow Assassin Helmet ✪✪✪✪✪ LEGENDARY` | Price: `2,200,000` | Second LBIN: `3,300,000` | Clean LBIN `2,200,000`
+/viewauction `b4ec6f21e0384f728139adcf4a354979` | Item: `⚚ Shadow Assassin Leggings ✪✪✪✪✪ LEGENDARY` | Price: `4,400,000` | Second LBIN: `5,500,000` | Clean LBIN `4,400,000`
+/viewauction `9207895c145e44c2b7dff9d2c4faa477` | Item: `Ancient Golden Sadan Head ✪✪ SPECIAL` | Price: `4,200,000` | Second LBIN: `5,299,999` | Clean LBIN `2,899,800`
+/viewauction `a6f16d4c523c49998f45ecc6a9fb2c1f` | Item: `lvl>0 Skeleton Horse LEGENDARY` | Price: `1,000,000` | Second LBIN: `4,750,000`
+/viewauction `c50d6c4d97ef437e9c7080155c8f696b` | Item: `Maxor's Helmet ✪✪✪✪✪ (re) MYTHIC` | Price: `11,000,000` | Second LBIN: `13,500,000` | Clean LBIN `8,000,000`
+/viewauction `6cd7f98f4d0344cb8857d0efc6711b7e` | Item: `Perfect Chestplate - Tier III RARE` | Price: `1,638,400` | Second LBIN: `3,000,000`
+/viewauction `a96dc95f99d2428b8f6cbf216feff7b1` | Item: `Giant Necromancer Lord Boots ✪✪✪✪✪ LEGENDARY` | Price: `1,800,000` | Second LBIN: `2,900,000` | Clean LBIN `500,000`
+/viewauction `ef9a243f11664e09afa0459fea86250e` | Item: `Reaper Falchion ✪✪✪✪✪ (re) LEGENDARY` | Price: `8,000,000` | Second LBIN: `10,000,000` | Clean LBIN `7,999,999`
+/viewauction `828332038d744429b01eb0107dd1a7c3` | Item: `lvl100 Flying Fish MYTHIC` | Price: `53,000,000` | Second LBIN: `66,999,999`
+/viewauction `09b7a7ef7d3c4cc298be63605e332060` | Item: `Fabled Twilight Dagger (OFA) RARE` | Price: `5,500,000` | Second LBIN: `8,980,000` | Clean LBIN `2,900,000`
+/viewauction `9ef2475efcf54d2187cf8ef35b102911` | Item: `Fabled Firedust Dagger (OFA) RARE` | Price: `5,500,000` | Second LBIN: `9,000,000` | Clean LBIN `2,000,000`
+/viewauction `e0097628271f4dc09c45c8fb25c945a0` | Item: `Ancient Frozen Blaze Leggings ✪✪✪✪✪ LEGENDARY` | Price: `9,000,000` | Second LBIN: `10,500,000` | Clean LBIN `9,000,000`
+/viewauction `2df0473113ad4aa499b954f06a49acc4` | Item: `⚚ Shadow Assassin Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `20,500,000` | Second LBIN: `22,900,000` | Clean LBIN `18,700,000`
+/viewauction `3331930b234b46348dab0a403cd077f5` | Item: `Florid Zombie Sword (UW5) LEGENDARY` | Price: `4,800,000` | Second LBIN: `6,700,000` | Clean LBIN `2,400,000`
+/viewauction `3dccbe461deb417bab9d93fe3170429c` | Item: `Storm's Chestplate ✪✪✪ LEGENDARY` | Price: `18,500,000` | Second LBIN: `20,900,000` | Clean LBIN `16,500,000`
+/viewauction `42d8fbe968cb4a898e81fccb3d4616e3` | Item: `Withered Ragnarock Axe RARE` | Price: `5,200,000` | Second LBIN: `10,000,000` | Clean LBIN `140,000`
+/viewauction `3d6d35a42e70438da37e566f63bbedab` | Item: `Loving Final Destination Chestplate (re) MYTHIC` | Price: `9,000,000` | Second LBIN: `14,900,000` | Clean LBIN `6,999,999`
+/viewauction `7b494c2d1e0e41d38a327b545a156a29` | Item: `Withered Reaper Falchion ✪✪✪✪✪ (OFA) EPIC` | Price: `8,000,000` | Second LBIN: `14,000,000` | Clean LBIN `3,100,000`
+/viewauction `fa79ef322ddd42d4a7ff71cbd5d3e05d` | Item: `⚚ Ancient Shadow Assassin Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `6,000,000` | Second LBIN: `7,300,000` | Clean LBIN `5,200,000`
+/viewauction `e26e950e486d42cd9d61239dc0cf0c93` | Item: `Snow Suit Helmet EPIC` | Price: `630,000` | Second LBIN: `40,000,000`
+/viewauction `b34c4f0227764ed493dc0f6715c2e2c1` | Item: `Ancient Final Destination Leggings (re) MYTHIC` | Price: `8,000,000` | Second LBIN: `9,000,000` | Clean LBIN `7,999,999`
+/viewauction `710273e02fdd40948ff6aca328d024bc` | Item: `lvl>75 Enderman EPIC` | Price: `83,000` | Second LBIN: `3,000,000`
+/viewauction `ccf5778544e9449798857f070dd53d30` | Item: `Beastmaster Crest EPIC` | Price: `9,000,000` | Second LBIN: `10,300,000`
+/viewauction `e85a6b3e99f24bf4bbfc8e7578a24f83` | Item: `Golden Sadan Head ✪✪✪✪ SPECIAL` | Price: `3,000,000` | Second LBIN: `5,000,000` | Clean LBIN `2,899,800`
+/viewauction `e5f62d1f17174f87b4a3b1a243d60043` | Item: `Precursor Eye ✪✪✪✪ LEGENDARY` | Price: `21,000,000` | Second LBIN: `26,000,000` | Clean LBIN `21,000,000`
+/viewauction `8c919a09584a4ad1803dec308373e076` | Item: `Wise Loving Dragon Chestplate LEGENDARY` | Price: `999,000` | Second LBIN: `11,000,000` | Clean LBIN `795,000`
+/viewauction `c72014d4553b4cefb66fb64d73eaa397` | Item: `Egg Hunt COMMON` | Price: `399,000` | Second LBIN: `2,000,000`
+/viewauction `6e762fe4ecf1411691ea44a5ce767801` | Item: `Necromancer Lord Chestplate (re) MYTHIC` | Price: `9,000,000` | Second LBIN: `12,700,000` | Clean LBIN `9,000,000`
+/viewauction `301eca731f044c90bb12379f9b4d4784` | Item: `Maxor's Boots ✪✪✪✪ LEGENDARY` | Price: `8,000,000` | Second LBIN: `27,000,000` | Clean LBIN `2,100,000`
+/viewauction `22c988caf51e44b587e64f13d723eebd` | Item: `Parkour Checkpoint COMMON` | Price: `1,000,000` | Second LBIN: `5,000,000`
+/viewauction `b5f90517eb2f4608b7651af669fb097e` | Item: `Submerged Shark Scale Chestplate (re) (L5) MYTHIC` | Price: `10,000,000` | Second LBIN: `14,000,000` | Clean LBIN `4,999,999`
+/viewauction `10838f44abe84692beac5ecc7f659d8f` | Item: `Aspect of the Dragons ✪✪✪✪✪ (re) MYTHIC` | Price: `5,000,000` | Second LBIN: `6,000,000` | Clean LBIN `5,000,000`
+/viewauction `e7d7873e9fe8475397d74fab069dd752` | Item: `Fire Veil Wand (UW5) EPIC` | Price: `9,500,000` | Second LBIN: `12,500,000` | Clean LBIN `9,000,000`
+/viewauction `06e92ac46b94422a8b33caa39d85eada` | Item: `Stonk (re) LEGENDARY` | Price: `19,000,000` | Second LBIN: `49,999,000` | Clean LBIN `19,000,000`
+/viewauction `aa11593f5ce040c49e7be88900fbf65a` | Item: `Aspect of the Dragons ✪✪✪ (re) MYTHIC` | Price: `6,300,000` | Second LBIN: `8,999,999` | Clean LBIN `5,000,000`
+/viewauction `1aa04022aeae48c686b91a1e600c0d9a` | Item: `Withered Ragnarock Axe RARE` | Price: `3,000,000` | Second LBIN: `5,200,000` | Clean LBIN `140,000`
+/viewauction `f0279729b661484d9cbae48d95328efc` | Item: `Withered Livid Dagger ✪✪✪✪✪ (re) (OFA) MYTHIC` | Price: `16,000,000` | Second LBIN: `17,998,990` | Clean LBIN `13,000,000`
+/viewauction `1ad6fd7bd4a9467d81517db9b7690a98` | Item: `lvl>0 Skeleton Horse LEGENDARY` | Price: `2,250,000` | Second LBIN: `5,000,000`
+/viewauction `46448c374997402eadc31a67c78d2d4a` | Item: `⚚ Shadow Assassin Leggings ✪✪✪✪ LEGENDARY` | Price: `4,000,000` | Second LBIN: `5,500,000` | Clean LBIN `4,000,000`
+/viewauction `0f8605ba87c5405ba5b1cc23748bf4d4` | Item: `Precursor Eye ✪✪ LEGENDARY` | Price: `20,899,900` | Second LBIN: `24,000,000` | Clean LBIN `20,899,900`
+/viewauction `c5c0532ba9ba4e88bd0354093190edb9` | Item: `Fire Veil Wand (UW5) EPIC` | Price: `8,900,000` | Second LBIN: `12,490,000` | Clean LBIN `8,900,000`
+/viewauction `5bbbe3d83e7f4e49abe58a6681940f44` | Item: `Frozen Scythe (UW5) RARE` | Price: `10,500,000` | Second LBIN: `25,000,000` | Clean LBIN `6,800,000`
+/viewauction `ef42dbdb7dfe4b10ad4ee05dd3ad4002` | Item: `Strong Dragon Chestplate (re) MYTHIC` | Price: `4,599,999` | Second LBIN: `6,999,000` | Clean LBIN `4,599,999`
+/viewauction `febee9886b6b4f0398e7e25cf77e37d1` | Item: `lvl>90 Sheep LEGENDARY` | Price: `4,750,000` | Second LBIN: `5,790,000`
+/viewauction `a8550179f5f34551a91806d8e2f2e8ff` | Item: `Fabled Aspect of the Dragons ✪✪✪✪✪ LEGENDARY` | Price: `3,100,000` | Second LBIN: `4,500,000` | Clean LBIN `499,000`
+/viewauction `d575519ac0d740369a526d5a2c7a5e1c` | Item: `Maxor's Boots ✪✪✪✪ LEGENDARY` | Price: `6,000,000` | Second LBIN: `8,000,000` | Clean LBIN `2,100,000`
+/viewauction `33bbec1e2b954c43929d32a3bb31c2c9` | Item: `Boots of the Rising Sun EPIC` | Price: `8,888,888` | Second LBIN: `10,000,000`
+/viewauction `9641908ec4b04a938dd470f1779bc2a6` | Item: `Withered Livid Dagger ✪✪✪✪✪ LEGENDARY` | Price: `10,000,000` | Second LBIN: `12,500,000` | Clean LBIN `6,497,000`
+/viewauction `e9384d2cc12f45469eaf4364e1c79439` | Item: `Spirit Sword ✪✪ EPIC` | Price: `1,500,000` | Second LBIN: `2,500,000` | Clean LBIN `1,500,000`
+/viewauction `cece1d745f734aa2bd8a1f2deaf552e4` | Item: `Fabled Daedalus Axe (re) MYTHIC` | Price: `70,000,000` | Second LBIN: `79,999,999` | Clean LBIN `68,999,000`
+/viewauction `1969ff6918d84708a0f78fc76e83e1ae` | Item: `Perfect Loving Chestplate - Tier XII ✪✪✪✪✪ LEGENDARY` | Price: `8,999,000` | Second LBIN: `10,000,000` | Clean LBIN `7,480,000`
+/viewauction `6c887444e4aa4b05b602f6b9e9a94c7e` | Item: `Twilight Dagger RARE` | Price: `1,000,000` | Second LBIN: `2,900,000`
+/viewauction `fdb44d57b47549e18ffa3b8098f13332` | Item: `lvl>75 Phoenix EPIC` | Price: `5,000,000` | Second LBIN: `7,800,000`
+/viewauction `5784d03ed7924e75a59bd6ece4f62e21` | Item: `lvl>0 Squid COMMON` | Price: `250,000` | Second LBIN: `4,000,000`
+/viewauction `ee28208505004086a95f07696dd07d64` | Item: `Adaptive Chestplate ✪✪✪✪ EPIC` | Price: `3,000,000` | Second LBIN: `4,500,000` | Clean LBIN `2,570,000`
+/viewauction `d059405316654b0bb715da7f06a7ada7` | Item: `Maxor's Boots ✪✪✪✪✪ LEGENDARY` | Price: `5,500,000` | Second LBIN: `7,799,999` | Clean LBIN `2,100,000`
+/viewauction `5eee57e1572a4866935365dda2803698` | Item: `Storm's Boots ✪✪✪✪ LEGENDARY` | Price: `9,499,000` | Second LBIN: `45,000,000` | Clean LBIN `3,688,000`
+/viewauction `d92d7e1421d74474b00ddd0d2d95cab0` | Item: `Soul Whip ✪✪ (re) MYTHIC` | Price: `15,000,000` | Second LBIN: `24,000,000` | Clean LBIN `15,000,000`
+/viewauction `572694e39f474e90ab8ad8c4d9bc17b7` | Item: `Ancient Golden Sadan Head ✪✪✪✪✪ SPECIAL` | Price: `2,750,000` | Second LBIN: `6,599,000` | Clean LBIN `2,750,000`
+/viewauction `eec4ee80aaa9481c95705a56be9639ff` | Item: `lvl>75 Squid LEGENDARY` | Price: `12,000,000` | Second LBIN: `13,800,000`
+/viewauction `3f2d3ac723b3423eb7913dd4763cb54d` | Item: `Purple Jerry Talisman EPIC` | Price: `14,000,000` | Second LBIN: `16,399,999`
+/viewauction `0b0412593c674151b3c02c6dc405bd89` | Item: `Ancient Elegant Tuxedo Jacket LEGENDARY` | Price: `23,500,000` | Second LBIN: `27,000,000` | Clean LBIN `23,500,000`
+/viewauction `a87a0783c98c420198fede653a6e3c97` | Item: `lvl>90 Blaze LEGENDARY` | Price: `20,000,000` | Second LBIN: `28,800,000`
+/viewauction `6f81e2063ac94ea68e7b59c7da5326b6` | Item: `Superior Dragon Chestplate ✪ LEGENDARY` | Price: `11,200,000` | Second LBIN: `15,000,000` | Clean LBIN `7,799,000`
+/viewauction `7a8f119f4d244130bb6bbeb1ecefd80e` | Item: `Aspect of the Dragons ✪ (re) MYTHIC` | Price: `4,500,000` | Second LBIN: `11,111,000` | Clean LBIN `4,500,000`
+/viewauction `50e50451af694a909d7afc7691e25eea` | Item: `lvl>75 Wolf LEGENDARY` | Price: `2,500,000` | Second LBIN: `5,600,000`
+/viewauction `ddb820b416f94f4e8f2be3612c69806b` | Item: `lvl>75 Lion RARE` | Price: `480,000` | Second LBIN: `1,500,000`
+/viewauction `3dd439cbfca94f61891f7d1f1a5363ab` | Item: `Fabled Livid Dagger ✪✪✪✪ LEGENDARY` | Price: `8,400,000` | Second LBIN: `10,000,000` | Clean LBIN `6,497,000`
+/viewauction `dcde95c61cf545b6a3c279c425595df1` | Item: `lvl>0 Enderman ✦ EPIC` | Price: `700,000` | Second LBIN: `3,000,000` | Clean LBIN `96,000`
+/viewauction `a5f94e75912041ea8ed4611882b57ce5` | Item: `lvl>95 Bal LEGENDARY` | Price: `17,000,000` | Second LBIN: `20,000,000`
+/viewauction `919c5e448d0a42998597b7091e00c1b8` | Item: `Ancient Frozen Blaze Leggings ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `12,000,000` | Clean LBIN `10,000,000`
+/viewauction `c09734ad42ba41708a049bbf88cdf989` | Item: `Ancient Frozen Blaze Chestplate ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `12,400,000` | Clean LBIN `10,000,000`
+/viewauction `0ca6d57ba8aa42968d95b7c345f3a5a3` | Item: `Ancient Frozen Blaze Helmet ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `14,423,951` | Clean LBIN `10,000,000`
+/viewauction `317ef833635247f0866479f1603ea888` | Item: `Warning Flare UNCOMMON` | Price: `5,100,000` | Second LBIN: `7,100,000`
+/viewauction `f470f97f47ed4e558800045a5c236e99` | Item: `lvl>95 Blue Whale LEGENDARY` | Price: `21,999,999` | Second LBIN: `24,999,999`
+/viewauction `1d590814d5494ee79cfb544a281975a8` | Item: `Golden Sadan Head ✪✪✪✪✪ SPECIAL` | Price: `3,500,000` | Second LBIN: `5,800,000` | Clean LBIN `2,890,000`
+/viewauction `865c989a7f344fc3bc3c149863375b60` | Item: `Giant Mastiff Leggings EPIC` | Price: `900,000` | Second LBIN: `2,490,000` | Clean LBIN `650,000`
+/viewauction `4fa7f158c2cd4a8d822c54dd5439bdc3` | Item: `Spiritual Bonemerang ✪✪✪✪✪ (re) (Ov5) MYTHIC` | Price: `6,700,000` | Second LBIN: `8,000,000` | Clean LBIN `5,700,000`
+/viewauction `1a5aa30d0b1b42a9ae2c91f75280bffb` | Item: `Fabled Soul Whip ✪✪✪✪✪ LEGENDARY` | Price: `18,000,000` | Second LBIN: `20,500,000` | Clean LBIN `10,890,000`
+/viewauction `7ea8cc52a2804d88b3bd717800632d12` | Item: `Submerged Shark Scale Boots (re) MYTHIC` | Price: `6,000,000` | Second LBIN: `7,000,000` | Clean LBIN `4,699,999`
+/viewauction `629ffedf795941aaa2682dbda9b4898d` | Item: `⚚ Ancient Shadow Assassin Helmet ✪✪✪✪✪ (re) MYTHIC` | Price: `6,500,000` | Second LBIN: `7,900,000` | Clean LBIN `6,500,000`
+/viewauction `d5eaaf123d6a44af9bd2fbb109268e2d` | Item: `Ancient Frozen Blaze Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `10,000,000` | Second LBIN: `11,300,000` | Clean LBIN `10,000,000`
+/viewauction `4da29c38f0cd42498053a1c1982d0870` | Item: `Spiritual Juju Shortbow ✪✪✪✪✪ EPIC` | Price: `17,000,000` | Second LBIN: `21,999,999` | Clean LBIN `16,498,999`
+/viewauction `14f229f25ce04f41b31739964b78cf53` | Item: `Withered Twilight Dagger RARE` | Price: `4,000,000` | Second LBIN: `7,290,000` | Clean LBIN `1,000,000`
+/viewauction `33327829dc4b421cb54b24ab2ff92eb2` | Item: `⚚ Ancient Shadow Assassin Boots ✪✪✪✪✪ (re) MYTHIC` | Price: `5,000,000` | Second LBIN: `6,000,000` | Clean LBIN `5,000,000`
+/viewauction `343a439a715d44baba04dea34b54fb1e` | Item: `lvl>95 Skeleton LEGENDARY` | Price: `10,999,999` | Second LBIN: `14,000,000`
+/viewauction `6b2465a1559c42a0b858a45094905bdd` | Item: `lvl>0 Enderman ✦ EPIC` | Price: `1,000,000` | Second LBIN: `3,000,000` | Clean LBIN `96,000`
+/viewauction `7b67476636444675b1283678c1e8e1d0` | Item: `Maxor's Leggings ✪✪✪ (re) MYTHIC` | Price: `14,000,000` | Second LBIN: `355,000,000` | Clean LBIN `13,750,000`
+/viewauction `d3927db9d428469880da89d910dc9f7a` | Item: `Wise Dragon Leggings ✪ LEGENDARY` | Price: `1,500,000` | Second LBIN: `45,000,000` | Clean LBIN `1,450,000`
+/viewauction `1dbaced960e3470c8e1994b7b68caa60` | Item: `Juju Shortbow ✪ EPIC` | Price: `20,000,000` | Second LBIN: `28,000,000` | Clean LBIN `16,390,000`
+/viewauction `401bec216fc444bfb773d4da8466b36d` | Item: `Beastmaster Crest (re) LEGENDARY` | Price: `9,000,000` | Second LBIN: `18,500,000` | Clean LBIN `9,000,000`
+/viewauction `a66086af41c645fa80755cef561698dc` | Item: `Shadow Assassin Leggings ✪ EPIC` | Price: `5,000` | Second LBIN: `3,400,000` | Clean LBIN `5,000`
+/viewauction `96eb900dd3fd4bee95f4667df8d6f397` | Item: `Werewolf Chestplate ✪✪✪✪✪ LEGENDARY` | Price: `900,000` | Second LBIN: `2,999,999` | Clean LBIN `600,000`
+/viewauction `d548e6f67c954dcd9c895f291086bd89` | Item: `Livid Dagger (re) (OFA) MYTHIC` | Price: `16,450,000` | Second LBIN: `20,000,000` | Clean LBIN `13,000,000`
+/viewauction `86ea9d6dec8e47498fb68cbd3522e627` | Item: `Molten Necklace (re) LEGENDARY` | Price: `21,959,990` | Second LBIN: `50,000,000` | Clean LBIN `21,959,990`
+/viewauction `12109de8f9cb41df944550c778a18604` | Item: `lvl>75 Megalodon LEGENDARY` | Price: `6,000,000` | Second LBIN: `7,000,000`
+/viewauction `98f9615e248f4e78ba3d5945417747ef` | Item: `Boots of the Rising Sun EPIC` | Price: `5,555,555` | Second LBIN: `8,199,999`
+/viewauction `f742f4b3e0fd4c2095ce9e6ee013617b` | Item: `lvl>0 Bal EPIC` | Price: `6,500,000` | Second LBIN: `7,700,000`
+/viewauction `2bb414626cbc472c920714b0d5ed03d5` | Item: `⚚ Shadow Assassin Chestplate ✪✪ LEGENDARY` | Price: `17,500,000` | Second LBIN: `20,000,000` | Clean LBIN `17,500,000`

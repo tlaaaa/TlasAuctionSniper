@@ -622,7 +622,7 @@ def dostuff():
     global now, toppage
 
     # if 60 seconds have passed since the last update
-    if time.time() * 1000 > now + 58000:
+    if time.time() * 1000 > now + 59000:
         prevnow = now
         now = float('inf')
         try:
