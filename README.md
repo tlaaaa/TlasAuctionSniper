@@ -18,7 +18,7 @@
     1.3.1 Indicators for some more enchants (se5, l5, ov5 etc)
     1.4 !!! Shows clean prices on items, rarity indicator changed to an emote instead of the longer text! Lowest BIN -> LBIN
     1.4.1 bug fixes and added master stars to clean calculation
-
+    1.5 much faster, flip calculations happen in about 0.15 seconds so thats kinda op. might be a little more inaccurate but yeah
     
 VVVVVVV Things to Add VVVVVVV
 

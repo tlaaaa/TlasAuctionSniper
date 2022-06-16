@@ -4,14 +4,15 @@ from asyncio import sleep
 from os import path
 from collections import OrderedDict
 import time
+import discord
 
 import os
 TOKEN = os.getenv("TOKEN")
 
 os.environ['TZ'] = 'Australia/Sydney'
 time.tzset()
-
-replace = {'(re)':'🔼', 'COMMON':'Ⓒ', 'UNCOMMON':'Ⓤ', 'RARE':'Ⓡ', 'EPIC':'Ⓔ', 'LEGENDARY':'Ⓛ', 'MYTHIC':'Ⓜ', 'SPECIAL':'Ⓢ', 'VERY SPECIAL':'Ⓥ', 'DIVINE':'Ⓓ'}
+#Ⓛ
+replace = {'(re)':'🔼', 'UNCOMMON':'Ⓤ', 'COMMON':'Ⓒ', 'RARE':'Ⓡ', 'EPIC':'Ⓔ', 'LEGENDARY':'Ⓛ', 'MYTHIC':'Ⓜ', 'VERY_SPECIAL':'Ⓥ', 'SPECIAL':'Ⓢ', 'DIVINE':'Ⓓ', 'SUPREME':"<:supreme:902137363994644531>"}
 
 bot = commands.Bot(command_prefix = '.')
 
@@ -137,9 +138,10 @@ async def start_check(ctx):
 
 @bot.event
 async def on_ready():
+      await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="the ah"))
       print('bot started')
       while 1:
             await check_logs()
-            await sleep(0.25)
+            await sleep(0.05)
 
 bot.run(TOKEN)
