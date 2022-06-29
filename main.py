@@ -1,4 +1,9 @@
+from gevent import monkey
+monkey.patch_all()
+
 # modules
+from gevent.pywsgi import WSGIServer
+from flask_compress import Compress
 
 import asyncio
 from re import sub
@@ -13,6 +18,31 @@ import json
 os.environ['TZ'] = 'Australia/Sydney'
 time.tzset()
 
+#server hopefully
+from flask import Flask
+from threading import Thread
+from flask_restful import Resource, Api
+
+app = Flask('')
+
+compress = Compress()
+compress.init_app(app)
+api = Api(app)
+
+class main(Resource):
+  def get(self):
+    return apifinalresponse
+    
+api.add_resource(main, '/')
+
+def run():
+    print('api up!')
+    http_server = WSGIServer(('0.0.0.0', 8080), app)
+    http_server.serve_forever()
+
+
+t = Thread(target=run)
+t.start()
 
 # auction api
 
@@ -25,6 +55,7 @@ toppage = resp['totalPages']
 
 lm_results = []
 apiresponse = {}
+apifinalresponse = {}
 prices = {}
 
 # parts to remove
@@ -150,7 +181,8 @@ ignore_reforges_f2 = (  #rework to include all blacksmith and uselees stones
     "Glistening ",
     "Treacherous ",
     "Salty ",
-    "Candied ")
+    "Candied ",
+"Reforged ")
 
 # reforge filters
 
@@ -196,7 +228,15 @@ enchantstocheck = {
     'Overload V': 'Ov5',
     'Legion V': 'L5',
     'Ultimate Wise V': 'UW5',
-    'Pristine V': 'P5'
+    'Pristine V': 'P5',
+    'Wisdom V': 'W5',
+    'Swarm V': 'S5',
+    'Last Stand V': 'LS5',
+    'Inferno V': 'I5',
+    'Flash V': 'F5',
+    'Fatal Tempo V': 'FT5',
+    'Duplex V': 'D5',
+    'Chimera V': 'C5'
 }
 
 # the lowest price an item can have
@@ -239,7 +279,12 @@ def auc(auction):
             #bad reforge fixing
             for reforge in ignore_reforges_f2:
                 name = name.replace(reforge, "")
-
+            for r in REFORGES:
+                name = name.replace(r, "Reforged ")
+            if ('✪'  in name and name.count('✪') != 5):
+              name = name.replace(" ✪", "")
+              name = name.replace("✪", "")
+              
         #fix if wise/strong/sup/perfect/refined pick
             if auction['category'] == 'armor':
                 if "Wise Blood" in lore:
@@ -262,7 +307,7 @@ def auc(auction):
                 if e in lore:
                     enchants.append(enchantstocheck[e])
             if len(enchants):
-                ench = "".join([" ", "(", " ,".join(enchants), ")"])
+                ench = "".join([" ", "(", ", ".join(enchants), ")"])
                 name = str("".join([name, ench]))
             else:
                 ench = ""
@@ -341,21 +386,26 @@ def auc(auction):
                     1] < LARGE_MARGIN_P_M and prices[index][1] - prices[index][
                         0] >= LARGE_MARGIN and prices[index][0] <= F3_MAXCOST:
                 if prices[index][0] <= LARGE_MARGIN_MAXCOST:
+                    sendname = auction['item_name']
+                    if ench != "":
+                      sendname = "".join([sendname, ench])
+                    if "§ka§r" in lore:
+                      sendname = str(" ".join([sendname, "(re)"]))
+                    sendname = " ".join([sendname, tier])
                     if cleanindex:
                         lm_results.append([
-                            auction['uuid'], index, auction['starting_bid'],
+                            auction['uuid'], sendname, auction['starting_bid'],
                             index, cleanindex
                         ])
                     else:
                         lm_results.append([
-                            auction['uuid'], index, auction['starting_bid'],
+                            auction['uuid'], sendname, auction['starting_bid'],
                             index
                         ])
 
     except Exception as e:
         print("error! " + str(e))
         return
-
 
 def index(auction):
     try:
@@ -378,7 +428,12 @@ def index(auction):
             #bad reforge fixing
             for reforge in ignore_reforges_f2:
                 name = name.replace(reforge, "")
-
+            for r in REFORGES:
+                name = name.replace(r, "Reforged ")
+            if ('✪'  in name and name.count('✪') != 5):
+              name = name.replace(" ✪", "")
+              name = name.replace("✪", "")
+              
         #fix if wise/strong/sup/perfect/refined pick
             if auction['category'] == 'armor':
                 if "Wise Blood" in lore:
@@ -401,7 +456,7 @@ def index(auction):
                 if e in lore:
                     enchants.append(enchantstocheck[e])
             if len(enchants):
-                ench = "".join([" ", "(", " ,".join(enchants), ")"])
+                ench = "".join([" ", "(", ", ".join(enchants), ")"])
                 name = str("".join([name, ench]))
             else:
                 ench = ""
@@ -450,8 +505,6 @@ def index(auction):
                     prices[index][0] = auction['starting_bid']
                 elif prices[index][1] > auction['starting_bid']:
                     prices[index][1] = auction['starting_bid']
-
-
 # VV otherwise, it's added to the prices map
             else:
                 prices[index] = [auction['starting_bid'], float("inf")]
@@ -469,11 +522,9 @@ def index(auction):
                         auction['starting_bid'],
                         float("inf")
                     ]
-
     except Exception as e:
         print("error! " + str(e))
         return
-
 
 def fetch(session, page):
     global toppage
@@ -549,51 +600,96 @@ def main():
                     prices[entry[3]][1] - prices[entry[3]][0] >= LARGE_MARGIN
                     and prices[entry[3]][0] <= LARGE_MARGIN_MAXCOST):
                 if len(lm_results[e]) == 4:
-                    lm_results[e] = lm_results[e] + [prices[entry[1]][1]]
+                    lm_results[e] = lm_results[e] + [prices[entry[3]][1]]
                 else:
-                    lm_results[e] = lm_results[e] + [prices[entry[1]][1]]
+                    lm_results[e] = lm_results[e] + [prices[entry[3]][1]]
                     lm_results[e] = lm_results[e] + [prices[entry[4]][0]]
             else:
                 lm_results[e] = ""
     while '' in lm_results:
         lm_results.remove('')
-      
-    if len(lm_results):
-        for result in lm_results:
-          if result != "":
-            #print(result)
-            with open('./fliplogs/logs_f1.txt', 'a') as fAp2:
-              if len(result) == 7:
-                toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[5]) + " | Clean LBIN `{:,}`".format(result[6])
-              else:
-                toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[4])
-              fAp2.write(toprint)
-              #print(toprint)
-            with open('./fliplogs/logs_f2.txt', 'a') as fAp3:
-                  if len(result) == 7:
-                    toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[5]) + " | Clean LBIN `{:,}`".format(result[6])
-                  else:
-                    toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[4])
-                  fAp3.write(toprint)
-            with open('./fliplogs/logs_f2_2.txt', 'a') as fAp3_2:
-                if ('✪' not in str(result[1]) or str(result[1]).count('✪') == 5):
-                  if len(result) == 7:
-                    toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[5]) + " | Clean LBIN `{:,}`".format(result[6])
-                  else:
-                    toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[4])
-                  fAp3_2.write(toprint)
-            with open('./fliplogs/logs_f3.txt', 'a') as fAp4:
-                for reforge, AorWs in armour_weapon_meta_reforge_f3_remake.items():
-                    if reforge in str(result[1]) and any(substring in str(result[1]) for substring in AorWs) and ('✪' not in str(result[1]) or str(result[1]).count('✪') == 5):
-                      if len(result) == 7:
-                         toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[5]) + " | Clean LBIN `{:,}`".format(result[6])
-                      else:
-                        toprint = "\n" + "/viewauction `" + str(result[0]) + "` | Item: `" + str(result[1]) + "` | Price: `{:,}`".format(result[2]) + " | Second LBIN: `{:,}`".format(result[4])
-                      fAp4.write(toprint)
-    
 
-    print("time since api: " + str(round((time.time() - now/1000), 3)))
-    print("main() done " + str(round(default_timer() - flipstart, 3)))
+    apiresponse = {}
+    results = []
+    if len(lm_results):
+      for i in range(len(lm_results)):
+        result = lm_results[i]
+        tosend = {}
+        fliptype = []
+        tosend['uuid'] = result[0]
+        namerarity = result[1].split(' ')
+        if '(re)' in namerarity:
+          namerarity.remove('(re)')
+          tosend['recombobulated'] = 'true'
+        else:
+          tosend['recombobulated'] = 'false'
+        tosend['item_name'] = " ".join(namerarity[:-1])
+        tosend['tier'] = namerarity[-1]
+        tosend['price'] = result[2]
+        if len(result) == 5: #shorter
+          fliptype.append('normal')
+          tosend['next_lowest_bin'] = result[4]
+          tosend['estimated_profit'] = int((result[4] - result[2]) - result[4]*0.03)
+        else:
+          if ('✪' not in str(result[1]) or str(result[1]).count('✪') == 5):
+            fliptype.append('nicestars')
+            for reforge, AorWs in armour_weapon_meta_reforge_f3_remake.items():
+              if reforge in str(result[1]) and any(substring in str(result[1]) for substring in AorWs):
+                fliptype.append('nicereforge')
+          fliptype.append('normal')
+          tosend['next_lowest_bin'] = result[5]
+          tosend['estimated_profit'] = int((result[5] - result[2]) - result[5]*0.03)
+        tosend['fliptype'] = fliptype
+        
+        reqname = tosend['item_name']            
+        for reforge in ignore_reforges_f2:
+            reqname = reqname.replace(reforge, "")
+        for r in REFORGES:
+          if r in reqname:
+            reqname = reqname.replace(r, " ")
+        reqname = reqname.replace("⚚", "starred")
+        for star in STARS:
+            reqname = reqname.replace(star, "")
+        for mstar in MSTARS:
+            reqname = reqname.replace(mstar, "")
+        reqname = sub("[\(\[].*?[\)\]]", "", reqname)
+        reqnamel = reqname.split(" ")
+        while '' in reqnamel:
+          reqnamel.remove('')
+        reqname = "_".join(reqnamel).lower()
+        itemreq = reqname + '?Rarity=' + tosend['tier'] + "&Recombobulated=" + tosend['recombobulated']
+        #print(itemreq)
+        tosend['volume']=0
+        tosend['median']=0
+        try:
+            c = requests.get(
+                "https://sky.coflnet.com/api/item/price/"+itemreq)
+            type = str(c.headers['Content-Type'])
+            if c.ok and 'application/json; charset=utf-8' == type:
+                try:
+                    c = c.json()
+                    if c:
+                      tosend['volume']=c['volume']
+                      tosend['median']=c['median']
+                except ValueError:
+                    print('cofl: bad response')
+                    return
+            else:
+                print('cofl: not json response')
+                return
+        except Exception as e:
+            print('cofl: uh oh ' + str(e))
+            pass
+        
+        results.append(tosend)
+    apiresponse["lastupdated"] = str(int(time.time_ns() / 1e6))
+    apiresponse["auctions"] = results
+    apifinalresponse = apiresponse
+    #print(str(apiresponse))
+  
+    print("done " + str(round((time.time() - now/1000), 3)))
+
+
     with open("results.json", "w") as file:
         json.dump(lm_results, file)
 
@@ -622,7 +718,7 @@ def dostuff():
     global now, toppage
 
     # if 60 seconds have passed since the last update
-    if time.time() * 1000 > now + 59000:
+    if time.time() * 1000 > now + 58000:
         prevnow = now
         now = float('inf')
         try:
@@ -646,8 +742,10 @@ def dostuff():
                             return
                 except ValueError:
                     print('bad response')
+                    return
             else:
                 print('not json response')
+                return
         except Exception as e:
             print('uh oh error ' + str(e))
             pass
