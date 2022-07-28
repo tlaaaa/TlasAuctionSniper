@@ -2,7 +2,7 @@
 
 import asyncio
 from re import sub
-import os
+import os, sys
 op = os.name == 'nt'
 from concurrent.futures import ThreadPoolExecutor
 from timeit import default_timer
@@ -36,6 +36,8 @@ REFORGES = ("Withered ", "Fabled ", "Gilded ", "Warped ", "Jaded ", "Loving ",
             )  #only those that arent in ignore reforges f2
 COLOR = ("Red ", "Orange ", "Yellow ", "Lime ", "Green ", "Aqua ", "Purple ",
          "Pink ", "Black ")
+GSLOTS = ("[§7", "§f[", "§a[", "§9[", "§5[", "§6[")
+
 
 ignore_reforges_f2 = (  #rework to include all blacksmith and uselees stones
     #swords
@@ -275,6 +277,13 @@ def auc(auction):
             for e in enchantstocheck:
                 if e in lore:
                     enchants.append(enchantstocheck[e])
+            slots = False
+            for s in GSLOTS:
+                if s in lore:
+                  if "§8[§8" not in lore:
+                    slots = True
+            if slots:
+                  enchants.append("slots")
             if len(enchants):
                 ench = "".join([" ", "(", ", ".join(enchants), ")"])
                 name = str("".join([name, ench]))
@@ -424,6 +433,13 @@ def index(auction):
             for e in enchantstocheck:
                 if e in lore:
                     enchants.append(enchantstocheck[e])
+            slots = False
+            for s in GSLOTS:
+                if s in lore:
+                  if "§8[§8" not in lore:
+                    slots = True
+            if slots:
+                  enchants.append("slots")
             if len(enchants):
                 ench = "".join([" ", "(", ", ".join(enchants), ")"])
                 name = str("".join([name, ench]))
@@ -670,7 +686,7 @@ def dostuff():
                 print('not json response')
         except Exception as e:
             print('uh oh error ' + str(e))
-            pass
+            os.execv(sys.executable, ['python'] + sys.argv)
 
 
 while 1:
