@@ -1,3 +1,7 @@
+discord bot auction snipy thing
+fork of hydraxic's sniper, which is based off csjh's SkyblockSniper
+if you intend on running the code/forking it please let me know (my discord is on my profile)
+
     1.0.1 Added recom text
     1.0.2 recom text changed to up arrow
     1.0.3 ofa indicator
