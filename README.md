@@ -19,6 +19,8 @@
     1.4 !!! Shows clean prices on items, rarity indicator changed to an emote instead of the longer text! Lowest BIN -> LBIN
     1.4.1 bug fixes and added master stars to clean calculation
     1.5 much faster, flip calculations happen in about 0.15 seconds so thats kinda op. might be a little more inaccurate but yeah
+    1.6 Pushed changes from mod (1-4 star treated as 0, fabled/sus/withered treated as the same, shows reforge)
+    1.7 gemstone slots
     
 VVVVVVV Things to Add VVVVVVV
 
